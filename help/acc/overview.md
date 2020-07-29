@@ -1,10 +1,10 @@
 ---
-title: Didacticiels Adobe Campaign Classic - Présentation
+title: Tutorials Adobe Campaign Classic - Présentation
 description: Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l'orchestration visuelle de campagnes, la gestion d'interactions en temps réel et l'exécution cross-canal. Ce guide d'utilisation contient des vidéos et des didacticiels sur les nombreuses fonctionnalités et fonctionnalités de l'Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 25%
@@ -14,7 +14,7 @@ ht-degree: 25%
 
 # Présentation
 
-Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l&#39;exécution cross-canal. Ce guide d&#39;utilisation contient des vidéos et des didacticiels sur les nombreuses fonctionnalités et fonctionnalités d&#39;Adobe Campaign Classic.
+Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l&#39;exécution cross-canal. Ce guide d&#39;utilisation contient des vidéos et des didacticiels sur les nombreuses fonctionnalités et fonctionnalités de Adobe Campaign Classic.
 
 ## Nouveautés
 
@@ -28,7 +28,7 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
 
 * **[Définition de contenu de courrier électronique interactif avec AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
 
-   *Découvrez comment configurer l’Adobe Campaign de contenu de courrier électronique Classic(ACC) au format AMP.*
+   *Découvrez comment configurer le contenu de la messagerie Adobe Campaign Classic(ACC) au format AMP.*
 
 ## Sélection du personnel
 
@@ -61,11 +61,11 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
     <p>
   </td>
   <td>
-    <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
       <img alt="Personnaliser les courriers électroniques à l’aide de blocs de contenu dynamiques (vidéo)" src="./assets/ACC-Personalization.png" />
     </a>
     <div>
-      <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
     <strong>Personnalisation des courriers électroniques à l’aide de blocs de contenu dynamiques</strong>
     </a>
     </div>
