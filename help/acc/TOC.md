@@ -1,7 +1,7 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: Didacticiels Adobe Campaign Classic
+user-guide-title: Adobe Campaign Classic Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 15%
+source-wordcount: '323'
+ht-degree: 12%
 
 ---
 
@@ -23,22 +23,23 @@ ht-degree: 15%
 + [Présentation](/help/acc/overview.md)
 + Prise en main {#getting-started}
    + [Introduction à Adobe Campaign Classic](/help/acc/getting-started/introduction-to-adobe-campaign-classic.md)
-   + [Exploration de l’interface utilisateur d’Adobe Campaign Classic](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
+   + [Exploration de l’interface utilisateur de Adobe Campaign Classic](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Gestion des campagnes marketing](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [Création d’un plan marketing, de programmes et de campagnes](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Création d’une campagne et d’un courrier électronique](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
-   + [Création d&#39;une liste de destinataires](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [Création d’un processus](/help/acc/automating-with-workflows/creating-a-workflow.md)
-   + [Créer un workflow de ciblage](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [Gérer les semences et les BAT dans un courrier électronique](/help/acc/sending-messages/managing-seed-and-proofs.md)
+   + [Création d’une campagne et d’un courrier électronique](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+   + [Ciblage de profils dans un processus](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profile Management {#profile-management}
    + [Création et gestion de profils](/help/acc/profile-management/create-and-manage-profiles.md)
    + [Importer des profils](/help/acc/data-management/importing-profiles.md)  
+   + [Création d&#39;une liste de destinataires](/help/acc/profile-management/creating-a-list-of-recipients.md)
+   + [Création d’une liste de destinataires avec un processus](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Envoyer les messages{#sending-messages}
    + Email Channel{#email-channel}
       + [Création d’une campagne et d’un courrier électronique](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
       + [Gérer les semences et les BAT dans un courrier électronique](/help/acc/sending-messages/managing-seed-and-proofs.md)
-      + [Personnalisation des courriers électroniques à l’aide de blocs de contenu dynamiques](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
+      + [Personnalisation des courriers électroniques à l’aide de blocs de contenu dynamiques](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [Personnalisation des courriers électroniques à l’aide du champ de personnalisation](/help/acc/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [Personnalisation des courriers électroniques : créez un bulletin d&#39;information multilingue à l&#39;aide d&#39;un contenu conditionnel](/help/acc/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Configuration de campagnes par courrier électronique récurrentes et continues](/help/acc/sending-messages/recurring-deliveries.md)
       + [Définition de contenu interactif de courrier électronique avec AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Canal Push {#push-channel}
