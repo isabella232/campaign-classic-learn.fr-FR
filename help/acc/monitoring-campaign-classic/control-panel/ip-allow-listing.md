@@ -10,7 +10,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 2%
@@ -29,9 +29,7 @@ Le Panneau de Contrôle vous permet de configurer de nouvelles connexions à vos
 
 Pour accéder à la gestion des sous-domaines dans le Panneau de Contrôle, accédez à :
 
-* [Accueil](https://experience.adobe.com/#/home) de l’Experience Cloud > Sélecteur de solution : **[!DNL Campaign]** > Carte **[!UICONTROL Panneau de Contrôle]** > Carte des paramètres **** Instances
-
-   ou
+* [Accueil](https://experience.adobe.com/#/home) de l’Experience Cloud > Sélecteur de solution : **[!DNL Campaign]** > Carte **[!UICONTROL de Panneau de Contrôle]** > Carte des paramètres **** d’instances
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
 ## Comment liste autorisée des adresses IP
