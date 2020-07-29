@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 15%
+source-wordcount: '131'
+ht-degree: 16%
 
 ---
 
@@ -19,7 +19,8 @@ ht-degree: 15%
 # Délégation de sous-domaines
 
 >[!NOTE]
-> La délégation de sous-domaines du [!UICONTROL Panneau de Contrôle] sera disponible en version bêta d&#39;ici la fin janvier, sous réserve de
+
+> La délégation de sous-domaine du [!UICONTROL Panneau de Contrôle] est en version bêta et soumise à
 > mises à jour fréquentes et modifications sans préavis.
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
@@ -28,9 +29,7 @@ Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdoma
 
 Pour accéder à la gestion des sous-domaines dans [!UICONTROL Panneau de Contrôle], accédez à :
 
-* [Accueil](https://experience.adobe.com/#/home) de l’Experience Cloud > Sélecteur de solution : **[!DNL Campaign]** > Carte de **[!UICONTROL Panneau de Contrôle]** > **Sous-domaines et certificats** > Carte
-
-   ou
+* [Accueil](https://experience.adobe.com/#/home) de l’Experience Cloud > Sélecteur de solution : **[!DNL Campaign]** > Carte **[!UICONTROL de Panneau de Contrôle]** > **Sous-domaines et certificat** Cardor
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Comment déléguer des sous-domaines
