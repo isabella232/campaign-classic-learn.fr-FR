@@ -4,9 +4,9 @@ description: Adobe Campaign offre une plate-forme pour concevoir des expérienc
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '247'
 ht-degree: 25%
 
 ---
@@ -49,28 +49,28 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
   </td>
    <td>
     <a href="./monitoring-campaign-classic/audit-trail.md">
-      <img alt="Piste d’audit (vidéo)" src="./assets/acc-audit-trail.png" />
+      <img alt="Piste d’audit (vidéo)" src="./assets/acc-audit-trail-thumb.png" />
     </a>
     <div>
       <a href="./monitoring-campaign-classic/audit-trail.md">
     <strong>Suivi</strong>
     </a>
-    </div>
+    </div> 
     <p>
     <em>Capturer une liste complète d'actions et de événements se produisant dans l'Adobe Campaign.</em>
     <p>
   </td>
   <td>
-    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-      <img alt="Personnaliser les courriers électroniques à l’aide de blocs de contenu dynamiques (vidéo)" src="./assets/ACC-Personalization.png" />
+    <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+      <img alt="Définition de contenu de courrier électronique interactif avec AMP (vidéo)" src="./assets/29940.png" />
     </a>
     <div>
-      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-    <strong>Personnalisation des courriers électroniques à l’aide de blocs de contenu dynamiques</strong>
+      <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+    <strong>Définition de contenu interactif de courrier électronique avec AMP</strong>
     </a>
     </div>
     <p>
-    <em>Personnalisez les messages à l’aide de critères provenant de profils destinataires. </em>
+    <em>Découvrez comment activer et utiliser AMP dans Adobe Campaign Classic </em>
     <p>
   </td>
 </tr>
