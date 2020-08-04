@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: c7505e00eaf83336a2fdd76f489674928ea22b85
+source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '346'
 ht-degree: 12%
 
 ---
@@ -58,6 +58,9 @@ ht-degree: 12%
 + Automatisation avec le processus{#automating-with-workflows}
    + [Création d’un processus](/help/acc/automating-with-workflows/creating-a-workflow.md)
    + [Créer un workflow de ciblage](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
+   + [Affinage des cibles en combinant les résultats des requêtes](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
+   + [Affinage des cibles en excluant les résultats des requêtes](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+   + [Création de listes avec un processus](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
    + [Configuration des workflows de validation](/help/acc/automating-with-workflows/validation-flow-configuration.md)
    + [Configuration des activités d’Enrichissement](/help/acc/automating-with-workflows/enrichment-activity.md)
    + [Segmentation des données](/help/acc/data-management/data-segmentation.md)
