@@ -3,17 +3,17 @@ product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
-solution-title: Experience League
+solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutoriels
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
+source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 11%
+source-wordcount: '350'
+ht-degree: 26%
 
 ---
 
@@ -73,20 +73,19 @@ ht-degree: 11%
    + [Comment intégrer Dynamics 365 à Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
 + Administration {#administrating}
    + Panneau de contrôle {#control-panel-acc}
-      + [Présentation du Panneau de Contrôle](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [Surveillance de la capacité du serveur, autorisation de la liste des adresses IP et ajout de clés SSH](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [Génération d&#39;une clé SSH](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
+      + [Présentation du panneau de contrôle](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
+      + [Surveillance de la capacité du serveur, ajout d’adresses IP aux listes autorisées et ajout de clés SSH](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+      + [Génération d’une clé SSH](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
       + [Connexion à un serveur SFTP](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
       + [Délégation de sous-domaines](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-      + [Ajouter des certificats SSL](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [Gestion des certificats SSL](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
-      + [Ajouter les autorisations d’URL](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
+      + [Ajout de certificats SSL](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
+      + [ajouter les autorisations d’URL](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
       + [Liste des autorisations IP pour l’accès aux instances](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Gestion des enregistrements TXT Google](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + Gestion des clés GPG {#gpg-key-management}
-         + [Gestion des clés GPG - présentation](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [Génération et installation de clés GPG pour le chiffrement des données](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [Utilisation d’une clé GPG pour chiffrer des données](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+         + [Gestion des clés GPG - Présentation](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
+         + [Génération et installation de clés GPG pour le cryptage des données](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [Utilisation d’une clé GPG pour crypter des données](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
          + [Décrypter des données](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Dépannage du Panneau de Contrôle](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Accéder à une base externe (FDA) {#fda}
