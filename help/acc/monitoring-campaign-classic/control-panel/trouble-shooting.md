@@ -1,68 +1,68 @@
 ---
-title: Panneau de Contrôle de tir problématique
-description: Le Panneau de Contrôle vous permet de surveiller et de gérer votre enregistrement SFTP par instance et par liste autorisée d’adresses IP.
+title: Résolution des problèmes du panneau de contrôle
+description: Le panneau de contrôle permet de surveiller et de gérer votre capacité de stockage SFTP par instance et d’ajouter des adresses IP aux listes autorisées.
 feature: Control Panel
 topics: Control Panel
 kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '351'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Panneau de Contrôle de prise de vue problématique]
+# Résolution des problèmes du [!UICONTROL panneau de contrôle]
 
-## Connexion et page d&#39;accueil
+## Connexion et page d’accueil
 
-### Symptôme : Impossible de se connecter à l&#39;Experience Cloud
+### Symptôme : impossible de se connecter à Experience Cloud
 
-**Que faire :**
-L’utilisateur doit localiser son ID d’organisation IMS (xxx). L’administrateur doit ajouter l’utilisateur au Profil de produits &quot;Campaign-xxx-Admins&quot; pour chaque instance qu’il souhaite gérer. Si l’utilisateur est un administrateur de toutes les instances, il peut encore être nécessaire de s’ajouter en tant qu’utilisateurs.
+**Solution :**
+L’utilisateur doit rechercher l’ID org. IMS (xxx). L’administrateur doit ajouter l’utilisateur au profil de produit « Campaign-xxx-Admins » pour chaque instance qu’il souhaite gérer. Si l’utilisateur est un administrateur de toutes les instances, il doit peut-être encore s’ajouter en tant qu’utilisateur.
 
-### Symptôme : Les liens de la page d’accueil de l’Experience Cloud vers le [!UICONTROL Panneau de Contrôle] d’accès n’apparaissent pas pour un utilisateur.
+### Symptôme : dans la page d’accueil Experience Cloud, les liens permettant d’accéder au [!UICONTROL panneau de contrôle] ne sont pas visibles pour un utilisateur.
 
-**Cause :**
-Les utilisateurs ne verront pas les liens tant qu’ils ne seront pas ajoutés en tant qu’utilisateurs au Profil de produits Campaign-xxx-Administrators/Admin __.
+**Cause :**
+un utilisateur ne verra pas les liens tant qu’il n’aura pas été ajouté en tant qu’utilisateur au profil de produit _Campaign-xxx-Administrators/Admin_.
 
-**Que faire :**
-L’administrateur doit ajouter l’utilisateur au Profil de produits _Campaign-xxx-Admins_ pour chaque instance qu’il souhaite gérer. Si l’utilisateur est un administrateur de toutes les instances, il peut encore être nécessaire de s’ajouter en tant qu’&quot;utilisateurs&quot;.
+**Solution :**
+l’administrateur doit ajouter l’utilisateur au profil de produit _Campaign-xxx-Admins_ pour chaque instance qu’il souhaite gérer. Si l’utilisateur est un administrateur de toutes les instances, il doit peut-être encore s’ajouter en tant qu’utilisateur.
 
-### Symptôme : Une instance n’est pas répertoriée dans le [!UICONTROL Panneau de Contrôle]
+### Symptôme : une instance n’est pas répertoriée dans le [!UICONTROL panneau de contrôle]
 
-**Cause :**
-L’utilisateur doit probablement être ajouté en tant qu’Profil de produit &quot;utilisateur&quot; _Campaign-xxx-Administrators/Admin_ pour l’instance manquante.
+**Cause :**
+l’utilisateur doit probablement être ajouté en tant que profil de produit « utilisateur » _Campaign-xxx-Administrators/Admin_ pour l’instance qui est absente.
 
-**Que faire :**
-L’administrateur doit ajouter l’utilisateur au Profil de produits _Campaign-xxx-Admins_ pour chaque instance qu’il souhaite gérer. Si l’utilisateur est un administrateur de toutes les instances, il peut encore être nécessaire de s’ajouter en tant qu’&quot;utilisateurs&quot;.
+**Solution :**
+l’administrateur doit ajouter l’utilisateur au profil de produit _Campaign-xxx-Admins_ pour chaque instance qu’il souhaite gérer. Si l’utilisateur est un administrateur de toutes les instances, il doit peut-être encore s’ajouter en tant qu’« utilisateur ».
 
 ### Vidéos utiles
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Vérifiez l&#39;ID d&#39;organisation IMS (00:26 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=fre_fr)
+*Vérification de l’ID org. IMS (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Comment ajouter un administrateur aux administrateurs de profil de produits pour pouvoir utiliser le panneaude configuration (01:03 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=fre_fr)
+*Comment ajouter un administrateur aux administrateurs de profil de produit pour pouvoir utiliser le[!UICONTROL panneau de configuration](01:03 min)*
 
 ### Documentation utile
 
-* [Découvrir le Panneau de Contrôle](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [[!UICONTROL Gestion des autorisations pour le panneau de contrôle]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [Découverte du panneau de contrôle](https://helpx.adobe.com/fr/campaign/kb/control-panel-overview.html)
+* [[!UICONTROL Gestion des autorisations pour le panneau de contrôle]](https://helpx.adobe.com/fr/campaign/kb/control-panel-access.html)
 
 ## Établissement de la connexion au serveur SFTP (client ou API)
 
-La connexion aux serveurs SFTP requiert :
+La connexion aux serveurs SFTP requiert les actions suivantes :
 
-* [!UICONTROL Autoriser la liste] de l’adresse IP à partir de laquelle vous vous connectez au serveur SFTP
-* Paire de clés privée/publique qui doit être enregistrée avec l&#39;Adobe Campaign
-* Si vous vous connectez directement au serveur SFTP, vous aurez également besoin du logiciel client SFTP.
+* [!UICONTROL Ajout à la liste autorisée] de l’adresse IP à partir de laquelle vous vous connectez au serveur SFTP
+* Enregistrement d’une paire de clés privée/publique auprès d’Adobe Campaign
+* Si vous vous connectez directement au serveur SFTP, vous aurez également besoin d’un logiciel client SFTP.
 
 ### Documentation utile
 
-* [Connexion à votre serveur SFTP](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [Connexion à votre serveur SFTP](https://helpx.adobe.com/fr/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
 
