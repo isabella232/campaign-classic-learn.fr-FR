@@ -1,6 +1,6 @@
 ---
-title: Définition de contenu interactif de courrier électronique avec AMP
-description: Cette vidéo explique comment configurer le contenu du courrier électronique Adobe Campaign Classic(ACC) au format AMP.
+title: Définition du contenu d’email interactif avec AMP
+description: Cette vidéo explique comment configurer le contenu d’email Adobe Campaign Classic (ACC) au format AMP.
 feature: Email Channel
 topics: Create and Send Email Deliveries
 kt: 3475
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
 
-# Définition de contenu interactif de courrier électronique avec AMP
+# Définition du contenu d’email interactif avec AMP
 
 AMP for Email est un nouveau format open source qui permet aux développeurs de créer des emails dynamiques et interactifs. Grâce à la fonctionnalité d’application moderne directement disponible dans les emails, les destinataires peuvent interagir dynamiquement avec le contenu du message.
 
@@ -25,9 +25,9 @@ Il est actuellement pris en charge par deux fournisseurs de messagerie : Gmail 
 
 >[!NOTE]
 >
->Pour pouvoir envoyer des courriers électroniques AMP, vous devez enregistrer l&#39;adresse électronique que vous envoyez avec [Google](https://developers.google.com/gmail/ampemail/register) et [Microsoft](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook).
+>Pour pouvoir envoyer des emails AMP, vous devez enregistrer l’adresse email depuis laquelle vous envoyez les emails auprès de [Google](https://developers.google.com/gmail/ampemail/register) et [Microsoft](https://docs.microsoft.com/fr-fr/outlook/amphtml/register-outlook).
 
-La vidéo ci-dessous explique comment activer AMP à Adobe Campaign Classic et présente son utilisation.
+La vidéo ci-dessous explique comment activer AMP dans Adobe Campaign Classic et présente son utilisation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
