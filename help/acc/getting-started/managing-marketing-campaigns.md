@@ -9,9 +9,9 @@ doc-type: presentation
 activity: understand
 team: WWFRE
 role: user
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: cf282ccae57a2bbdb28546592757300c1bebc32e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Maîtrisez les concepts clés d’[!UICONTROL Adobe Campaign] qui permettent de planifier, d’exécuter et de mesurer efficacement les campagnes marketing cross-canal.
 
->[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12)
