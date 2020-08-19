@@ -7,9 +7,9 @@ kt: 4744
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 2666fa2d95ca6df4720ad6a3e3d5789ac283b3a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ Pour garantir des taux de réception d’emails élevés et des taux de spam bas
 
 La vidéo ci-dessous montre comment vous pouvez ajouter des enregistrements de vérification de site [!UICONTROL TXT Google] aux sous-domaines utilisés pour envoyer des emails aux adresses [!DNL GMAIL] avec le [!UICONTROL panneau de contrôle de Campaign].
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
 
 ## Autres ressources
 
