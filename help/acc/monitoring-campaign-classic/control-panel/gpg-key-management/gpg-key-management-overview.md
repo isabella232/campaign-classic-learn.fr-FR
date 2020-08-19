@@ -4,9 +4,9 @@ description: Les vidéos ci-après expliquent comment générer et installer une
 feature: Control Panel
 topics: GPG Key Management
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
 
