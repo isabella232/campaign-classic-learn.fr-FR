@@ -9,9 +9,9 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 role: user
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 52e4b0338febcaa64fd96a14f7ac447e8fd9e397
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 Découvrez comment créer un plan marketing, un programme et une campagne, définir des propriétés pour une campagne et utiliser le planning.
 La vidéo vous guide tout au long d’un exercice que vous pouvez effectuer.
 
->[!VIDEO](https://video.tv.adobe.com/v/35132?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35132?quality=12)
