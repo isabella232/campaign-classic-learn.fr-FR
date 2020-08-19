@@ -7,9 +7,9 @@ kt: 2172
 doc-type: feature video
 activity: setup
 team: DOC
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Cette vidéo explique comment créer une campagne et un email dans Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
 
 ## Autres ressources
 
