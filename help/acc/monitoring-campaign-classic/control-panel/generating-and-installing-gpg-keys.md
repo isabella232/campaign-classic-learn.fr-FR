@@ -8,9 +8,9 @@ thumbnail: null
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 702ccde94b0437be599eca6997326ae5e37d0408
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ La vidéo ci-dessous explique comment :
 1. générer et installer une **paire de clés publique/privée** sur une instance Campaign spécifiée pour le **cryptage des données sortantes** ;
 2. importer et installer une **clé publique** sur une instance Campaign pour le **décryptage des données entrantes**.
 
->[!VIDEO](https://video.tv.adobe.com/v/34201?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/34201?quality=12)
 
 ## Autres ressources
 
