@@ -8,9 +8,9 @@ thumbnail: 36399.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 2666fa2d95ca6df4720ad6a3e3d5789ac283b3a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Découvrez comment exporter des données à l’aide d’une clé GPG installée sur le panneau de contrôle.
 
->[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12)
 
 ## Autres ressources
 
