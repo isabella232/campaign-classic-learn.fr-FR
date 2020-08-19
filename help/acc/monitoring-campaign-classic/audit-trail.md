@@ -1,34 +1,34 @@
 ---
-title: Utilisation de la piste d’audit
-description: 'La piste de vérification capture, en temps réel, une liste complète d''actions et de événements survenant dans l''Adobe Campaign. '
+title: Utilisation du journal d’audit
+description: 'Le journal d’audit capture, en temps réel, une liste complète d''actions et d’événements se produisant dans Adobe Campaign. '
 feature: Audit Trail
 topics: Monitoring and Guardrails
 kt: 2835
 doc-type: feature video
 activity: understand
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Utilisation de la piste d’audit
+# Utilisation du journal d’audit
 
-[!UICONTROL La piste] de vérification capture, en temps réel, une liste complète des actions et des événements se produisant dans l&#39;Adobe Campaign. Les fonctionnalités [!UICONTROL Audit Trail] comprennent un moyen en libre-service d&#39;accéder à un historique de données pour vous aider à répondre à des questions telles que :
+Le [!UICONTROL journal d’audit] capture, en temps réel, une liste complète d’actions et d’événements se produisant dans Adobe Campaign. Les fonctionnalités du [!UICONTROL journal d’audit] comprennent un accès en libre-service à un historique de données permettant de répondre à des questions, notamment :
 
-* Qu&#39;est-il advenu d&#39;un objet ?
-* Qui l&#39;a modifiée en dernier et quand ?
-* Quel était l&#39;état précédent ?
+* Qu’est-il advenu d’un objet ?
+* Qui l’a modifié en dernier et quand ?
+* Quel était l’état précédent ?
 
 >[!NOTE]
 >
->Les pistes d’audit nécessitent la version 19.1 ou ultérieure du Campaign Classic
+>Les journaux d’audit requièrent Campaign Classic version 19.1 ou une version ultérieure.
 
-La piste d&#39; [!UICONTROL audit] consigne et liste les actions des opérateurs, telles que la création, la modification et la suppression de workflows, d&#39;options et de schéma source. En outre, les actions suivantes sont consignées spécifiquement pour les workflows :
+Le [!UICONTROL journal d’audit] consigne et répertorie les actions des opérateurs, telles que la création, la modification et la suppression de workflows, d&#39;options et du schéma source. En outre, les actions suivantes sont consignées spécifiquement pour les workflows :
 
 * Démarrer
 * Pause
@@ -36,11 +36,11 @@ La piste d&#39; [!UICONTROL audit] consigne et liste les actions des opérateurs
 * Redémarrer
 * Nettoyage
 * Simuler
-* Réveil
+* Réveiller
 * Arrêt inconditionnel
 
-La vidéo ci-dessous décrit où accéder aux journaux de piste d’audit et les paramètres qui peuvent être configurés.
+La vidéo ci-dessous décrit à partir de quel emplacement accéder aux journaux d’audit et quels paramètres peuvent être configurés.
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&captions=fre_fr)
 
-Pour plus d&#39;informations, consultez la documentation [de la piste d&#39;](https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html)audit.
+Pour plus d’informations, consultez la [documentation relative au journal d’audit](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).
