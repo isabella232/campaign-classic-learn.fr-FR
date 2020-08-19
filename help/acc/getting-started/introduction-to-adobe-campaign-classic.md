@@ -1,6 +1,6 @@
 ---
-title: Introduction à Adobe Campaign Classic
-description: Cette vidéo explique comment Adobe Campaign Classic s’intègre dans le portefeuille Adobe Digital Experience, ainsi que ses principales fonctionnalités et fonctionnalités.
+title: Présentation d’Adobe Campaign Classic
+description: Cette vidéo explique comment Adobe Campaign Classic s’intègre au portefeuille Adobe Digital Experience. Elle présente également les principales fonctionnalités de la solution.
 feature: null
 topics: Getting started
 kt: 5457
@@ -9,17 +9,17 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 role: user
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f8fb68d95ea4dc2c60b997b8047251cc8eaed4ae
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Introduction à Adobe Campaign Classic
+# Présentation d’Adobe Campaign Classic
 
-Cette vidéo explique comment Adobe Campaign Classic s’intègre dans le portefeuille Adobe Digital Experience, ainsi que ses principales fonctionnalités et fonctionnalités.
+Cette vidéo explique comment Adobe Campaign Classic s’intègre au portefeuille Adobe Digital Experience. Elle présente également les principales fonctionnalités de la solution.
 
->[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12&captions=fre_fr)
