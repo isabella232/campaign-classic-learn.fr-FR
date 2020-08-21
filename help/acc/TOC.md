@@ -10,7 +10,7 @@ tutorials-url: https://docs.adobe.com/content/help/fr-FR/campaign-classic-learn/
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: a5efb8f8230373b9aa3c5dd2f85305f4685e9190
+source-git-commit: faec1533178c9bd70474a682557c6a1a8ed2b535
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 76%
@@ -49,7 +49,7 @@ ht-degree: 76%
       + [Définition des propriétés de modèle de diffusion](/help/acc/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Déploiement d’un modèle de diffusion email ad hoc](/help/acc/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
    + Canal Courrier {#direct-mail}
-      + [Création de diffusions de messagerie directe](help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
+      + [Création de diffusions de messagerie directe](/help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Gestion de la fatigue{#fatigue-management}
       + [Utilisation de règles de typologie](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Utilisation de filtres prédéfinis](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
