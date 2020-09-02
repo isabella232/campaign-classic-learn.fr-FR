@@ -25,5 +25,5 @@ Découvrez comment créer une diffusion de courriel directement à partir d’un
 
 ## Autres ressources
 
-* [Cas pratique : création d&#39;une diffusion email](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/designing-content/editing-html-content/use-case—creating-an-email-diffusion.html)
+* [Cas pratique : création d&#39;une diffusion email](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
 * [Création d’un workflow (documentation)](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html)
