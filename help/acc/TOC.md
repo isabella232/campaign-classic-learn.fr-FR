@@ -11,10 +11,10 @@ getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 1f0de3205220dab1814a28070a4014d01f0b7a34
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 76%
+ht-degree: 75%
 
 ---
 
@@ -83,7 +83,7 @@ ht-degree: 76%
       + [Délégation de sous-domaines](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
       + [Ajout de certificats SSL](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [Ajout d’autorisations d’URL](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [Listes autorisées d’adresses IP pour l’accès aux instances](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
+      + [ajouter des adresses IP aux listes autorisées](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Gestion des enregistrements TXT Google](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + Gestion des clés GPG {#gpg-key-management}
          + [Gestion des clés GPG - Présentation](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
