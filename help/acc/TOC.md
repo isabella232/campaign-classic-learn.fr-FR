@@ -2,6 +2,7 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Tutoriels Adobe Campaign Classic
+breadcrumb-title: Campaign Classic Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -11,7 +12,7 @@ getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 8ae5f581e289175697306b4c52d840c5ef50a237
+source-git-commit: e3eeefe79669d3ea8f98f2c00c407dc550bb2448
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 75%
