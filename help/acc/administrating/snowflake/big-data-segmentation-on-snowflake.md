@@ -1,14 +1,14 @@
 ---
 title: Grand data Management sur Snowflake
-description: Ce didacticiel explique comment tirer parti du connecteur Snowflake dans Adobe Campaign Classic.
+description: Ce didacticiel explique comment tirer parti du connecteur Snowflake dans Adobe Campaign Classic
 feature: Snowflake
 topics: FDA
-kt: 4450
+kt: 4405
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 0c330ade07ba8bcdb825a632c7ac319fa8c845e9
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 6%
