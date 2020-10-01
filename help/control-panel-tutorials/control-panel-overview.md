@@ -1,7 +1,7 @@
 ---
 title: Panneau de contrôle
 seo-title: Panneau de contrôle
-description: Le Panneau de Contrôle permet aux administrateurs Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, telles que la gestion de l’enregistrement SFTP par instance ou les adresses IP de liste autorisée.
+description: Le panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance ou ajouter des adresses IP aux listes autorisées.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 5e240cfde96c38f646b9915fe143239b16ef97ea
+source-git-commit: 314a0aa471bdd5673fdbc1c99cfefd325ec268e4
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 87%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
