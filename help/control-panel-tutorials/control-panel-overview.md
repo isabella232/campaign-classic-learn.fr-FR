@@ -1,7 +1,7 @@
 ---
-title: Panneau de contrôle
+title: Panneau de contrôle - Vue d’ensemble
 seo-title: Panneau de contrôle
-description: Le panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance ou ajouter des adresses IP aux listes autorisées.
+description: Le Panneau de Contrôle permet aux administrateurs de Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches d’administration, telles que la gestion de l’enregistrement SFTP par instance, la gestion des clés GPG ou des sous-domaines et certificats.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -9,22 +9,21 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 314a0aa471bdd5673fdbc1c99cfefd325ec268e4
+source-git-commit: ab7c8903a7eaa024abd8e658aee6c31f87f73f96
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '223'
+ht-degree: 65%
 
 ---
 
 
-# [!UICONTROL Panneau de contrôle]
+# [!UICONTROL Présentation du Panneau de Contrôle]
 
 >[!NOTE]
 >
->Les termes « [!UICONTROL liste blanche] » et « [!UICONTROL liste noire] » ont été remplacés par les termes « [!UICONTROL liste autorisée] » et « [!UICONTROL liste bloquée] » dans la documentation d’Adobe Campaign.
->Certaines occurrences de ces termes peuvent toujours figurer dans l’interface utilisateur du produit, les noms d’option, le code interne, ainsi que dans les tutoriels vidéo. Ils seront remplacés dans les prochaines versions du panneau de contrôle.
+>The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allowlist]’ and ‘[!UICONTROL denylist]’ in the Adobe Campaign documentation. Certaines occurrences de ces termes peuvent toujours figurer dans l’interface utilisateur du produit, les noms d’option, le code interne, ainsi que dans les tutoriels vidéo. Ils seront remplacés dans les prochaines versions du panneau de contrôle.
 
-Le [!UICONTROL panneau de contrôle] permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance ou ajouter des adresses IP aux [!UICONTROL listes autorisées].
+The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
 
 ## Accès au [!UICONTROL panneau de contrôle]
 
@@ -53,7 +52,7 @@ Vous devez connaître votre [!DNL IMS org ID]. La vidéo ci-dessous montre où v
 ### Droits d’administrateur
 
 Les droits d’administrateur sont requis pour accéder au [!UICONTROL panneau de contrôle].
-La vidéo ci-dessous explique comment ajouter un administrateur à une instance Campaign.
+La vidéo ci-dessous explique comment ajouter un administrateur à une instance Campaign..
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
