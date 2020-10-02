@@ -13,7 +13,7 @@ getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: e24d8485d99e33216591a43227e1ba264c0016e6
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 75%
@@ -95,4 +95,3 @@ ht-degree: 75%
       + [Résolution des problèmes du panneau de contrôle](/help/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Accès à une base externe (FDA) {#fda}
       + [Gestion des big data sur [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-
