@@ -11,9 +11,9 @@ tutorials-url: https://docs.adobe.com/content/help/fr-FR/campaign-classic-learn/
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 type: Tutorial
-index: false
+index: true
 translation-type: tm+mt
-source-git-commit: 6bacd9291b1a763de91990aafece56756f4c60d7
+source-git-commit: 71edaefa80d411d810a3a94197739a40a6658d49
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 86%
