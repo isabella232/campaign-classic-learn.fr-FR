@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 375a20d78f7aa8ab5def5398308ebb9219bafe58
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 63%
@@ -35,4 +35,5 @@ Pour accéder à la gestion SFTP dans le panneau de contrôle, rendez-vous sur 
 Découvrez comment générer une clé SSH à l&#39;aide d&#39;un terminal et comment stocker la version publique de la clé dans le Panneau de Contrôle.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
+
 *Création d’une clé SSH (2:16 min)*
