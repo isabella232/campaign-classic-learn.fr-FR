@@ -10,7 +10,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '463'
 ht-degree: 98%
@@ -49,6 +49,7 @@ Avant de commencer, remplissez les conditions préalables suivantes :
 Vous devez connaître votre [!DNL IMS org ID]. La vidéo ci-dessous montre où vous pouvez trouver l’[!DNL IMS org ID] de votre instance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *Vérification[!DNL IMS Org ID](00:26 min)*
 
 ### Droits d’administrateur
@@ -57,6 +58,7 @@ Les droits d’administrateur sont requis pour accéder au [!UICONTROL panneau d
 La vidéo ci-dessous explique comment ajouter un administrateur à une instance Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *Comment ajouter un administrateur au profil produit « [!UICONTROL Administrateurs] » pour pouvoir utiliser le[!UICONTROL panneau de contrôle](01:03 min)*
 
 ## Tutoriels sur le [!UICONTROL panneau de contrôle]
@@ -81,7 +83,7 @@ La vidéo ci-dessous explique comment ajouter un administrateur à une instance 
 
    *Découvrez comment ajouter des URL externes à la liste des URL autorisées afin que votre instance puisse s’y connecter.*
 
-* **[ajouter des adresses IP aux listes autorisées](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[Ajouter des adresses IP aux listes autorisées](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
    *Découvrez comment configurer de nouvelles connexions à vos instances en ajoutant des plages d’adresses IP[!UICONTROL aux listes autorisées].*
 
