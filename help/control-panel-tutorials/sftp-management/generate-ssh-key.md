@@ -1,6 +1,6 @@
 ---
 title: Génération d’une clé SSH
-description: Vous devez être en mesure de générer une clé SSH pour pouvoir l’ajouter au panneau de contrôle d’Adobe Campaign. La vidéo ci-dessous explique comment générer une clé SSH à l’aide d'un terminal.
+description: Découvrez comment générer une clé SSH à l'aide d'un terminal et comment stocker la version publique de la clé dans le Panneau de Contrôle.
 feature: SSH Key
 topics: Control Panel
 kt: 6348
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: d378a5afdce1d01e138dd90e357caa66362bacd0
+source-git-commit: 375a20d78f7aa8ab5def5398308ebb9219bafe58
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 100%
+source-wordcount: '132'
+ht-degree: 63%
 
 ---
 
@@ -32,7 +32,7 @@ Pour accéder à la gestion SFTP dans le panneau de contrôle, rendez-vous sur 
 
 ## Génération d’une clé SSH
 
-La vidéo ci-dessous explique comment générer une clé SSH à l’aide d&#39;un terminal.
+Découvrez comment générer une clé SSH à l&#39;aide d&#39;un terminal et comment stocker la version publique de la clé dans le Panneau de Contrôle.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
 *Création d’une clé SSH (2:16 min)*
