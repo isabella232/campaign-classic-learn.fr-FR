@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 100%
@@ -44,10 +44,12 @@ l’administrateur doit ajouter l’utilisateur au profil de produit _Campaign-x
 ### Vidéos utiles
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *Vérification de l’ID org. IMS (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Comment ajouter un administrateur aux administrateurs de profil de produit pour pouvoir utiliser le [!UICONTROL panneau de configuration] (01:03 min)*
+
+*Comment ajouter un administrateur aux administrateurs de profil de produit pour pouvoir utiliser le[!UICONTROL panneau de configuration](01:03 min)*
 
 ### Documentation utile
 
