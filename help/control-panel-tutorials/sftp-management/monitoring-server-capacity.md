@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
+source-git-commit: 8d354d89015e1985be5a8c3c13fee53961b1d686
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 82%
+source-wordcount: '106'
+ht-degree: 70%
 
 ---
 
@@ -33,25 +33,6 @@ Pour accéder à la gestion des sous-domaines du [!UICONTROL panneau de contrôl
 
 ## Surveillance de la capacité du serveur, [!UICONTROL ajout d’adresses IP aux listes autorisées] et ajout de clés SSH
 
-Cette vidéo explique comment accéder au Panneau de Contrôle  Adobe Campaign et où vous pouvez surveiller l’enregistrement des serveurs SFTP.
+Découvrez comment surveiller la capacité d’enregistrement de vos serveurs SFTP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
-
-### Description de l’interface
-
-**Instances :** seules les instances pour lesquelles vous disposez des droits d’administrateur sont répertoriées.
-
-**Logs de traitement :** seuls les traitements qui ont été exécutés dans le [!UICONTROL panneau de contrôle] sont répertoriés. Les traitements exécutés en dehors du [!UICONTROL panneau de contrôle] ne sont pas compris (par exemple, les workflows en cours d’exécution, etc.)
-
-Les logs ne comprennent que les traitements exécutés par les administrateurs de votre organisation. S’il existe plusieurs organisations, les logs des autres organisations ne s’afficheront pas dans les logs de traitement.
-
-**Onglet Stockage :** l’en-tête montre les trois serveurs les plus utilisés. Si vous avez plus de 3 serveurs, vous pouvez voir les autres dans l’onglet [!UICONTROL Stockage].
-
-**Message d’avertissement :**
-
-* Orange : le serveur est utilisé à 80 %
-* Rouge : le serveur est utilisé à 90 %
-
-## Ressources supplémentaires
-
-* [Génération d’une clé SSH](./generate-ssh-key.md)
