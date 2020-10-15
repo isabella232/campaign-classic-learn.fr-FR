@@ -7,9 +7,9 @@ kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ La Carte thermique des workflows permet aux administrateurs de la plateforme d�
 
 Remarque : cette fonctionnalité n’est disponible que depuis Adobe Campaign Classic V7 (build 18.11.1)
 
->[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12&captions=fre_fr)
 
 ## Autres ressources
 
