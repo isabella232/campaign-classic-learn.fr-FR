@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 100%
@@ -49,7 +49,7 @@ l’administrateur doit ajouter l’utilisateur au profil de produit _Campaign-x
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Comment ajouter un administrateur aux administrateurs de profil de produit pour pouvoir utiliser le[!UICONTROL panneau de configuration] (01:03 min)*
+*Comment ajouter un administrateur aux administrateurs de profil de produit pour pouvoir utiliser le [!UICONTROL panneau de configuration] (01:03 min)*
 
 ### Documentation utile
 
@@ -64,7 +64,7 @@ La connexion aux serveurs SFTP requiert les actions suivantes :
 * Enregistrement d’une paire de clés privée/publique auprès d’Adobe Campaign
 * Si vous vous connectez directement au serveur SFTP, vous aurez également besoin d’un logiciel client SFTP.
 
-### Documentation utile
+### Documentation utile {#helpful-docs}
 
 * [Connexion à votre serveur SFTP](https://helpx.adobe.com/fr/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
 
