@@ -1,6 +1,6 @@
 ---
-title: Création d’un courrier électronique à partir d’une campagne
-description: Découvrez comment créer une diffusion de courriel directement à partir d’une campagne.
+title: Création d’un email à partir d’une campagne
+description: Découvrez comment créer une diffusion email directement à partir d’une campagne.
 feature: Email
 topics: null
 kt: 2172
@@ -12,14 +12,14 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 48%
+ht-degree: 100%
 
 ---
 
 
-# Création d’un courrier électronique à partir d’une campagne
+# Création d’un email à partir d’une campagne
 
-Découvrez comment créer une diffusion de courriel directement à partir d’une campagne.
+Découvrez comment créer une diffusion email directement à partir d’une campagne.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
 
