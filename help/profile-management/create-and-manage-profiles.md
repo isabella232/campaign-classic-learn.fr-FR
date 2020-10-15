@@ -1,6 +1,6 @@
 ---
-title: Création et gestion de profils
-description: Comprendre le concept des profils à Adobe Campaign Classic. Découvrez comment accéder aux données de profil, trier et filtrer les profils et créer et gérer manuellement des profils. Cette vidéo explique également la conformité de Adobe Campaign Classic au Règlement général sur la protection des données (RGPD) et à la Loi sur la protection des renseignements personnels des consommateurs de Californie (CCPA).
+title: Création et gestion des profils
+description: Découvrez le concept des profils dans Adobe Campaign Classic. Découvrez comment accéder aux données de profil, trier et filtrer les profils et créer et gérer manuellement des profils. Cette vidéo explique également la conformité d’Adobe Campaign Classic avec le règlement général sur la protection des données (RGPD) et avec la loi sur la protection des données personnelles des consommateurs résidant en Californie (CCPA).
 feature: Profiles
 topics: null
 kt: 5081
@@ -13,16 +13,16 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 36%
+ht-degree: 85%
 
 ---
 
 
-# Création et gestion de profils
+# Création et gestion des profils
 
-Comprendre le concept des profils à Adobe Campaign Classic. Découvrez comment accéder aux données de profil, trier et filtrer les profils et créer et gérer manuellement des profils.
+Découvrez le concept des profils dans Adobe Campaign Classic. Découvrez comment accéder aux données de profil, trier et filtrer les profils et créer et gérer manuellement des profils.
 
-Cette vidéo explique également la conformité de Adobe Campaign Classic au Règlement général sur la protection des données (RGPD) et à la Loi sur la protection des renseignements personnels des consommateurs de Californie (CCPA).
+Cette vidéo explique également la conformité d’Adobe Campaign Classic avec le règlement général sur la protection des données (RGPD) et avec la loi sur la protection des données personnelles des consommateurs résidant en Californie (CCPA).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12)
 
