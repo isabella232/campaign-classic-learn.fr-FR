@@ -1,5 +1,5 @@
 ---
-title: Activité des diffusions électroniques par rapport à l’activité des diffusions dans Adobe Campaign Classic
+title: Activité de diffusion email et activité de diffusion dans Adobe Campaign Classic
 description: Cette vidéo explique comment configurer et utiliser un modèle de diffusion.
 feature: Delivery Templates
 topics: Templates
@@ -7,26 +7,26 @@ kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# Activité de l&#39;diffusion de courriel par rapport à l&#39;activité de diffusion
+# Activité de diffusion email et activité de diffusion
 
-Une activité [!UICONTROL de type] Diffusion vous permet de créer une action de diffusion. Il peut être construit à l’aide d’éléments d’entrée.
+Une [!UICONTROL activité de type Diffusion] vous permet de créer une action de diffusion. Elle peut être créée à l’aide d’éléments d’entrée.
 
-Cette vidéo explique comment déployer un modèle de diffusion de messagerie électronique. Il explique la différence entre une diffusion de courrier électronique et un processus de diffusion.
+Cette vidéo montre comment déployer un modèle de diffusion email. Elle explique la différence entre une diffusion email et un workflow de diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&captions=fre_fr)
 
 ## Ressources supplémentaires {#additional-resources}
 
-* [A propos des modèles](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
-* [Création d’un Modèle de diffusion](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
-* [Choisir un mapping de ciblage](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
-* [Créer une diffusion depuis un modèle](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
+* [À propos des modèles](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
+* [Créer un modèle de diffusion](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)
+* [Choisir un mapping de ciblage](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html)
+* [Créer une diffusion depuis un modèle](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html)
