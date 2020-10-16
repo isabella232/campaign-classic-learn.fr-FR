@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '463'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -50,7 +50,7 @@ Vous devez connaître votre [!DNL IMS org ID]. La vidéo ci-dessous montre où v
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Vérification[!DNL IMS Org ID](00:26 min)*
+*Vérification [!DNL IMS Org ID] (00:26 min)*
 
 ### Droits d’administrateur
 
@@ -59,13 +59,13 @@ La vidéo ci-dessous explique comment ajouter un administrateur à une instance 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Comment ajouter un administrateur au profil produit « [!UICONTROL Administrateurs] » pour pouvoir utiliser le[!UICONTROL panneau de contrôle](01:03 min)*
+*Comment ajouter un administrateur au profil produit « [!UICONTROL Administrateurs] » pour pouvoir utiliser le [!UICONTROL panneau de contrôle] (01:03 min)*
 
 ## Tutoriels sur le [!UICONTROL panneau de contrôle]
 
 * **Gestion des serveurs SFTP**
 
-   *Découvrez comment surveiller la capacité du serveur, ajouter des adresses IP aux[!UICONTROL listes autorisées]et ajouter des clés SSH*.
+   *Découvrez comment surveiller la capacité du serveur, ajouter des adresses IP aux [!UICONTROL listes autorisées] et ajouter des clés SSH*.
 
    * [Surveillance de la capacité du serveur, ajout d’adresses IP aux listes autorisées et ajout de clés SSH](/help/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Génération d’une clé SSH](/help/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
@@ -73,7 +73,7 @@ La vidéo ci-dessous explique comment ajouter un administrateur à une instance 
 
 * **[Délégation de sous-domaines](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
-   *Découvrez comment déléguer entièrement un sous-domaine à[!UICONTROL Adobe Campaign]*.
+   *Découvrez comment déléguer entièrement un sous-domaine à [!UICONTROL Adobe Campaign]*.
 
 * **[Ajout de certificats SSL](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
 
@@ -83,13 +83,13 @@ La vidéo ci-dessous explique comment ajouter un administrateur à une instance 
 
    *Découvrez comment ajouter des URL externes à la liste des URL autorisées afin que votre instance puisse s’y connecter.*
 
-* **[Ajouter des adresses IP aux listes autorisées](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[Ajout d’adresses IP aux listes autorisées](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
-   *Découvrez comment configurer de nouvelles connexions à vos instances en ajoutant des plages d’adresses IP[!UICONTROL aux listes autorisées].*
+   *Découvrez comment configurer de nouvelles connexions à vos instances en ajoutant des plages d’adresses IP [!UICONTROL aux listes autorisées].*
 
 * **[Gestion des enregistrements TXT Google](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)**
 
-   *Découvrez comment ajouter des enregistrement de vérification de site[!DNL Google TXT]aux sous-domaines utilisés pour envoyer des emails aux adresses[!DNL GMAIL]par le biais du[!UICONTROL panneau de contrôle Campaign].*
+   *Découvrez comment ajouter des enregistrement de vérification de site [!DNL Google TXT] aux sous-domaines utilisés pour envoyer des emails aux adresses [!DNL GMAIL] par le biais du [!UICONTROL panneau de contrôle Campaign].*
 
 * **Gestion des clés GPG**
 
@@ -101,7 +101,7 @@ La vidéo ci-dessous explique comment ajouter un administrateur à une instance 
 
 * **[Résolution des problèmes du panneau de contrôle](/help/monitoring-campaign-classic/control-panel/trouble-shooting.md)**
 
-   *Comprendre comment résoudre les problèmes du[!UICONTROL panneau de contrôle]*
+   *Comprendre comment résoudre les problèmes du [!UICONTROL panneau de contrôle]*
 
 ## Autres ressources
 
