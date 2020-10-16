@@ -33,7 +33,7 @@ La connexion aux serveurs SFTP requiert les actions suivantes :
 
 * Ajout à la liste autorisée de l’adresse IP à partir de laquelle vous vous connectez au serveur SFTP
 * Enregistrement d’une paire de clés privée/publique auprès d’Adobe Campaign
-* Si vous vous connectez directement au serveur SFTP, vous aurez également besoin du logiciel client SFTP.
+* Si vous vous connectez directement au serveur SFTP, vous aurez également besoin d’un logiciel client SFTP.
 
 Cette vidéo explique comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le panneau de contrôle.
 
