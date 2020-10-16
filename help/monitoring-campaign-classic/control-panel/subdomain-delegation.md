@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 85%
 
 >[!NOTE]
 >
-> Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
+> La délégation de sous-domaine depuis le [!UICONTROL panneau de contrôle] est disponible en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis.
 
 Le [!UICONTROL panneau de contrôle] d’Adobe Campaign vous permet de déléguer entièrement un sous-domaine à Adobe Campaign.
 
@@ -29,6 +29,7 @@ Le [!UICONTROL panneau de contrôle] d’Adobe Campaign vous permet de délégue
 Pour accéder à la gestion des sous-domaines dans le [!UICONTROL panneau de contrôle], rendez-vous sur :
 
 * [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Carte **[!UICONTROL Panneau de contrôle]** > Carte **Sous-domaines et certificats**
+
 ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
