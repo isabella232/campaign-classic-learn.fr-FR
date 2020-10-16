@@ -1,5 +1,5 @@
 ---
-title: Prise en main du Panneau de Contrôle
+title: Prise en main du panneau de contrôle
 description: Cet article explique comment accéder au Panneau de Contrôle et quelles sont les conditions préalables pour pouvoir travailler avec le panneau de contrôle.
 feature: Control Panel
 topics: Control Panel
@@ -12,18 +12,18 @@ translation-type: tm+mt
 source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 57%
+ht-degree: 81%
 
 ---
 
 
-# Prise en main du [!UICONTROL Panneau de Contrôle] {#control-panel}
+# Prise en main du [!UICONTROL panneau de contrôle] {#control-panel}
 
 >[!NOTE]
 >
->The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allowlist]’ and ‘[!UICONTROL denylist]’ in the Adobe Campaign documentation. Certaines occurrences de ces termes peuvent toujours figurer dans l’interface utilisateur du produit, les noms d’option, le code interne, ainsi que dans les tutoriels vidéo. Ils seront remplacés dans les prochaines versions du panneau de contrôle.
+>Les termes « [!UICONTROL liste blanche] » et « [!UICONTROL liste noire] » ont été remplacés par les termes « [!UICONTROL liste autorisée] » et « [!UICONTROL liste bloquée] » dans la documentation d’Adobe Campaign. Certaines occurrences de ces termes peuvent toujours figurer dans l’interface utilisateur du produit, les noms d’option, le code interne, ainsi que dans les tutoriels vidéo. Ils seront remplacés dans les prochaines versions du panneau de contrôle.
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+Le [!UICONTROL panneau de contrôle] permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage [!DNL SFTP] par instance, gérer des clés [!DNL GPG] ou des [!UICONTROL sous-domaines] et des [!UICONTROL certificats].
 
 Cet article explique comment accéder au Panneau de Contrôle et quelles sont les conditions préalables pour pouvoir travailler avec le panneau de contrôle.
 
@@ -50,7 +50,7 @@ Vous devez connaître votre [!DNL IMS org ID]. La vidéo ci-dessous montre où v
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Vérification[!DNL IMS Org ID](00:26 min)*
+*Vérification [!DNL IMS Org ID] (00:26 min)*
 
 ### Droits d’administrateur
 
