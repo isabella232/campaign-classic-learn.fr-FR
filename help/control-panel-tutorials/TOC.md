@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Panneau de Contrôle Tutorials
+user-guide-title: Tutoriels sur le panneau de contrôle d’Adobe Campaign
 user-guide-description: Panneau de Contrôle permet aux administrateurs de Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, telles que la gestion de l’enregistrement SFTP par instance ou les adresses IP de liste autorisée.
 breadcrumb-title: Tutoriels sur le panneau de contrôle
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
@@ -16,15 +16,15 @@ translation-type: tm+mt
 source-git-commit: ecb96c182bc319cc77514dd8025c0b67a55b9285
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 61%
+ht-degree: 75%
 
 ---
 
 
-# Adobe Campaign Control Panel - Tutorials {#control-panel}
+# Panneau de contrôle d’Adobe Campaign - Tutoriels {#control-panel}
 
 + [Vue d’ensemble du panneau de contrôle](/help/control-panel-tutorials/control-panel-overview.md)
-+ [Prise en main du Panneau de Contrôle](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
++ [Prise en main du panneau de contrôle](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + Gestion SFTP {#sftp-management}
    + [Surveillance de la capacité du serveur](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Ajouter une plage d&#39;adresses IP à la liste autorisée](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
@@ -35,7 +35,7 @@ ht-degree: 61%
    + [Ajout de certificats SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Gestion des enregistrements TXT Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Paramètres des instances {#instance-settings}
-   + [Ajouter des adresses IP aux listes autorisées](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
+   + [Ajout d’adresses IP aux listes autorisées](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [Ajout d’autorisations d’URL](/help/control-panel-tutorials/instance-settings/adding-url-permissions.md)
    + Gestion des clés GPG {#gpg-key-management}
       + [Gestion des clés GPG - Présentation](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
