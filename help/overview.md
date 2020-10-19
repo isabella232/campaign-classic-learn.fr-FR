@@ -3,11 +3,11 @@ title: Tutoriels Adobe Campaign Classic - Vue d’ensemble
 description: Adobe Campaign offre une plate-forme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
-source-wordcount: '251'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
+workflow-type: tm+mt
+source-wordcount: '194'
+ht-degree: 89%
 
 ---
 
@@ -18,17 +18,9 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
 
 ## Nouveautés
 
-* **[Gestion des clés GPG](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[Délégation de sous-domaines à l’aide de CNAME (bêta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Découvrez comment générer et installer une paire de clés publique/privée sur une instance [!UICONTROL Campaign] spécifiée pour le cryptage des données sortantes. Apprenez également comment importer et installer une clé publique sur une instance Campaign pour le décryptage des données entrantes.*
-
-* **[Délégation de sous-domaines (version BÊTA)](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
-
-   *Découvrez comment déléguer entièrement un sous-domaine à Adobe Campaign.*
-
-* **[Définition du contenu d’email interactif avec AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
-
-   *Découvrez comment configurer le contenu d’email Adobe Campaign Classic (ACC) au format AMP.*
+   *Découvrez comment configurer et envoyer un sous-domaine à l’aide de CNAME dans le Panneau de Contrôle.*
 
 ## Sélections du personnel
 
