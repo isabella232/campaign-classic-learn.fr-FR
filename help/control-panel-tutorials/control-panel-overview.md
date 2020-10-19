@@ -7,11 +7,11 @@ kt: 3262
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
-workflow-type: ht
-source-wordcount: '260'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
+workflow-type: tm+mt
+source-wordcount: '197'
+ht-degree: 90%
 
 ---
 
@@ -21,17 +21,9 @@ Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
 
 ## Nouveautés
 
-* **[Génération et installation de clés GPG pour le cryptage des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
+* **[Délégation de sous-domaines à l’aide de CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Découvrez comment générer une paire de clés GPG publique/privée et installer la clé publique dans le [!UICONTROL panneau de contrôle] pour pouvoir chiffrer les données avant de les envoyer à partir de votre instance.*
-
-* **[Utilisation d’une clé GPG pour crypter des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
-
-   *[!UICONTROL Découvrez comment exporter des données à l’aide d’une clé GPG installée sur le panneau de contrôle].*
-
-* **[Décryptage des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
-
-   *Découvrez comment créer une clé publique, l’importer et l’installer sur une instance [!UICONTROL Campaign] pour le déchiffrage des données entrantes.*
+   *Découvrez comment configurer et envoyer un sous-domaine à l’aide de CNAME dans le Panneau de Contrôle.*
 
 ## Sélections du personnel
 
