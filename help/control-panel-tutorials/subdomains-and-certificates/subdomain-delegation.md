@@ -7,9 +7,9 @@ kt: 4115
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 
@@ -30,6 +30,7 @@ Pour accéder à la gestion des sous-domaines dans le [!UICONTROL panneau de con
 
 * [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Carte **[!UICONTROL Panneau de contrôle]** > Carte **Sous-domaines et certificats**
 
+
 ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
@@ -37,7 +38,7 @@ ou
 
 La vidéo ci-dessous montre comment déléguer des sous-domaines.
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12&captions=fre_fr)
 
 *Délégation de sous-domaines (05:07 min)*
 
