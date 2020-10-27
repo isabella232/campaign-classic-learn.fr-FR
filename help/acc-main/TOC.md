@@ -16,7 +16,7 @@ translation-type: tm+mt
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
 source-wordcount: '324'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -71,12 +71,12 @@ ht-degree: 97%
    + [Segmentation des données](/help/data-management/data-segmentation.md)
 + Conception de contenu{#designing-content}
    + [Configuration des landing pages](/help/designing-content/configure-landingpages.md)
-+ Contrôle   {#monitoring}
++ Contrôle    {#monitoring}
    + [Carte thermique des workflows](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Journal d’audit](/help/monitoring-campaign-classic/audit-trail.md)
 + Intégration {#integrating}
    + [Intégration de Dynamics 365 avec Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Administration {#administrating}
-   + [Panneau de contrôle](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [Panneau de contrôle](https://docs.adobe.com/content/help/fr-FR/campaign-classic-learn/control-panel/control-panel-overview.html)
    + Accès à une base externe (FDA) {#fda}
       + [Gestion des big data sur [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
