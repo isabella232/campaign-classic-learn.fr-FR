@@ -8,9 +8,9 @@ thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 986ac5feb78a4f2eaacd8a168035d390d0dfadf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
 ht-degree: 100%
 
@@ -38,4 +38,4 @@ La connexion aux serveurs SFTP requiert les actions suivantes :
 
 Cette vidéo explique comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le panneau de contrôle.
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12&captions=fre_fr)
