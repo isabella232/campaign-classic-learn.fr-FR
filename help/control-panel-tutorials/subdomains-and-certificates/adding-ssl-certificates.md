@@ -8,11 +8,11 @@ thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 60a9359f42f05ac21f4130c16bd5de1353d679f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ La demande de signature de certificat (CSR) est nécessaire pour l’achat d’u
 
 La vidéo ci-dessous montre comment générer une demande de signature de certificat dans le panneau de contrôle.
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12&captions=fre_fr)
 
 *Générer des demandes de signature de certificat (02:36 min)*
 
@@ -54,11 +54,11 @@ Une fois que vous avez obtenu le certificat SSL, il doit être installé pour le
 
 La vidéo ci-dessous montre comment installer des certificats SSL dans le [!UICONTROL panneau de contrôle].
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12&captions=fre_fr)
 
 *Installer des certificats SSL (01:25 min)*
 
 ## Autres ressources
 
-* [Délégation de sous-domaine complète (vidéo)](./subdomain-delegation.md)
+* [Délégation complète de sous-domaines (vidéo)](./subdomain-delegation.md)
 * [Sous-domaines et certificats (documentation)](https://docs.adobe.com/content/help/fr-FR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
