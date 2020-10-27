@@ -1,6 +1,6 @@
 ---
 title: Prise en main du panneau de contrôle
-description: Cet article explique comment accéder au Panneau de Contrôle et quelles sont les conditions préalables pour pouvoir travailler avec le panneau de contrôle.
+description: Cet article explique comment accéder au panneau de contrôle et présente les conditions préalables requises pour pouvoir l’utiliser.
 feature: Control Panel
 topics: Control Panel
 kt: 6388
@@ -8,11 +8,11 @@ thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '243'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 81%
 
 Le [!UICONTROL panneau de contrôle] permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage [!DNL SFTP] par instance, gérer des clés [!DNL GPG] ou des [!UICONTROL sous-domaines] et des [!UICONTROL certificats].
 
-Cet article explique comment accéder au Panneau de Contrôle et quelles sont les conditions préalables pour pouvoir travailler avec le panneau de contrôle.
+Cet article explique comment accéder au panneau de contrôle et présente les conditions préalables requises pour pouvoir l’utiliser.
 
 ## Accès au [!UICONTROL panneau de contrôle]
 
@@ -48,7 +48,7 @@ Avant de commencer, remplissez les conditions préalables suivantes :
 
 Vous devez connaître votre [!DNL IMS org ID]. La vidéo ci-dessous montre où vous pouvez trouver l’[!DNL IMS org ID] de votre instance.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=fre_fr)
 
 *Vérification [!DNL IMS Org ID] (00:26 min)*
 
@@ -57,7 +57,7 @@ Vous devez connaître votre [!DNL IMS org ID]. La vidéo ci-dessous montre où v
 Les droits d’administrateur sont requis pour accéder au [!UICONTROL panneau de contrôle].
 La vidéo ci-dessous explique comment ajouter un administrateur à une instance Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=fre_fr)
 
 ## Autres ressources
 
