@@ -1,8 +1,31 @@
 ---
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: ht
-translation-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+title: Surveillance des bases de données
+description: Découvrez comment surveiller l’utilisation de la base de données de vos instances.
+feature: Database Monitoring
+topics: Control Panel
+kt: 6434
+thumbnail: 327175.jpg
+doc-type: feature video
+audience: administrator
+activity: use
+team: TM
+translation-type: tm+mt
+source-git-commit: 94fec8af7e6de034e3482d39fde79f70bfa8b089
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 3%
 
 ---
+
+
+# Surveillance des bases de données
+
+Les bases de données des [!DNL Adobe Campaign] instances incluent tous les actifs, workflows et données stockés dans [!DNL Adobe Campaign]. Il est donc essentiel de surveiller les bases de données de vos instances pour garantir des performances optimales.
+
+Découvrez comment contrôler l’utilisation de la base de données de vos instances à l’aide du [!DNL Control Panel].
+
+>[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
+
+## Autres ressources
+
+* [Surveillance de la base de données (guide)](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=en#performance-monitoring)
