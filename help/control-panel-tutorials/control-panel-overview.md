@@ -7,11 +7,11 @@ kt: 3262
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: ht
-source-wordcount: '197'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 94fec8af7e6de034e3482d39fde79f70bfa8b089
+workflow-type: tm+mt
+source-wordcount: '209'
+ht-degree: 94%
 
 ---
 
@@ -20,6 +20,10 @@ ht-degree: 100%
 Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
 
 ## Nouveautés
+
+* **[Surveillance des bases de données](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+
+   *Découvrez comment surveiller l’utilisation de la base de données de vos instances.*
 
 * **[Délégation de sous-domaines à l’aide de CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
