@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/fr-FR/campaign-classic-learn/
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 350ef2c3cf70a253b74c48feced0f5f319022631
+source-git-commit: fe2f788ef711612382a2fc80c43f34249f1f877e
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 100%
+source-wordcount: '329'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 + [Présentation](/help/overview.md)
 + Prise en main {#getting-started}
    + [Présentation d’Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
+   + [Installation et configuration du client Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Exploration de l’interface utilisateur d’Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Gestion des campagnes marketing](/help/getting-started/managing-marketing-campaigns.md)
    + [Création d’un plan marketing, de programmes et de campagnes](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
