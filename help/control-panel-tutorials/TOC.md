@@ -1,5 +1,5 @@
 ---
-product: adobe campaign standard
+product: Adobe Cmpaign Classic
 user-guide-title: Tutoriels sur le panneau de contrôle d’Adobe Campaign
 user-guide-description: Le panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance ou ajouter des adresses IP aux listes autorisées.
 breadcrumb-title: Tutoriels sur le panneau de contrôle
@@ -12,10 +12,10 @@ getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 index: true
 translation-type: tm+mt
-source-git-commit: 8459863bbd76085dd4b1bd0e77f38d928d43eb2c
+source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -42,6 +42,6 @@ ht-degree: 98%
       + [Génération et installation de clés GPG pour le cryptage des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [Utilisation d’une clé GPG pour crypter des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Décryptage des données](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
-+ Surveillance des performances {#performance-monitoring}
-   + [Surveillance des bases de données](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
++ Suivi des performances {#performance-monitoring}
+   + [Monitoring des bases de données](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Résolution des problèmes du panneau de contrôle](/help/control-panel-tutorials/trouble-shooting.md)
