@@ -9,7 +9,7 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Découvrez comment configurer un service Android et créer une application mobile Android dans Campaign. Cette étape est nécessaire pour pouvoir définir l’application de cible pour une notification Push.
 
-[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
 ## Que regarder ensuite
 
