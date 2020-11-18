@@ -8,7 +8,7 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 6%
@@ -36,7 +36,7 @@ Avant de commencer, vous devez respecter les conditions préalables suivantes :
 
    Vous devez avoir installé le module de canal d&#39;application mobile sur votre instance. La vidéo suivante explique comment vérifier si le canal d’applications mobiles est installé sur votre instance et, dans le cas contraire, comment l’installer.
 
-   [!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
 ## Tutoriel
 
