@@ -9,23 +9,23 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
+source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '93'
 ht-degree: 2%
 
 ---
 
 
-# Extension du schéma d’abonnement de l’application pour personnaliser les notifications Push
+# Extension du schéma d’abonnement  d’application pour personnaliser les notifications Push
 
-Découvrez comment étendre le schéma d’abonnement de l’application afin de pouvoir stocker les valeurs de personnalisation que Campaign reçoit d’une application mobile.
+Découvrez comment étendre le schéma d’abonnement [!UICONTROL de l’] application afin de stocker les valeurs de personnalisation [!DNL Campaign] reçues d’une application mobile.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
-## Que regarder ensuite
+**Étape suivante**
 
-**[Configuration d’un service Android dans Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)**
+Étape 2 : [Configuration d’un service Android et création d’une application mobile Android dans Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
 ## Autres ressources
 
