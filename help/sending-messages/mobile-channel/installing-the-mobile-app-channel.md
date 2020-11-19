@@ -4,12 +4,12 @@ description: Découvrez comment vérifier si le canal d’applications mobiles e
 feature: push
 topics: mobile channels
 kt: 6438
-thumbnail: 6438.jpg
+thumbnail: 326544.jpg
 doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 433070bf25302e582c67e8504e1508f0b023d575
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 2%
