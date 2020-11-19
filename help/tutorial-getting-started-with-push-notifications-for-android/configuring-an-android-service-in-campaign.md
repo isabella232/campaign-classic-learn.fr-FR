@@ -9,23 +9,27 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
+source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
 
 
-# Configuration d’un service Android et création d’une application mobile Android dans Campaign
+# Configuration d’un [!DNL Android] service et création d’une application [!DNL Android] mobile dans Campaign
 
-Découvrez comment configurer un service Android et créer une application mobile Android dans Campaign. Cette étape est nécessaire pour pouvoir définir l’application de cible pour une notification Push.
+Découvrez comment configurer un [!DNL Android] service et créer une application [!DNL Android] mobile dans Campaign. Cette étape est requise afin que vous puissiez définir l’application mobile de cible pour la notification Push.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
-## Que regarder ensuite
+**Étape précédente**
 
-**[Configuration et envoi de notifications Push](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)**
+Étape 1 : [Extension du schéma d’abonnement de l’application pour personnaliser les notifications Push](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+
+**Étape suivante**
+
+Étape 3 : [Configuration et envoi de notifications Push](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
 
 ## Autres ressources
 
