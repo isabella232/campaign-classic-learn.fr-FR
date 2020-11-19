@@ -4,10 +4,10 @@ description: Adobe Campaign offre une plate-forme pour concevoir des expérienc
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: f0273b5936cbca6e56ab4f4d235c85bbd31aa00e
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 94%
+source-wordcount: '233'
+ht-degree: 88%
 
 ---
 
@@ -18,11 +18,16 @@ Adobe Campaign offre une plate-forme pour concevoir des expériences client cro
 
 ## Nouveautés
 
+* **[Prise en main des notifications Push pour Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
+
+   *Ce didacticiel décrit les étapes à suivre pour envoyer des notifications Push d&#39;Adobe Campaign à une application Android.*
+
+
 * **[Délégation de sous-domaines à l’aide de CNAME (bêta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Découvrez comment configurer et envoyer un sous-domaine à l’aide des CNAME dans le panneau de contrôle.*
 
-* **[Surveillance des bases de données](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+* **[Monitoring des bases de données](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
    *Découvrez comment surveiller l’utilisation de la base de données de vos instances.*
 
