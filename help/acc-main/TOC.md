@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/fr-FR/campaign-classic-learn/
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '334'
-ht-degree: 96%
+source-wordcount: '348'
+ht-degree: 92%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 96%
    + Canal Push {#push-channel}
       + [Installation du Canal des applications mobiles](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configuration du canal Push à l’aide du SDK Experience Platform Mobile](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
+      + [Prise en main des notifications Push pour Android (didacticiel)] (https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
    + Utilisation des modèles de diffusion{#using-delivery-templates}
       + [Configuration d’un modèle de diffusion](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Définition des propriétés de modèle de diffusion](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
