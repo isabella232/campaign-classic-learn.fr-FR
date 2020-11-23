@@ -8,9 +8,9 @@ thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 676737c1c273aca39a56210724199ab540317c78
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Pour pouvoir commencer à envoyer des emails ou publier des landing pages avec A
 
 Découvrez comment configurer et envoyer un sous-domaine à l’aide de CNAME dans le panneau de contrôle.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12&captions=fre_fr)
 
 ## Autres ressources
 
