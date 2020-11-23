@@ -6,7 +6,7 @@ user-guide-description: Adobe Campaign Classic permet aux spécialistes du marke
 breadcrumb-title: Tutoriels
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=fr&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutoriels
 tutorials-url: https://docs.adobe.com/content/help/fr-FR/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentation
@@ -15,7 +15,7 @@ translation-type: tm+mt
 source-git-commit: b4467e36f9e0ae389f3c9632b9f48da95c65213e
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 92%
+ht-degree: 94%
 
 ---
 
@@ -73,7 +73,7 @@ ht-degree: 92%
    + [Segmentation des données](/help/data-management/data-segmentation.md)
 + Conception de contenu{#designing-content}
    + [Configuration des landing pages](/help/designing-content/configure-landingpages.md)
-+ Contrôle    {#monitoring}
++ Contrôle     {#monitoring}
    + [Carte thermique des workflows](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Journal d’audit](/help/monitoring-campaign-classic/audit-trail.md)
 + Intégration {#integrating}
