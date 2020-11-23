@@ -6,9 +6,9 @@ solution: Campaign, Campaign Classic
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-classic-learn.fr-FR
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 5ff5fd9b021e787feefb2aae3b46421c1234b6cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui
 | getting-started-url | Lien vers la page de prise en main helpx |
 | tutorials-url | Lien vers des tutoriels vidéo : tutoriels helpx ou tutoriels KT |
 | mini-toc-levels | Détermine le nombre de niveaux d’en-tête qui apparaissent dans le rail droit. la valeur par défaut est de 2 |
-| git-repo | Spécifie l&#39;emplacement du référentiel maître pour une utilisation interne |
+| git-repo | Spécifie l’emplacement du référentiel maître pour une utilisation interne |
 
 Dans le fichier TOC.md
 
