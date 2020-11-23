@@ -9,9 +9,9 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 role: user
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 480b5f51961060c34e5d36a4eae2e18cf2f8e05a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Cette leçon présente l’interface utilisateur principale d’Adobe Campaign Classic et explique comment naviguer entre les principales fonctionnalités.
 
->[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12&captions=fre_fr)
 
 ## Autres ressources
 
