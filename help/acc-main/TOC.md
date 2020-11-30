@@ -8,14 +8,14 @@ breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=fr&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutoriels
-tutorials-url: https://docs.adobe.com/content/help/fr-FR/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=fr
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: b4467e36f9e0ae389f3c9632b9f48da95c65213e
+source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 94%
+source-wordcount: '343'
+ht-degree: 92%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 94%
    + [Exploration de l’interface utilisateur d’Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Gestion des campagnes marketing](/help/getting-started/managing-marketing-campaigns.md)
    + [Création d’un plan marketing, de programmes et de campagnes](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Création d’une campagne et d’un email](https://docs.adobe.com/content/help/fr-FR/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+   + [Création d’une campagne et d’un email](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
    + [Ciblage de profils dans un workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + Gestion des profils {#profile-management}
    + [Création et gestion des profils](/help/profile-management/create-and-manage-profiles.md)
@@ -79,6 +79,6 @@ ht-degree: 94%
 + Intégration {#integrating}
    + [Intégration de Dynamics 365 avec Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Administration {#administrating}
-   + [Panneau de contrôle](https://docs.adobe.com/content/help/fr-FR/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [Panneau de contrôle](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=fr)
    + Accès à une base externe (FDA) {#fda}
       + [Gestion des big data sur [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
