@@ -1,6 +1,7 @@
 ---
 title: Création et gestion des profils
 description: Découvrez le concept des profils dans Adobe Campaign Classic. Découvrez comment accéder aux données de profil, trier et filtrer les profils et créer et gérer manuellement des profils. Cette vidéo explique également la conformité d’Adobe Campaign Classic avec le règlement général sur la protection des données (RGPD) et avec la loi sur la protection des données personnelles des consommateurs résidant en Californie (CCPA).
+landing-page-description: Understand the concept of profiles. Learn how to access profile data, sort and filter profiles and manually create and manage profiles. Learn about GDPR and CCPA.
 feature: Profiles
 topics: null
 kt: 5081
@@ -10,7 +11,7 @@ activity: use
 team: WWFRE
 role: user
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 84471810b84c7ec49ff5a827036f5bc548b88a6f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 85%
