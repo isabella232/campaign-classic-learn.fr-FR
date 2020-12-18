@@ -8,9 +8,9 @@ thumbnail: 36386.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e97127024a01a1b989297789498b55e477619326
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Le panneau de contrôle permet de crypter les données provenant de votre instance Adobe Campaign. Découvrez comment générer et installer une paire de clés publique/privée sur une instance [!DNL Campaign] spécifiée pour le cryptage des données sortantes.
 
->[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12&captions=fre_fr)
 
 ## Autres ressources
 
