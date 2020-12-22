@@ -12,9 +12,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: e2425ddf8c06c20691276674d41f63239f6905f2
+source-git-commit: 4c2ad15599c4cadb1074f227d1f10be0a2315106
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '355'
 ht-degree: 97%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 97%
    + [Exécution d’une campagne](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [Création de campagnes multicanal](/help/orchestrating-campaigns/multi-channel-campaigns.md)
 + Reporting {#reporting}
+   + [Accès aux rapports natifs](/help/reporting/accessing-built-in-reports.md)
    + [Génération d’un rapport d’analyse descriptive](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatisation avec un workflow{#automating-with-workflows}
    + [Création d’un workflow](/help/automating-with-workflows/creating-a-workflow.md)
