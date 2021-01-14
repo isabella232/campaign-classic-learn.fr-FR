@@ -10,9 +10,10 @@ thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
+translation-type: tm+mt
+source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 100%
 
@@ -39,6 +40,6 @@ ou
 
 Découvrez comment ajouter une plage d’adresses IP aux listes autorisées des instances de Campaign Classic et comment les supprimer de la liste autorisée à l’aide du panneau de contrôle.
 
->[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
 Pour plus d’informations sur l’ajout d’adresses IP aux listes autorisées, consultez la [documentation détaillée du produit](https://helpx.adobe.com/fr/campaign/kb/control-panel-instance-settings.html).
