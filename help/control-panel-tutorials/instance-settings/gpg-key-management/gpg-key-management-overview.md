@@ -4,9 +4,10 @@ description: Les vidéos ci-après expliquent comment générer et installer une
 feature: Control Panel
 topics: GPG Key Management
 team: TM
-translation-type: ht
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/gpg-key-management-overview.html
+translation-type: tm+mt
+source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
 
