@@ -1,5 +1,5 @@
 ---
-title: Création d’un email à partir d’une campagne
+title: Création d’un courrier électronique à partir d’une campagne
 description: Découvrez comment créer une diffusion email directement à partir d’une campagne.
 feature: Email
 topics: null
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
