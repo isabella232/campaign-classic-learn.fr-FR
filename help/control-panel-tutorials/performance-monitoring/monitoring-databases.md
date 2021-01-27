@@ -9,9 +9,9 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 4f24a2b09209e4641186d3b4f2d9bbdc9e450a1b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ L’ensemble des ressources, des workflows et des données de votre instance Cam
 
 Découvrez comment surveiller l’utilisation de la base de données de vos instances avec le [!DNL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
 ## Autres ressources
 
