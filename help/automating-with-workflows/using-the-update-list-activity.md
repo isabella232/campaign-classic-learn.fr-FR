@@ -1,5 +1,5 @@
 ---
-title: Utilisation de l’activité de mise à jour de liste pour créer une liste avec un processus
+title: Utilisation de l’activité de mise à jour de liste pour créer une liste avec un workflow
 description: Découvrez comment affiner votre cible en appliquant une exclusion standard à un processus. Vous apprendrez également comment créer des filtres prédéfinis et comment tirer le meilleur parti de votre processus.
 feature: Workflows
 topics: Targeting Activities
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 3%
+ht-degree: 44%
 
 ---
 
 
-# Utilisation de l’activité de mise à jour de liste pour créer une liste avec un processus
+# Utilisation de l’activité de mise à jour de liste pour créer une liste avec un workflow
 
 Découvrez le concept de listes dans Adobe Campaign Classic et comment créer une liste à l’aide de l’activité de liste de mise à jour dans un flux de travail.
 
@@ -27,11 +27,11 @@ Découvrez le concept de listes dans Adobe Campaign Classic et comment créer un
 
 Documentation :
 
-* [A propos des Workflows](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [A propos des Workflows](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
 * [Mise à jour de la liste](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
 
-Tutoriels:
+Tutoriels :
 
-* [Ciblage de profils dans un processus](/help/getting-started/targeting-profiles-in-a-workflow.md)
+* [Ciblage de profils dans un workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
 * [Affinage des cibles en combinant les résultats des requêtes](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [Affinage des cibles en excluant les résultats des requêtes](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
