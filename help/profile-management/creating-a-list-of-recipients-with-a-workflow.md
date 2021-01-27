@@ -12,14 +12,14 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 35%
+ht-degree: 96%
 
 ---
 
 
-# Création d’une liste de destinataires avec un processus
+# Création d’une liste de destinataires avec un workflow
 
-Découvrez comment créer un processus afin de cible des destinataires et comment le rendre récurrent avant d’utiliser la liste dans une cible électronique.
+Découvrez comment créer un workflow pour cibler des destinataires, et comment le rendre récurrent avant d&#39;utiliser la liste dans une cible d&#39;email.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12)
 
@@ -29,8 +29,8 @@ Documentation :
 
 * [Créer et gérer des listes](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
 
-Tutoriels:
+Tutoriels :
 
-* [Création et gestion de profils](/help/profile-management/create-and-manage-profiles.md)
-* [Importer des profils](/help/data-management/importing-profiles.md)  
+* [Création et gestion des profils](/help/profile-management/create-and-manage-profiles.md)
+* [Importer des profils](/help/data-management/importing-profiles.md)   
 * [Création d’une liste de destinataires](/help/profile-management/creating-a-list-of-recipients.md)
