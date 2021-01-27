@@ -25,4 +25,4 @@ Cette vidéo explique comment naviguer dans l’éditeur d’applications Web d�
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-Pour plus d’informations, voir la documentation détaillée sur la [création d’un landing page](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
+Pour plus d&#39;informations, consultez la documentation détaillée sur [Création d&#39;un landing page](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
