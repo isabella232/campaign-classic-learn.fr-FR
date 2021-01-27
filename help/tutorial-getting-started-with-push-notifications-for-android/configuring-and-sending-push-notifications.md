@@ -8,9 +8,9 @@ thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 433070bf25302e582c67e8504e1508f0b023d575
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Découvrez comment configurer et envoyer une [!DNL push] notification aux utilisateurs d’une application [!DNL Android].
 
->[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
 
 **Étape précédente**
 
