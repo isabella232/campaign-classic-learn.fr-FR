@@ -4,10 +4,10 @@ description: Adobe Campaign offre une plateforme pour concevoir des expérience
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 100%
+source-wordcount: '243'
+ht-degree: 90%
 
 ---
 
@@ -18,18 +18,17 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
+* **[Création et conception de diffusions de messagerie](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+
+   *Comprenez le processus de création d’une diffusion de messagerie et apprenez à concevoir et à personnaliser du contenu de messagerie.*
+
 * **[Prise en main des notifications push pour Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
    *Ce tutoriel vous guide tout au long des étapes à suivre pour envoyer des notifications push à une application Android depuis Adobe Campaign.*
 
-
 * **[Délégation de sous-domaines à l’aide de CNAME (bêta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Découvrez comment configurer et envoyer un sous-domaine à l’aide des CNAME dans le panneau de contrôle.*
-
-* **[Monitoring des bases de données](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
-
-   *Découvrez comment surveiller l’utilisation de la base de données de vos instances.*
 
 ## Sélections du personnel
 
