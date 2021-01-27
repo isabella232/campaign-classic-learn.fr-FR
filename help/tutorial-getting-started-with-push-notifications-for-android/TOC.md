@@ -7,9 +7,9 @@ breadcrumb-url: /docs/campaign-classic-learn/getting-started-with-push-notificat
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=fr&tag=Campaign+Classic#recommended/solutions/campaign
 index: true
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
