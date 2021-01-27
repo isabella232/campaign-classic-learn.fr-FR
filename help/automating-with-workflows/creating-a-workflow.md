@@ -1,5 +1,5 @@
 ---
-title: 'Créer un workflow    '
+title: 'Créer un workflow      '
 description: Cette vidéo explique comment créer un flux de travail à Adobe Campaign Classic.
 feature: Workflow
 topics: null
@@ -16,7 +16,7 @@ ht-degree: 74%
 ---
 
 
-# Créer un workflow    
+# Créer un workflow      
 
 Adobe Campaign intègre un module de workflow qui propose une interface de contrôle centralisée de l&#39;ensemble des opérations et processus. Le module de workflow permet d&#39;automatiser et de modéliser les différentes tâches des modules du serveur applicatif. Cet environnement graphique complet permet de construire des processus englobant segmentation, exécution de campagnes, manipulations de fichiers, validations, etc. Le moteur de workflow exécute et assure le suivi des processus.
 
