@@ -8,9 +8,9 @@ thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Les champs de personnalisation sont utilisés pour la personnalisation de premie
 
 Découvrez comment ajouter un champ de personnalisation à la ligne d’objet et au contenu d’une diffusion email.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
 ## Ressources supplémentaires
 
