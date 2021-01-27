@@ -8,9 +8,9 @@ thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ Il est actuellement pris en charge par deux fournisseurs de messagerie : Gmail 
 
 La vidéo ci-dessous explique comment activer AMP dans Adobe Campaign Classic et présente son utilisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
 ## Autres ressources
 
