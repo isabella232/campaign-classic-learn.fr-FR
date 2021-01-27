@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -31,8 +31,8 @@ Documentation :
 
 * [Créer et gérer des listes](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
 
-Tutoriels:
+Tutoriels :
 
-* [Création et gestion de profils](/help/profile-management/create-and-manage-profiles.md)
-* [Importer des profils](/help/data-management/importing-profiles.md)  
-* [Création d’une liste de destinataires avec un processus](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
+* [Création et gestion des profils](/help/profile-management/create-and-manage-profiles.md)
+* [Importer des profils](/help/data-management/importing-profiles.md)   
+* [Création d’une liste de destinataires avec un workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
