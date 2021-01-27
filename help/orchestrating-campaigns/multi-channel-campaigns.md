@@ -1,6 +1,6 @@
 ---
 title: Création de campagnes à plusieurs canaux dans Adobe Campaign Classic (ACC)
-description: Découvrez comment créer une campagne multi-canal à l’aide de diffusions de messagerie électronique, de SMS et de publipostage.
+description: Découvrez comment créer une campagne intercanaux à l’aide de diffusions d’emails, de SMS et de courrier.
 feature: Workflows
 topics: null
 kt: 1563
@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 5%
+ht-degree: 38%
 
 ---
 
@@ -23,7 +23,7 @@ Dans une campagne à plusieurs canaux, une communication marketing unique utilis
 
 Les diffusions à plusieurs canaux sont conçues et exécutées dans un seul processus.
 
-Découvrez comment créer une campagne multi-canal à l’aide de diffusions de messagerie électronique, de SMS et de publipostage.
+Découvrez comment créer une campagne intercanaux à l’aide de diffusions d’emails, de SMS et de courrier.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
 
