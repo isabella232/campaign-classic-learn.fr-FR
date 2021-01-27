@@ -11,8 +11,8 @@ team: WWFRE
 translation-type: tm+mt
 source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '53'
+ht-degree: 3%
 
 ---
 
