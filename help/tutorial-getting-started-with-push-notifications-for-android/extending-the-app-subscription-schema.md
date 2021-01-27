@@ -8,9 +8,9 @@ thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 433070bf25302e582c67e8504e1508f0b023d575
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Découvrez comment étendre le schéma d&#39;[!UICONTROL abonnement de l&#39;application] afin de stocker les valeurs de personnalisation [!DNL Campaign] reçues d’une application mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
 **Étape suivante**
 
