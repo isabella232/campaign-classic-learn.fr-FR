@@ -1,5 +1,5 @@
 ---
-title: Création de diffusions de messagerie directe
+title: Création de diffusions courrier
 description: null
 feature: Direct mail
 topics: null
@@ -12,13 +12,13 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '28'
-ht-degree: 0%
+ht-degree: 28%
 
 ---
 
 
-# Création de diffusions de messagerie directe
+# Création de diffusions courrier
 
-Découvrez comment fonctionne le courrier  direct en [!UICONTROL Adobe Campaign] et comment créer, formater et exécuter une [!UICONTROL diffusion de courrier ]direct.
+Découvrez comment [!UICONTROL le courrier direct] fonctionne dans [!UICONTROL Adobe Campaign] et comment créer, formater et exécuter une [!UICONTROL diffusion ]courrier direct.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12)
