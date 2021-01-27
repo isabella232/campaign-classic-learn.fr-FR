@@ -9,9 +9,9 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ Pour vous connecter à un serveur, que ce soit par le biais d’une application 
 
 Découvrez comment ajouter une plage d’adresses IP à la liste autorisée.
 
->[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
 
 ## Autres ressources
 
