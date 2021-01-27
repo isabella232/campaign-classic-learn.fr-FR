@@ -8,9 +8,9 @@ thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Le paramétrage de champs de contenu conditionnel permet d’atteindre un niveau
 
 Découvrez comment ajouter du contenu conditionnel à une diffusion en prenant pour exemple une newsletter multilingue.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
 ## Ressources supplémentaires
 
