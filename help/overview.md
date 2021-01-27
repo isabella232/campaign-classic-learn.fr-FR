@@ -3,9 +3,9 @@ title: Tutoriels Adobe Campaign Classic - Vue d’ensemble
 description: Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
