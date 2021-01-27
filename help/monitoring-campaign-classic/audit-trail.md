@@ -7,9 +7,9 @@ kt: 2835
 doc-type: feature video
 activity: understand
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 100%
 
@@ -41,6 +41,6 @@ Le [!UICONTROL journal d’audit] consigne et répertorie les actions des opéra
 
 La vidéo ci-dessous décrit à partir de quel emplacement accéder aux journaux d’audit et quels paramètres peuvent être configurés.
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
 Pour plus d’informations, consultez la [documentation relative au journal d’audit](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).
