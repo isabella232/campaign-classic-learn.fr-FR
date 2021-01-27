@@ -8,9 +8,9 @@ thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Découvrez comment configurer un service [!DNL Android] et créer une application mobile [!DNL Android] dans Campaign. Cette étape est requise afin que vous puissiez définir l’application mobile cible pour la notification push.
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
 **Étape précédente**
 
