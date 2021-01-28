@@ -4,7 +4,7 @@ description: Adobe Campaign offre une plateforme pour concevoir des expérience
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
+source-git-commit: b6b92148aa3993bc3cee7883ce6a16bc8a4941ea
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 87%
@@ -18,7 +18,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **+  [Conception de courriels pour la délivrabilité](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* ** [Concevoir des courriels pour la délivrabilité](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *Découvrez comment appliquer les meilleures pratiques en matière de délivrabilité.*
 
