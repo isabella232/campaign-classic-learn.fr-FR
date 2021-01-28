@@ -12,7 +12,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 588f8607ac9ad11316e77333b8bd6fcf7cc78590
+source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
 workflow-type: tm+mt
 source-wordcount: '366'
 ht-degree: 86%
@@ -41,7 +41,7 @@ ht-degree: 86%
    + Canal email{#email-channel}
       + [Création et conception de diffusions de messagerie](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Gestion de l’adresse de contrôle et des BAT dans un email](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
-      + [Envoyer et valider des BAT](/help/sending-messages/email-channel/send-and-validate-proofs)
+      + [Envoyer et valider des BAT](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Configuration du contenu dynamique](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personnalisation des emails à l’aide de blocs de contenu dynamique](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personnalisation des emails à l’aide d’un champ de personnalisation](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
