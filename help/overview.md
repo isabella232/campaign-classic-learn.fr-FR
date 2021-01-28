@@ -4,7 +4,7 @@ description: Adobe Campaign offre une plateforme pour concevoir des expérience
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
+source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 81%
@@ -20,7 +20,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 * **[Envoyer et valider des BAT](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-*Découvrez comment envoyer et valider un BAT.*
+   *Découvrez comment envoyer et valider un BAT.*
 
 * **[Créer des courriers électroniques pour la livraison](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
