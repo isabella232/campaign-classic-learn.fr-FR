@@ -4,10 +4,10 @@ description: Adobe Campaign offre une plateforme pour concevoir des expérience
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
+source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 81%
+source-wordcount: '239'
+ht-degree: 72%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 81%
 Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Classic.
 
 ## Nouveautés
+
+* **[Utiliser des Populations témoins](/help/sending-messages/email-channel/use-control-groups.md)**
+
+   *Comprenez le concept des Populations témoins et apprenez à utiliser une Population témoin pour votre diffusion.*
 
 * **[Envoyer et valider des BAT](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
@@ -30,9 +34,6 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
    *Comprenez le processus de création d’une diffusion de messagerie et apprenez à concevoir et à personnaliser du contenu de messagerie.*
 
-* **[Prise en main des notifications push pour Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
-
-   *Ce tutoriel vous guide tout au long des étapes à suivre pour envoyer des notifications push à une application Android depuis Adobe Campaign.*
 
 ## Sélections du personnel
 
