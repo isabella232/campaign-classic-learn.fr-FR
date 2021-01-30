@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: b394c336a99427962618a9242109e51b7d30aeaa
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 21%
+source-wordcount: '69'
+ht-degree: 24%
 
 ---
 
@@ -28,5 +28,5 @@ Découvrez comment créer une campagne intercanaux à l’aide de diffusions d�
 
 ## Autres ressources
 
-* [Créer et orchestrer des campagnes par courriel à Adobe Campaign Classic](https://helpx.adobe.com/campaign/classic/how-to/design-orchestrate-email-campaigns-in-campaign-classic.html)
+* [Présentation des campagnes multicanaux et intercanaux](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
 
