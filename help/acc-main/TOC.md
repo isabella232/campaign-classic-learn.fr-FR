@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 72815762856f9537e409b52c4c9752c5193a0efc
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
 workflow-type: tm+mt
-source-wordcount: '375'
-ht-degree: 86%
+source-wordcount: '378'
+ht-degree: 84%
 
 ---
 
@@ -69,7 +69,8 @@ ht-degree: 86%
    + [Configuration et gestion des services d&#39;inscription](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orchestration des campagnes {#orchestration}
    + [Exécution d’une campagne](/help/orchestrating-campaigns/executing-a-campaign.md)
-   + [Création de campagnes multicanal](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+   + [Création de campagnes à plusieurs canaux](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+   + [Créer des campagnes entre canaux](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + Reporting {#reporting}
    + [Accès aux rapports natifs](/help/reporting/accessing-built-in-reports.md)
    + [Génération d’un rapport d’analyse descriptive](/help/reporting/generating-a-descriptive-analysis-report.md)
