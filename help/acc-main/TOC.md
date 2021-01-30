@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: 537c202807c5a1c1b1918588d6f3396da9d48a51
 workflow-type: tm+mt
-source-wordcount: '378'
-ht-degree: 84%
+source-wordcount: '384'
+ht-degree: 83%
 
 ---
 
@@ -69,6 +69,7 @@ ht-degree: 84%
    + [Configuration et gestion des services d&#39;inscription](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orchestration des campagnes {#orchestration}
    + [Exécution d’une campagne](/help/orchestrating-campaigns/executing-a-campaign.md)
+   + [Présentation des campagnes multicanaux et intercanaux](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Création de campagnes à plusieurs canaux](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [Créer des campagnes entre canaux](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + Reporting {#reporting}
