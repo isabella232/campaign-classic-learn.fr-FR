@@ -4,12 +4,12 @@ description: Découvrez comment configurer et gérer les abonnements et les abon
 feature: Subscriptions
 topics: null
 kt: 5088
-thumbnail: 329941
+thumbnail: 329941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: c8ff73f69db65c2a5d3582a7925c470684a014cd
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 4%
