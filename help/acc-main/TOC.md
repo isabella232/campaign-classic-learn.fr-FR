@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 537c202807c5a1c1b1918588d6f3396da9d48a51
+source-git-commit: be6a627d858eabdeb7e64d2dd9fa969adcb49a27
 workflow-type: tm+mt
-source-wordcount: '384'
-ht-degree: 83%
+source-wordcount: '394'
+ht-degree: 81%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 83%
 # Tutoriels Adobe Campaign Classic {#tutorials}
 
 + [Présentation](/help/overview.md)
++ [Préparer la prise en main de l&#39;Adobe Campaign - Meilleures pratiques en matière de délivrabilité](/https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
 + Prise en main {#getting-started}
    + [Présentation d’Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installation et configuration du client Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
