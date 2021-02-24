@@ -1,7 +1,7 @@
 ---
-product: Adobe Cmpaign Classic
+product: Adobe Campaign Classic
 user-guide-title: Tutoriels sur le panneau de contrôle d’Adobe Campaign
-user-guide-description: Le panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance ou ajouter des adresses IP aux listes autorisées.
+user-guide-description: Découvrez comment surveiller les ressources clés de vos instances Adobe Campaign et effectuer des tâches administratives dans Panneau de Contrôle.
 breadcrumb-title: Tutoriels sur le panneau de contrôle
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
@@ -12,10 +12,10 @@ getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 index: true
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: f4be1f91a69c14fe6a61b4e286c656dcf46a5a67
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 100%
+source-wordcount: '157'
+ht-degree: 89%
 
 ---
 
