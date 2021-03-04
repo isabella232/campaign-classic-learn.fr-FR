@@ -8,11 +8,13 @@ thumbnail: 24981.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: b394c336a99427962618a9242109e51b7d30aeaa
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 42%
+source-wordcount: '81'
+ht-degree: 40%
 
 ---
 
