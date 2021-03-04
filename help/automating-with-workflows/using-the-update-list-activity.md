@@ -1,18 +1,20 @@
 ---
 title: Utilisation de l’activité de mise à jour de liste pour créer une liste avec un workflow
 description: Découvrez comment affiner votre cible en appliquant une exclusion standard à un processus. Vous apprendrez également comment créer des filtres prédéfinis et comment tirer le meilleur parti de votre processus.
-feature: Workflows
+feature: Workflows, Activité de ciblage, Éditeur de Requête
 topics: Targeting Activities
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 44%
+source-wordcount: '131'
+ht-degree: 41%
 
 ---
 
