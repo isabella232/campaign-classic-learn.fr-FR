@@ -1,19 +1,21 @@
 ---
 title: Configuration d’un modèle de diffusion dans Adobe Campaign Classic
-description: Un modèle peut systématiquement inclure des typologies, des adresses d'expéditeur et de réponse, ainsi que des blocs de personnalisation de base tels que des liens de page miroir et de désinscription. Il peut également inclure du contenu, un logo ou une signature de société, ainsi que d’autres propriétés de diffusion, telles que la validité des ressources, les quantités de lots, etc. La vidéo suivante montre comment configurer un modèle pour une diffusion ad hoc.
-feature: Delivery Templates
+description: Découvrez comment configurer un modèle pour une diffusion ad hoc.
+feature: modèles de diffusion
 topics: Templates
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Administrateur
+level: Début
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 52%
+source-wordcount: '180'
+ht-degree: 57%
 
 ---
 
