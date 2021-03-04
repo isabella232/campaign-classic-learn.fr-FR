@@ -1,18 +1,20 @@
 ---
 title: Gestion des approbations dans une campagne
 description: Découvrez comment configurer des approbations et une campagne et comment différencier les approbations de diffusion et de processus.
-feature: Workflows, Approvals
+feature: Workflows, approbations
 topics: null
 kt: 5093
 thumbnail: 329605.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 21%
+source-wordcount: '83'
+ht-degree: 20%
 
 ---
 
