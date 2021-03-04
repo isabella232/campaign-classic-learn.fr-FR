@@ -1,18 +1,20 @@
 ---
 title: Déploiement d’un modèle de diffusion de messagerie ad hoc dans Adobe Campaign Classic
-description: 'Cette vidéo montre comment déployer un modèle de diffusion email ad hoc. Elle explique aussi la différence entre une diffusion email et un workflow de diffusion. '
-feature: Delivery Templates
+description: 'Découvrez comment déployer un modèle de diffusion de messagerie ad hoc et comprendre la différence entre une diffusion de messagerie et un processus de diffusion. '
+feature: modèles de diffusion
 topics: Templates
 kt: 1565
 thumbnail: 24065.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Administrateur
+level: Début
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 93%
+source-wordcount: '146'
+ht-degree: 76%
 
 ---
 
