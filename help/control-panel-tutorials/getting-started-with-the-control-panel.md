@@ -1,18 +1,21 @@
 ---
 title: Prise en main du panneau de contrôle
-description: Cet article explique comment accéder au panneau de contrôle et présente les conditions préalables requises pour pouvoir l’utiliser.
-feature: Control Panel
+description: Découvrez comment accéder au Panneau de Contrôle et quelles sont les conditions préalables pour pouvoir travailler avec le panneau de contrôle.
+feature: 'Panneau de contrôle   '
 topics: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
+topic: null
+role: Administrateur
+level: Expérience
 translation-type: tm+mt
-source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 100%
+source-wordcount: '245'
+ht-degree: 91%
 
 ---
 
