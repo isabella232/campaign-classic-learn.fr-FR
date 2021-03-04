@@ -3,19 +3,21 @@ title: Ajout d’adresses IP aux listes autorisées
 seo-title: Ajout d’adresses IP aux listes autorisées
 description: Découvrez comment ajouter une plage d’adresses IP aux listes autorisées des instances de Campaign Classic et comment les supprimer de la liste autorisée à l’aide du panneau de contrôle.
 seo-description: La vidéo ci-dessous explique comment configurer de nouvelles connexions à vos instances en ajoutant des plages d’adresses IP aux listes autorisées.
-feature: instance settings
+feature: 'Panneau de contrôle   '
 topics: null
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: Administrateur
+level: Expérience
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 100%
+source-wordcount: '223'
+ht-degree: 99%
 
 ---
 
