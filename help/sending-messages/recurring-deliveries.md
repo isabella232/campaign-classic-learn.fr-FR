@@ -1,17 +1,19 @@
 ---
 title: Comment configurer des campagnes par courriel récurrentes et continues
-description: Ce didacticiel explique comment configurer une diffusion récurrente et continue et les différences entre les deux approches dans Adobe Campaign Classic (ACC).
-feature: workflows
+description: Découvrez comment configurer une diffusion récurrente et continue et comprendre les différences entre les deux approches.
+feature: Workflows
 topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 66%
+source-wordcount: '270'
+ht-degree: 67%
 
 ---
 
