@@ -1,17 +1,19 @@
 ---
 title: 'Configuration du canal Push à l’aide du SDK Mobile Experience Platform '
-description: 'Cette vidéo explique comment configurer le canal Push pour le Campaign Classic à l’aide du SDK mobile Experience Cloud. '
-feature: Mobile SDK
+description: 'Découvrez comment configurer le canal Push à l’aide du SDK mobile Experience Cloud. '
+feature: Push
 topics: Mobile Channels
 kt: 2683
 doc-type: feature video
 activity: setup
 team: PM
+role: Administrateur
+level: Début
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 29%
+source-wordcount: '89'
+ht-degree: 32%
 
 ---
 
