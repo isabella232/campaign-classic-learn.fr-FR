@@ -1,19 +1,20 @@
 ---
 title: Accès aux rapports natifs
-description: Comprendre  rapports et analyse intégrés en Campaign Classic et comment générer un rapport de diffusion.
-feature: Reporting
+description: Comprenez l’rapports et l’analyse intégrés et apprenez à générer un rapport de diffusion.
+feature: 'Reporting '
 topics: null
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: user
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 5866cade054ddc7d3d41db1104887c224dcf0c17
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 10%
+source-wordcount: '74'
+ht-degree: 12%
 
 ---
 
