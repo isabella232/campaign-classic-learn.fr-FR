@@ -1,17 +1,19 @@
 ---
 title: Exécution d’une campagne
 description: Découvrez comment exécuter une campagne, passer en revue une diffusion de messagerie et connaître les propriétés de la diffusion.
-feature: Campaigns
+feature: Campagnes, Courriel
 topics: null
 kt: 5092
 thumbnail: 329647.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '58'
 ht-degree: 3%
 
 ---
