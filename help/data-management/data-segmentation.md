@@ -1,17 +1,19 @@
 ---
 title: Segmentation des données dans Adobe Campaign Classic
-description: 'Adobe Campaign vous permet d’effectuer une segmentation avancée au moyen de requêtes profondes des attributs courants du consommateur et d’autres sources de données, ce qui vous permet de créer des listes réutilisables, de mettre à jour dynamiquement des listes en fonction de modifications en temps réel des données et même d’effectuer des activités plus complexes telles que des tests multivariés sur l’un de ces points de données. Ce didacticiel explique le profil client intégré, comment créer et mettre à jour les profils et comment créer des segments de clients en fonction de ces profils. '
-feature: Data segmentation
+description: 'Comprendre le profil client intégré, comment créer et mettre à jour les profils et comment créer des segments de clients en fonction de ces profils. '
+feature: Profils, Activité Data Management
 topics: Data Management
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 4%
+source-wordcount: '310'
+ht-degree: 5%
 
 ---
 
