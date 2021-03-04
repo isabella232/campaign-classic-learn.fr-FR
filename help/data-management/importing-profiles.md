@@ -1,17 +1,19 @@
 ---
 title: Import de profils
-description: Cette vidéo explique comment importer des profils dans Adobe Campaign Classic
-feature: Profile Management
+description: Découvrez comment importer des profils dans Adobe Campaign Classic
+feature: Gestion des profils
 topics: Data Import and Export
 kt: 2176
 doc-type: feature video
 activity: use
 team: TM
+role: Professionnel, administrateur, développeur
+level: Début
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 21%
+source-wordcount: '51'
+ht-degree: 23%
 
 ---
 
