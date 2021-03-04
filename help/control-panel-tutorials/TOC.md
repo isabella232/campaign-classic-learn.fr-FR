@@ -11,11 +11,14 @@ tutorials-url: https://docs.adobe.com/content/help/fr-FR/campaign-classic-learn/
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 index: true
+feature: 'Panneau de contrôle   '
+role: Administrateur
+level: Expérience
 translation-type: tm+mt
-source-git-commit: f4be1f91a69c14fe6a61b4e286c656dcf46a5a67
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 89%
+source-wordcount: '161'
+ht-degree: 88%
 
 ---
 
