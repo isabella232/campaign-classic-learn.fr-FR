@@ -1,17 +1,19 @@
 ---
 title: Comment configurer des landings page dans Adobe Campaign Classic
-description: Adobe Campaign Classic vous permet de concevoir et d’héberger divers landings page sur son serveur, y compris des questionnaires en ligne, des centres de préférences, des pages de désabonnement. Cette vidéo explique comment naviguer dans l’éditeur d’applications Web d’Adobe Campaign en créant un centre de préférences.
-feature: Landing Pages
+description: Découvrez comment naviguer dans l’éditeur d’applications Web en créant un centre de préférences.
+feature: landings page
 topics: Configure
 kt: 1562
 thumbnail: 25041.jpg
 doc-type: feature video
 activity: setup
 team: DOC
+role: Développeur, administrateur
+level: Début
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
