@@ -1,21 +1,23 @@
 ---
 title: Configuration des activités d'enrichissement
 seo-title: Configuration des activités d’enrichissement dans Adobe Campaign Classic
-description: Une activité d’enrichissement est un objet de processus qui permet à l’utilisateur d’ajouter des données à la table de travail. Avec un enrichissement, vous pouvez ajouter des colonnes à ce tableau pour contenir des données supplémentaires OU définir de nouveaux liens entre ce tableau de travail et d'autres données existantes.  Cette vidéo explique comment configurer une activité d'enrichissement en fonction des informations du journal des diffusions.
+description: Découvrez comment configurer une activité d'enrichissement en fonction des informations du journal des diffusions.
 seo-description: Une activité d’enrichissement est un objet de processus qui permet à l’utilisateur d’ajouter des données à la table de travail. Avec un enrichissement, vous pouvez ajouter des colonnes à ce tableau pour contenir des données supplémentaires OU définir de nouveaux liens entre ce tableau de travail et d'autres données existantes.   Cette vidéo explique comment configurer une activité d'enrichissement en fonction des informations du journal des diffusions.
 uuid: 544128b9-9912-4ba7-8910-ad11a26a73ff
 discoiquuid: ff2a1e2f-9df1-4ad0-bdff-5a257df5ff66
-feature: Workflow
+feature: Workflows, Activité Enrichissement
 topics: Targeting Activities
 kt: KT-1561
 doc-type: feature video
 activity: use
 team: TM
+role: Professionnel, développeur
+level: Avancé
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 1%
+source-wordcount: '168'
+ht-degree: 2%
 
 ---
 
