@@ -8,10 +8,12 @@ thumbnail: 330943.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '46'
 ht-degree: 4%
 
 ---
