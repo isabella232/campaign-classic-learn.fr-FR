@@ -1,6 +1,6 @@
 ---
 title: Création et gestion des profils
-description: Découvrez comment accéder aux données de profil, trier et filtrer les profils et créer et gérer manuellement des profils. Comprendre la conformité avec le Règlement général sur la protection des données (RGPD) et la Loi sur la protection des renseignements personnels des consommateurs (LPCPC) de Californie.
+description: Découvrez comment accéder aux données de profil, trier et filtrer les profils et créer et gérer manuellement des profils. Comprendre la conformité au Règlement général sur la protection des données (RGPD) et au California Consumer Privacy Act (CCPA).
 landing-page-description: Comprendre le concept de profils. Découvrez comment accéder aux données de profil, trier et filtrer les profils et créer et gérer manuellement des profils. En savoir plus sur le RGPD et le CCPA.
 feature: Profils
 topics: null
@@ -10,12 +10,12 @@ doc-type: feature video
 activity: use
 team: WWFRE
 role: Professionnel
-level: Début
+level: Débutant
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 76%
+ht-degree: 87%
 
 ---
 
