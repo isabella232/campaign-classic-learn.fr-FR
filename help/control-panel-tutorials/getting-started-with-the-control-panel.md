@@ -10,10 +10,10 @@ team: TM
 role: Administrateur
 level: Expérimenté
 translation-type: tm+mt
-source-git-commit: 683f1b38be18468bf34eb5b43988b8c2477f951b
+source-git-commit: f237d0029ee534a2b7872580bccb2c3d74f45510
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 59%
+source-wordcount: '295'
+ht-degree: 58%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 59%
 
 >[!NOTE]
 >
->Le Panneau de Contrôle est accessible à tous les utilisateurs administrateurs. Les étapes permettant d’accorder l’accès administrateur à un utilisateur sont détaillées dans la [documentation du produit](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel).
+> Le Panneau de Contrôle est accessible à tous les utilisateurs administrateurs. Les étapes permettant d’accorder l’accès administrateur à un utilisateur sont détaillées dans la [documentation du produit](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel).
 Notez que votre instance doit être hébergée sur AWS et mise à niveau avec la dernière version de [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html). Découvrez comment vérifier votre version dans [cette section](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Pour vérifier si votre instance est hébergée sur AWS, suivez les étapes détaillées dans [cette page](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
 
 Le [!UICONTROL panneau de contrôle] permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage [!DNL SFTP] par instance, gérer des clés [!DNL GPG] ou des [!UICONTROL sous-domaines] et des [!UICONTROL certificats].
@@ -51,8 +51,6 @@ Avant de commencer, remplissez les conditions préalables suivantes :
 Vous devez connaître votre [!DNL IMS org ID]. La vidéo ci-dessous montre où vous pouvez trouver l’[!DNL IMS org ID] de votre instance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-
-*Vérification [!DNL IMS Org ID] (00:26 min)*
 
 ### Droits d’administrateur
 
