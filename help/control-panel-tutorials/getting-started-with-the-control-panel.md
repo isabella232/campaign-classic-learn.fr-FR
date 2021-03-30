@@ -10,10 +10,10 @@ team: TM
 role: Administrateur
 level: Expérimenté
 translation-type: tm+mt
-source-git-commit: d946afb1e9084bb30b7992239b27b579d361acdb
+source-git-commit: 2232079c569a46325807befd04ea91d2a64e1597
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 58%
+source-wordcount: '310'
+ht-degree: 56%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 58%
 >
 > Le Panneau de Contrôle est accessible à tous les utilisateurs administrateurs. Les étapes permettant d’accorder l’accès administrateur à un utilisateur sont détaillées dans la [documentation du produit](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel).
 >
-> Notez que votre instance doit être hébergée sur AWS et mise à niveau avec la dernière version de [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html). Découvrez comment vérifier votre version dans [cette section](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Pour vérifier si votre instance est hébergée sur AWS, suivez les étapes détaillées dans [cette page](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
+> Notez que votre instance doit être hébergée sur AWS et mise à niveau avec la dernière version de [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html) ou la dernière version de [GA (21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Découvrez comment vérifier votre version dans [cette section](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Pour vérifier si votre instance est hébergée sur AWS, suivez les étapes détaillées dans [cette page](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
 
 Le [!UICONTROL panneau de contrôle] permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage [!DNL SFTP] par instance, gérer des clés [!DNL GPG] ou des [!UICONTROL sous-domaines] et des [!UICONTROL certificats].
 
