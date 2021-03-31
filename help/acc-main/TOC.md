@@ -11,11 +11,11 @@ tutorials-title: Tutoriels
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=fr
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '394'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 81%
    + [Présentation d’Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installation et configuration du client Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Exploration de l’interface utilisateur d’Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
-   + [Gérer les campagnes marketing](/help/getting-started/managing-marketing-campaigns.md)
-   + [Créer un plan marketing, des programmes et des campagnes](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
+   + [Gestion des campagnes marketing](/help/getting-started/managing-marketing-campaigns.md)
+   + [Création d’un plan marketing, de programmes et de campagnes](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Création d’une campagne et d’un email](/help/getting-started/creating-a-campaign-and-an-email.md)
-   + [Profils de cible dans un processus](/help/getting-started/targeting-profiles-in-a-workflow.md)
-   + [Créer des campagnes déclenchées par un événement](/help/getting-started/create-event-triggered-campaigns.md)
+   + [Ciblage de profils dans un workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Création de campagnes déclenchées par un événement](/help/getting-started/create-event-triggered-campaigns.md)
 + Gestion des profils {#profile-management}
    + [Création et gestion des profils](/help/profile-management/create-and-manage-profiles.md)
    + [Importer des profils](/help/data-management/importing-profiles.md)   
@@ -39,22 +39,22 @@ ht-degree: 81%
    + [Création d’une liste de destinataires avec un workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Envoi des messages{#sending-messages}
    + Canal email{#email-channel}
-      + [Création et conception de diffusions de messagerie](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+      + [Création et conception de diffusions email](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Gestion de l’adresse de contrôle et des BAT dans un email](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
-      + [Envoyer et valider des BAT](/help/sending-messages/email-channel/send-and-validate-proofs.md)
-      + [Utiliser des Populations témoins](/help/sending-messages/email-channel/use-control-groups.md)
+      + [Envoi et validation de BAT](/help/sending-messages/email-channel/send-and-validate-proofs.md)
+      + [Utilisation de populations témoins](/help/sending-messages/email-channel/use-control-groups.md)
       + [Configuration du contenu dynamique](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personnalisation des emails à l’aide de blocs de contenu dynamique](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personnalisation des emails à l’aide d’un champ de personnalisation](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
       + [Personnalisation des emails : créer une newsletter multilingue à l’aide de contenu conditionnel](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Configuration de campagnes email récurrentes et continues](/help/sending-messages/recurring-deliveries.md)
       + [Définition du contenu d’email interactif avec AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
-      + [Résolution des problèmes de diffusion de courrier électronique](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
-      + [Créer des courriers électroniques pour la livraison](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [Guide des meilleures pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
+      + [Résolution des problèmes de diffusion email](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
+      + [Conception d’emails pour la délivrabilité](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr-FR)
    + Canal SMS {#sms-channel}
-      + [Créer une diffusion SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
-   + Canal Push {#push-channel}
+      + [Création d’une diffusion SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
+   + Canal push {#push-channel}
       + [Installation du canal Applications mobiles](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configuration du canal push à l’aide du SDK Mobile Experience Platform](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Prise en main des notifications push pour Android (tutoriel)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=fr)
@@ -67,12 +67,12 @@ ht-degree: 81%
    + Gestion de la fatigue{#fatigue-management}
       + [Utilisation de règles de typologie](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Utilisation de filtres prédéfinis](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + [Configuration et gestion des services d&#39;inscription](/help/sending-messages/configuring-and-managing-subscription-services.md)
+   + [Configuration et gestion des services d’abonnement](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orchestration des campagnes {#orchestration}
    + [Exécution d’une campagne](/help/orchestrating-campaigns/executing-a-campaign.md)
-   + [Présentation des campagnes multicanaux et intercanaux](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
-   + [Création de campagnes à plusieurs canaux](/help/orchestrating-campaigns/multi-channel-campaigns.md)
-   + [Créer des campagnes entre canaux](/help/orchestrating-campaigns/cross-channel-campaigns.md)
+   + [Introduction aux campagnes multicanal et cross-canal](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+   + [Création de campagnes multicanal](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+   + [Création de campagnes cross-canal](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + Reporting {#reporting}
    + [Accès aux rapports natifs](/help/reporting/accessing-built-in-reports.md)
    + [Génération d’un rapport d’analyse descriptive](/help/reporting/generating-a-descriptive-analysis-report.md)
@@ -85,7 +85,7 @@ ht-degree: 81%
    + [Configuration de workflows de validation](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Configuration d’activités d’enrichissement](/help/automating-with-workflows/enrichment-activity.md)
    + [Segmentation des données](/help/data-management/data-segmentation.md)
-   + [Gestion des approbations](/help/automating-with-workflows/managing-approvals.md)
+   + [Gestion des validations](/help/automating-with-workflows/managing-approvals.md)
 + Conception de contenu{#designing-content}
    + [Configuration des landing pages](/help/designing-content/configure-landingpages.md)
 + Contrôle     {#monitoring}
