@@ -1,21 +1,21 @@
 ---
 title: Panneau de contrôle - Présentation
 description: Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
-landing-page-description: Le Panneau de Contrôle permet aux administrateurs de Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, telles que la gestion de l’enregistrement SFTP, des clés GPG ou des sous-domaines et certificats.
-feature: 'Panneau de contrôle   '
+landing-page-description: Le panneau de contrôle permet aux administrateurs Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
+feature: Panneau de contrôle
 topics: Control Panel
 kt: 3262
 doc-type: feature video
 activity: use
 team: PM
 role: Administrateur
-level: Expérience
+level: Expérimenté
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -69,8 +69,8 @@ Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Connexion à un serveur SFTP</strong>
-    </a>
+    <strong>Connexion à un serveur SFTP</strong>
+    </a>
     </div>
     <p>
     <em>Découvrez comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le panneau de contrôle. </em>
@@ -79,6 +79,6 @@ Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
 </tr>
 </table>
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Centre d&#39;aide relatif au panneau de contrôle](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
