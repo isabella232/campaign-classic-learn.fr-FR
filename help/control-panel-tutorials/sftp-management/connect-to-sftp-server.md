@@ -1,7 +1,7 @@
 ---
 title: Connexion à un serveur SFTP
-description: Découvrez comment vous connecter à votre serveur SFTP à l’aide d’une application SFTP client à l’aide des clés que vous avez stockées dans le Panneau de Contrôle.
-feature: 'Panneau de contrôle   '
+description: Découvrez comment vous connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le panneau de contrôle.
+feature: Panneau de contrôle
 topics: Control Panel
 kt: 2924
 thumbnail: 27263.jpg
@@ -9,13 +9,13 @@ doc-type: feature video
 activity: use
 team: PM
 role: Administrateur
-level: Expérience
+level: Expérimenté
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/connect-to-sftp-server.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 84%
 
 Pour accéder à la gestion SFTP dans le panneau de contrôle, rendez-vous sur :
 
-* [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Carte **Panneau de contrôle** > Carte **SFTP**
+* [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Vignette **Panneau de contrôle** > Vignette **SFTP**
 
    ou
 * Directement à partir de l’URL : [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
