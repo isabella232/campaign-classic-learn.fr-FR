@@ -1,7 +1,7 @@
 ---
 title: Ajout de certificats SSL
 description: Découvrez comment ajouter des certificats SSL pour sécuriser vos sous-domaines.
-feature: 'Panneau de contrôle   '
+feature: Panneau de contrôle
 topics: Control Panel
 kt: 4219
 thumbnail: 31317.jpg
@@ -9,13 +9,13 @@ doc-type: feature video
 activity: use
 team: PM
 role: Administrateur
-level: Expérience
+level: Expérimenté
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-ssl-certificates.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Le [!UICONTROL panneau de contrôle] d’Adobe Campaign permet d’ajouter des c
 
 Pour accéder à la gestion des sous-domaines dans le panneau de contrôle, rendez-vous sur :
 
-* [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Carte **[!UICONTROL Panneau de contrôle]** > Carte **[!UICONTROL Sous-domaines et certificats]**
+* [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Vignette **[!UICONTROL Panneau de contrôle]** > Vignette **[!UICONTROL Sous-domaines et certificats]**
 
    ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -61,7 +61,7 @@ La vidéo ci-dessous montre comment installer des certificats SSL dans le [!UICO
 
 *Installer des certificats SSL (01:25 min)*
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Délégation complète de sous-domaines (vidéo)](./subdomain-delegation.md)
 * [Sous-domaines et certificats (documentation)](https://docs.adobe.com/content/help/fr-FR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
