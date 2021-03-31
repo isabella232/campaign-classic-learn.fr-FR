@@ -1,24 +1,24 @@
 ---
 title: Comment envoyer et valider un BAT
 description: Découvrez comment envoyer et valider un BAT.
-feature: Courriel, BAT
+feature: Email, BAT
 kt: 5094
 thumbnail: 330945.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
 role: Professionnel
-level: Début
-translation-type: tm+mt
+level: Débutant
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Envoyer et valider des BAT
+# Envoi et validation de BAT
 
 Découvrez comment envoyer et valider un BAT.
 
