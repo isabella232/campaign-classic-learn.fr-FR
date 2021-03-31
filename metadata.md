@@ -7,9 +7,9 @@ feature-set: Campaign
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-classic-learn.fr-FR
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: be175160ae9ac2097d1da22e77a42a653cb9b36e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
 ht-degree: 100%
 
