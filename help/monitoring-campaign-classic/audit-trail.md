@@ -8,12 +8,12 @@ doc-type: feature video
 activity: understand
 team: PM
 role: Administrateur
-level: Début
-translation-type: tm+mt
+level: Débutant
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
