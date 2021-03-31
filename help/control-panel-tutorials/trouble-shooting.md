@@ -1,20 +1,20 @@
 ---
 title: Résolution des problèmes du panneau de contrôle
 description: Le panneau de contrôle permet de surveiller et de gérer votre capacité de stockage SFTP par instance et d’ajouter des adresses IP aux listes autorisées.
-feature: 'Panneau de contrôle   '
+feature: Panneau de contrôle
 topics: Control Panel
 kt: 2938
 doc-type: article
 activity: use
 team: PM
 role: Administrateur
-level: Expérience
+level: Expérimenté
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '355'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
