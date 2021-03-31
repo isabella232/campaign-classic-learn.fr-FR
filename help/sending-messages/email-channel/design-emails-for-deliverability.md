@@ -1,7 +1,7 @@
 ---
-title: Comment puis-je garantir la délivrabilité lors de la conception de courriels ?
-description: Découvrez comment appliquer les meilleures pratiques en matière de délivrabilité.
-feature: Courrier électronique, délivrabilité
+title: Comment puis-je garantir la délivrabilité lors de la conception d’emails ?
+description: Découvrez comment appliquer les bonnes pratiques en matière de délivrabilité.
+feature: Email, délivrabilité
 topics: null
 kt: 5095
 thumbnail: 330943.jpg
@@ -9,22 +9,22 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 role: Professionnel
-level: Début
-translation-type: tm+mt
+level: Débutant
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Créer des courriers électroniques pour la livraison
+# Conception d’emails pour la délivrabilité
 
-Découvrez comment appliquer les meilleures pratiques de délivrabilité à votre Campaign.
+Découvrez comment appliquer les bonnes pratiques en matière de délivrabilité à votre campagne.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
-[Guide des meilleures pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
+[Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr-FR)
