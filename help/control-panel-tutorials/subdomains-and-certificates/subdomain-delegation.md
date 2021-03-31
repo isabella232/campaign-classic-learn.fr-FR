@@ -1,7 +1,7 @@
 ---
 title: Délégation complète de sous-domaine
 description: Découvrez comment déléguer entièrement un sous-domaine à Adobe Campaign.
-feature: 'Panneau de contrôle   '
+feature: Panneau de contrôle
 topics: Control Panel
 kt: 4115
 thumbnail: 31390.jpg
@@ -9,13 +9,13 @@ doc-type: feature video
 activity: use
 team: PM
 role: Administrateur
-level: Expérience
+level: Expérimenté
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Le [!UICONTROL panneau de contrôle] d’Adobe Campaign vous permet de délégue
 
 Pour accéder à la gestion des sous-domaines dans le [!UICONTROL panneau de contrôle], rendez-vous sur :
 
-* [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Carte **[!UICONTROL Panneau de contrôle]** > Carte **Sous-domaines et certificats**
+* [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Vignette **[!UICONTROL Panneau de contrôle]** > Vignette **Sous-domaines et certificats**
 
 
 ou
@@ -46,7 +46,7 @@ La vidéo ci-dessous montre comment déléguer des sous-domaines.
 
 *Délégation de sous-domaines (05:07 min)*
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Ajout de certificats SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
 * [Sous-domaines et certificats](https://docs.adobe.com/content/help/fr-FR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
