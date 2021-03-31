@@ -1,6 +1,6 @@
 ---
 title: Comment gérer l’adresse de contrôle et les BAT dans un email
-description: Découvrez comment ajouter des graines et des BAT à un courriel existant et comment l'envoyer.
+description: Découvrez comment ajouter des adresses de contrôle et des BAT à un email existant et comment l’envoyer.
 feature: Email
 topics: null
 kt: 2178
@@ -9,23 +9,23 @@ doc-type: feature video
 activity: use
 team: DOC
 role: Professionnel
-level: Début
-translation-type: tm+mt
+level: Débutant
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
 
 # Comment gérer l’adresse de contrôle et les BAT dans un email
 
-Découvrez comment ajouter des graines et des BAT à un courriel existant et comment l&#39;envoyer.
+Découvrez comment ajouter des adresses de contrôle et des BAT à un email existant et comment l’envoyer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
-- [Envoyer un bon à tirer](https://docs.adobe.com/content/help/en/campaign-classic/using/transactional-messaging/message-templates/sending-a-proof.html)
-- [Adresses de contrôle](https://docs.adobe.com/content/help/en/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html)
+- [Envoi d’un BAT](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/transactional-messaging/message-templates/sending-a-proof.html)
+- [Adresses de contrôle](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html)
