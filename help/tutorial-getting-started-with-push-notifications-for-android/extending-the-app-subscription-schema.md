@@ -1,7 +1,7 @@
 ---
 title: Étendre le schéma d’abonnement de l’application pour personnaliser les notifications push
 description: Découvrez comment étendre le schéma d’abonnement de l’application afin de pouvoir stocker les valeurs de personnalisation que Campaign reçoit d’une application mobile.
-feature: Extension Push, Schéma
+feature: Push, extension de schéma
 topics: mobile channels
 kt: 6451
 thumbnail: 327306.jpg
@@ -9,12 +9,12 @@ doc-type: feature video
 activity: setup
 team: TM
 role: Administrateur, développeur
-level: Expérience
-translation-type: tm+mt
+level: Expérimenté
+translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -29,6 +29,6 @@ Découvrez comment étendre le schéma d&#39;[!UICONTROL abonnement de l&#39;app
 
 Étape 2 : [configurer un service Android et créer une application mobile Android dans Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Étendre le schéma intégré pour adapter votre configuration](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html?lang=#extend-subscription-schemafr)
