@@ -1,7 +1,7 @@
 ---
 product: Adobe Campaign Classic
 user-guide-title: Tutoriels sur le panneau de contrôle d’Adobe Campaign
-user-guide-description: Découvrez comment surveiller les ressources clés de vos instances Adobe Campaign et effectuer des tâches administratives dans Panneau de Contrôle.
+user-guide-description: Découvrez comment surveiller les ressources clés de vos instances Adobe Campaign et effectuer des tâches administratives dans le panneau de contrôle.
 breadcrumb-title: Tutoriels sur le panneau de contrôle
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
@@ -11,14 +11,14 @@ tutorials-url: https://docs.adobe.com/content/help/fr-FR/campaign-classic-learn/
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 index: true
-feature: 'Panneau de contrôle   '
+feature: Panneau de contrôle
 role: Administrateur
-level: Expérience
-translation-type: tm+mt
+level: Expérimenté
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
