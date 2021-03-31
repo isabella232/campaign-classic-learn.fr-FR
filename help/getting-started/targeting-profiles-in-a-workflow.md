@@ -1,5 +1,5 @@
 ---
-title: Cible de profils dans un processus
+title: Comment cibler des profils dans un workflow
 description: Maîtrisez l’utilisation des workflows de campagne et découvrez comment créer un workflow et cibler des profils dans un workflow à l’aide de conditions de filtrage.
 feature: Workflows
 topics: Targeting Activities
@@ -9,17 +9,17 @@ doc-type: feature video
 activity: use
 team: WWFRE
 role: Professionnel
-level: Début
-translation-type: tm+mt
+level: Débutant
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 
-# Profils ciblés dans un processus
+# Ciblage de profils dans un workflow
 
 Maîtrisez l’utilisation des workflows de campagne et découvrez comment créer un workflow et cibler des profils dans un workflow à l’aide de conditions de filtrage.
 
@@ -31,7 +31,7 @@ Maîtrisez l’utilisation des workflows de campagne et découvrez comment crée
 * [Affinage des cibles en excluant les résultats des requêtes](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
 * [Utilisation de l’activité de mise à jour de liste pour créer une liste avec un workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
 
-## Autres ressources
+## Ressources supplémentaires
 
 Documentation :
 
