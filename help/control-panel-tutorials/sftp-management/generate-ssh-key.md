@@ -1,7 +1,7 @@
 ---
 title: Génération d’une clé SSH
 description: Découvrez comment générer une clé SSH à l’aide d’un terminal et comment stocker la version publique de la clé dans le panneau de contrôle.
-feature: 'Panneau de contrôle   '
+feature: Panneau de contrôle
 topics: Control Panel
 kt: 6348
 thumbnail: 27259.jpg
@@ -9,13 +9,13 @@ doc-type: feature video
 activity: use
 team: PM
 role: Administrateur
-level: Expérience
+level: Expérimenté
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/generate-ssh-key.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Vous devez être en mesure de générer une clé SSH pour pouvoir l’ajouter au
 
 Pour accéder à la gestion SFTP dans le panneau de contrôle, rendez-vous sur :
 
-* [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Carte **Panneau de contrôle** > Carte **SFTP**
+* [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Vignette **Panneau de contrôle** > Vignette **SFTP**
 
    ou
 * Directement à partir de l’URL : [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
