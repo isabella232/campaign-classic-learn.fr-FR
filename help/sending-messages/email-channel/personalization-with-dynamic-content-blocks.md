@@ -9,12 +9,12 @@ doc-type: feature video
 activity: use
 team: TM
 role: Administrateur, développeur
-level: Début
-translation-type: tm+mt
+level: Débutant
+translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
