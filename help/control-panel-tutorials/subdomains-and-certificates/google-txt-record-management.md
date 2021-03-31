@@ -1,7 +1,7 @@
 ---
 title: Gestion des enregistrements TXT Google
 description: Grâce au panneau de contrôle de Campaign, vous pouvez ajouter des enregistrements de vérification de site TXT Google aux sous-domaines utilisés pour envoyer des emails aux adresses GMAIL.
-feature: 'Panneau de contrôle   '
+feature: Panneau de contrôle
 topics: Control Panel
 kt: 4744
 thumbnail: 32369.jpg
@@ -9,13 +9,13 @@ doc-type: feature video
 activity: use
 team: PM
 role: Administrateur
-level: Expérience
+level: Expérimenté
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -28,6 +28,6 @@ La vidéo ci-dessous montre comment vous pouvez ajouter des enregistrements de v
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Documentation](https://docs.adobe.com/content/help/fr-FR/control-panel/using/subdomains-and-certificates/managing-txt-records.html)
