@@ -1,6 +1,6 @@
 ---
 title: Carte thermique des workflows
-description: Découvrez comment surveiller la charge sur votre instance et planifier les workflows en conséquence.
+description: Découvrez comment surveiller la charge de votre instance et planifier les workflows en conséquence.
 feature: Carte thermique
 topics: Monitoring and Guardrails
 kt: 2093
@@ -8,12 +8,12 @@ doc-type: feature video
 activity: understand
 team: PM
 role: Administrateur
-level: Début
-translation-type: tm+mt
+level: Débutant
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -36,6 +36,6 @@ Remarque : cette fonctionnalité n’est disponible que depuis Adobe Campaign C
 
 >[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Surveillance des traitements](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/monitoring-campaign-classic/production-procedures/monitoring-processes.html#Workflow_monitoring)
