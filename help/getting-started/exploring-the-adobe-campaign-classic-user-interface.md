@@ -1,7 +1,7 @@
 ---
 title: Exploration de l’interface utilisateur d’Adobe Campaign Classic
-description: Comprendre l’interface utilisateur principale de Adobe Campaign Classic et vous explique comment naviguer dans la fonctionnalité principale.
-feature: 'Vue d’ensemble '
+description: Découvrez l’interface utilisateur principale d’Adobe Campaign Classic et comment naviguer entre les principales fonctionnalités.
+feature: Présentation
 topics: Getting started
 kt: 5009
 thumbnail: 35130.jpg
@@ -9,12 +9,12 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 role: Professionnel
-level: Début
-translation-type: tm+mt
+level: Débutant
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -25,6 +25,6 @@ Cette leçon présente l’interface utilisateur principale d’Adobe Campaign�
 
 >[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Espace de travail Adobe Campaign](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/getting-started/starting-with-adobe-campaign/adobe-campaign-workspace.html)
