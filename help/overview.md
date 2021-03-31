@@ -6,12 +6,12 @@ sub-product: Campaign Classic
 feature: Présentation
 topic: null
 role: Professionnel, administrateur, développeur
-level: Début
-translation-type: tm+mt
+level: Débutant
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '257'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -22,25 +22,25 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Créer des campagnes entre canaux](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+* **[Création de campagnes cross-canal](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
-   *Découvrez comment créer et exécuter une campagne sur plusieurs canaux.*
+   *Découvrez comment créer et exécuter une campagne cross-canal.*
 
-* **[Utiliser des Populations témoins](/help/sending-messages/email-channel/use-control-groups.md)**
+* **[Utilisation de populations témoins](/help/sending-messages/email-channel/use-control-groups.md)**
 
-   *Comprenez le concept des Populations témoins et apprenez à utiliser une Population témoin pour votre diffusion.*
+   *Maîtrisez le concept de populations témoins et apprenez à en utiliser une pour votre diffusion.*
 
-* **[Envoyer et valider des BAT](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
+* **[Envoi et validation de BAT](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
    *Découvrez comment envoyer et valider un BAT.*
 
-* **[Créer des courriers électroniques pour la livraison](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[Conception d’emails pour la délivrabilité](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
-   *Découvrez comment appliquer les meilleures pratiques en matière de délivrabilité.*
+   *Découvrez comment appliquer les bonnes pratiques en matière de délivrabilité.*
 
-* **[Création et conception de diffusions de messagerie](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+* **[Création et conception de diffusions email](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
-   *Comprenez le processus de création d’une diffusion de messagerie et apprenez à concevoir et à personnaliser du contenu de messagerie.*
+   *Maîtrisez le processus de création d’une diffusion email et apprenez à concevoir et à personnaliser du contenu d’email.*
 
 
 ## Sélections du personnel
@@ -89,6 +89,6 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 </tr>
 </table>
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Documentation](https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html)
