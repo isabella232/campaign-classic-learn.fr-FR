@@ -1,16 +1,16 @@
 ---
 title: Activité de diffusion email et activité de diffusion dans Adobe Campaign Classic
 description: Cette vidéo explique comment configurer et utiliser un modèle de diffusion.
-feature: Delivery Templates
+feature: Modèles de diffusion
 topics: Templates
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
-source-wordcount: '135'
+workflow-type: ht
+source-wordcount: '137'
 ht-degree: 100%
 
 ---
