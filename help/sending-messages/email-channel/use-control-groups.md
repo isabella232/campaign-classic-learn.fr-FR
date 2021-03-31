@@ -1,6 +1,6 @@
 ---
-title: Utilisation des Populations témoins
-description: Comprenez le concept des Populations témoins et apprenez à utiliser une Population témoin pour votre diffusion.
+title: Comment utiliser les populations témoins
+description: Maîtrisez le concept de populations témoins et apprenez à en utiliser une pour votre diffusion.
 feature: Populations témoins
 kt: 5085
 thumbnail: 330955.jpg
@@ -8,18 +8,18 @@ doc-type: feature video
 activity: use
 team: WWFRE
 role: Professionnel
-level: Début
-translation-type: tm+mt
+level: Débutant
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Utiliser des Populations témoins
+# Utilisation de populations témoins
 
-Comprenez le concept des Populations témoins et apprenez à utiliser une Population témoin pour votre diffusion.
+Maîtrisez le concept de populations témoins et apprenez à en utiliser une pour votre diffusion.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12)
