@@ -9,12 +9,12 @@ doc-type: feature video
 activity: setup
 team: TM
 role: Administrateur, développeur
-level: Expérience
-translation-type: tm+mt
+level: Expérimenté
+translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Découvrez comment configurer un service [!DNL Android] et créer une applicatio
 
 Étape 3 : [configurer et envoyer des notifications push](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Configuration du service Android (documentation du produit)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html?lang=fr#configuring-android-service)
 * [Création d’une application mobile Android (documentation du produit)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html?lang=fr#creating-android-app)
