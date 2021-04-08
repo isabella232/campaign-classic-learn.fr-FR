@@ -9,16 +9,16 @@ thumbnail: 35611.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Professionnel
-level: Débutant
+role: Business Practitioner
+level: Beginner
+exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 87%
+source-wordcount: '152'
+ht-degree: 86%
 
 ---
-
 
 # Création et gestion des profils
 
@@ -28,7 +28,7 @@ Cette vidéo explique également la conformité d’Adobe Campaign Classic avec 
 
 >[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 **Documentation:**
 
