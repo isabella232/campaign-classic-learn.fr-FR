@@ -12,12 +12,12 @@ getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/fr-FR/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 index: true
 feature: Panneau de contrôle
-role: Administrateur
-level: Expérimenté
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: ht
-source-wordcount: '161'
+source-wordcount: '159'
 ht-degree: 100%
 
 ---
