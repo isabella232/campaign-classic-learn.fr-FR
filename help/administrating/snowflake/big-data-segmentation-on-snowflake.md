@@ -7,16 +7,16 @@ kt: 4405
 doc-type: feature video
 activity: use
 team: PM
-role: Administrateur, développeur
-level: Avancé
+role: Administrator, Developer
+level: Advanced
+exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
 translation-type: ht
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '111'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
-
 
 # Gestion des big data sur Snowflake
 
