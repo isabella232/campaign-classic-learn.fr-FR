@@ -8,17 +8,17 @@ thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrateur
-level: Expérimenté
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/connect-to-sftp-server.html
+exl-id: 6b615904-283b-4197-9fd4-d91e20a14657
 translation-type: ht
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 100%
 
 ---
-
 
 # Connexion à un serveur SFTP
 
