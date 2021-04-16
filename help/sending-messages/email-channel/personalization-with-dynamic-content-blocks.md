@@ -8,16 +8,16 @@ thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
-role: Administrateur, développeur
-level: Débutant
+role: Administrator, Developer
+level: Beginner
+exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 translation-type: ht
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '153'
+source-wordcount: '150'
 ht-degree: 100%
 
 ---
-
 
 # Personnalisation des emails à l’aide de blocs de contenu dynamique
 
