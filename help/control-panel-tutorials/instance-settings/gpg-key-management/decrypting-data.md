@@ -8,17 +8,17 @@ thumbnail: 36482.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrateur
-level: Expérimenté
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
+exl-id: d9f4be99-6e41-4c75-b3dc-bbdae1a63677
 translation-type: ht
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '92'
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
-
 
 # Décryptage des données
 
