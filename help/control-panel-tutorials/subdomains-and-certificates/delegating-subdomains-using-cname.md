@@ -8,16 +8,16 @@ thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrateur
-level: Expérimenté
+role: Administrator
+level: Experienced
+exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
-
 
 # Délégation de sous-domaines à l’aide de CNAME (bêta)
 
