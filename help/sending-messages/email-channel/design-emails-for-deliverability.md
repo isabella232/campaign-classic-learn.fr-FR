@@ -8,16 +8,16 @@ thumbnail: 330943.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Professionnel
-level: Débutant
+role: Business Practitioner
+level: Beginner
+exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
 translation-type: ht
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '46'
+source-wordcount: '43'
 ht-degree: 100%
 
 ---
-
 
 # Conception d’emails pour la délivrabilité
 
