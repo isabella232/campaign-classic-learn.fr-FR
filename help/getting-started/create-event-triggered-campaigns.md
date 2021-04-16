@@ -7,16 +7,16 @@ thumbnail: 330920.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Professionnel
-level: Intermédiaire
+role: Business Practitioner
+level: Intermediate
+exl-id: da1f498c-b60a-4835-ace0-b99911221bd2
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '38'
+source-wordcount: '35'
 ht-degree: 100%
 
 ---
-
 
 # Création de campagnes déclenchées par un événement
 
