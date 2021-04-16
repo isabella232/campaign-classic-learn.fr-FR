@@ -9,16 +9,16 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
-role: Administrateur
-level: Expérimenté
+role: Administrator
+level: Experienced
+exl-id: eefe2adc-d1f2-4d38-b93b-c38069f4acd4
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '90'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
-
 
 # Monitoring des bases de données
 
