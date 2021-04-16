@@ -1,16 +1,13 @@
 ---
-product: adobe campaign classic
 user-guide-title: Prise en main des notifications push pour Android dans Campaign Classic
 user-guide-description: Ce tutoriel vous guide tout au long des étapes nécessaires à l’envoi de notifications push à votre application Android depuis Adobe Campaign.
 breadcrumb-title: Prise en main des notifications push pour Android
 breadcrumb-url: /docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=fr&tag=Campaign+Classic#recommended/solutions/campaign
 index: true
-translation-type: ht
-source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: ht
-source-wordcount: '91'
+translation-type: tm+mt
+source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
+workflow-type: tm+mt
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
