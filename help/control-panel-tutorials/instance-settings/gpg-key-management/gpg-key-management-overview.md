@@ -4,17 +4,17 @@ description: Les vidéos ci-après expliquent comment générer et installer une
 feature: Panneau de contrôle
 topics: GPG Key Management
 team: TM
-role: Administrateur
-level: Expérimenté
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/gpg-key-management-overview.html
+exl-id: 1a3e8320-f992-428a-8dc8-ba5429042751
 translation-type: ht
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 100%
 
 ---
-
 
 # Gestion des clés GPG - Présentation
 
