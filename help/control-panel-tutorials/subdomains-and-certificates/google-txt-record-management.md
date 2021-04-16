@@ -8,17 +8,17 @@ thumbnail: 32369.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrateur
-level: Expérimenté
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html
+exl-id: 0a39dfe3-8f89-406e-b7b2-d8a3a5eabfca
 translation-type: ht
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '131'
+source-wordcount: '129'
 ht-degree: 100%
 
 ---
-
 
 # Gestion des [!UICONTROL enregistrements TXT Google]
 
