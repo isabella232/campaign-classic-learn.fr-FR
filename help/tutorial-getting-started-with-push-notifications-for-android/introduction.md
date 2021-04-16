@@ -7,16 +7,16 @@ kt: 6438
 doc-type: article
 activity: setup
 team: TM
-role: Administrateur, développeur
-level: Expérimenté
+role: Administrator, Developer
+level: Experienced
+exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
 translation-type: ht
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '369'
+source-wordcount: '366'
 ht-degree: 100%
 
 ---
-
 
 # Prise en main des notifications push pour Android - Introduction
 
