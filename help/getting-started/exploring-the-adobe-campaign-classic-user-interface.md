@@ -8,16 +8,16 @@ thumbnail: 35130.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Professionnel
-level: Débutant
+role: Business Practitioner
+level: Beginner
+exl-id: 521b970a-55eb-498f-9350-3fd7546bf1df
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '69'
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
-
 
 # Exploration de l’interface utilisateur d’Adobe Campaign Classic
 
