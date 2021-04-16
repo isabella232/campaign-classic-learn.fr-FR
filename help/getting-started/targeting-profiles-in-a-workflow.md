@@ -8,16 +8,16 @@ thumbnail: 35614.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Professionnel
-level: Débutant
+role: Business Practitioner
+level: Beginner
+exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '135'
+source-wordcount: '132'
 ht-degree: 100%
 
 ---
-
 
 # Ciblage de profils dans un workflow
 
