@@ -8,16 +8,16 @@ thumbnail: 329936.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Professionnel
-level: Débutant
+role: Business Practitioner
+level: Beginner
+exl-id: a649e71c-1866-4596-88cf-0ede861c8845
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '84'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
-
 
 # Configuration du contenu dynamique
 
