@@ -8,16 +8,16 @@ thumbnail: 330941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Professionnel
-level: Débutant
+role: Business Practitioner
+level: Beginner
+exl-id: 018e36bc-1afc-42c0-a459-4d51775ff6f8
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '69'
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
-
 
 # Création et conception de diffusions email
 
