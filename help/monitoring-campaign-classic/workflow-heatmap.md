@@ -7,16 +7,16 @@ kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
-role: Administrateur
-level: Débutant
+role: Administrator
+level: Beginner
+exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 100%
 
 ---
-
 
 # Carte thermique des workflows
 
