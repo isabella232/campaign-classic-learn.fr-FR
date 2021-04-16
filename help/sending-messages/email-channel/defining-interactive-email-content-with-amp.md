@@ -8,16 +8,16 @@ thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up
 team: TM
-role: Professionnel, développeur
-level: Avancé
+role: Business Practitioner, Developer
+level: Advanced
+exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
 translation-type: ht
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '143'
+source-wordcount: '139'
 ht-degree: 100%
 
 ---
-
 
 # Définition du contenu d’email interactif avec AMP
 
