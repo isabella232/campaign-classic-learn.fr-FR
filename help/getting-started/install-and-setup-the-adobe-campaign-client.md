@@ -8,16 +8,16 @@ thumbnail: 35124.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: Professionnel, administrateur, développeur
-level: Débutant
+role: Business Practitioner, Administrator, Developer
+level: Beginner
+exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
 translation-type: ht
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '113'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
-
 
 # Installation et configuration du client Adobe Campaign
 
