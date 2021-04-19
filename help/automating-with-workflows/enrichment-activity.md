@@ -11,16 +11,16 @@ kt: KT-1561
 doc-type: feature video
 activity: use
 team: TM
-role: Professionnel, développeur
-level: Avancé
+role: Business Practitioner, Developer
+level: Experienced
+exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '164'
 ht-degree: 2%
 
 ---
-
 
 # Configuration des activités d&#39;enrichissement
 
@@ -30,6 +30,6 @@ Cette vidéo explique comment configurer une activité d&#39;enrichissement en f
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 - [Enrichir des données](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/use-cases/enriching-data.html)
