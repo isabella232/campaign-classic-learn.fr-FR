@@ -9,11 +9,11 @@ doc-type: feature video
 activity: set-up
 team: TM
 role: Business Practitioner, Developer
-level: Advanced
+level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
