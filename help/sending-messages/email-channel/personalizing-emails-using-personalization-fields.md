@@ -1,7 +1,7 @@
 ---
 title: Personnalisation des emails à l’aide d’un champ de personnalisation
 description: Découvrez comment ajouter un champ de personnalisation à la ligne d’objet et au contenu d’une diffusion email.
-feature: Blocs de contenu dynamique
+feature: Contenu dynamique
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg
@@ -11,11 +11,11 @@ team: TM
 role: Business Practitioner
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
-source-wordcount: '127'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+workflow-type: tm+mt
+source-wordcount: '126'
+ht-degree: 98%
 
 ---
 
