@@ -11,16 +11,16 @@ kt: KT-1566
 doc-type: feature video
 activity: setup
 team: TM
-role: Professionnel
-level: Avancé
+role: Business Practitioner
+level: Experienced
+exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
-
 
 # Configuration des workflows de validation dans Adobe Campaign Classic
 
