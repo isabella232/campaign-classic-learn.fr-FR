@@ -9,11 +9,11 @@ doc-type: feature video
 activity: use
 team: DOC
 role: Business Practitioner
-level: Beginer
+level: Beginner
 exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
 
