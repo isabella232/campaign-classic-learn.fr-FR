@@ -1,7 +1,7 @@
 ---
 title: Gestion des enregistrements TXT Google
 description: Grâce au panneau de contrôle de Campaign, vous pouvez ajouter des enregistrements de vérification de site TXT Google aux sous-domaines utilisés pour envoyer des emails aux adresses GMAIL.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: Control Panel
 kt: 4744
 thumbnail: 32369.jpg

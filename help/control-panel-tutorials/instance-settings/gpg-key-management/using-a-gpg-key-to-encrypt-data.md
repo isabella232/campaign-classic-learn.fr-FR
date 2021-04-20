@@ -1,7 +1,7 @@
 ---
 title: 'Utilisation d’une clé GPG pour crypter des données '
 description: Découvrez comment exporter des données à l’aide d’une clé GPG installée sur le panneau de contrôle.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: GPG Key Management
 kt: 5793
 thumbnail: 36399.jpg

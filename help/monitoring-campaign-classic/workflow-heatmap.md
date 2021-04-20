@@ -1,7 +1,7 @@
 ---
 title: Carte thermique des workflows
 description: Découvrez comment surveiller la charge de votre instance et planifier les workflows en conséquence.
-feature: Carte thermique
+feature: Heatmap
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video

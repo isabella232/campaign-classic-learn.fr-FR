@@ -1,7 +1,7 @@
 ---
 title: Création de campagnes déclenchées par un événement
 description: Découvrez comment créer une campagne déclenchée par un événement et comprenez son utilité.
-feature: Workflows, activité de ciblage
+feature: Workflows, Targeting Activity
 kt: 5087
 thumbnail: 330920.jpg
 doc-type: feature video

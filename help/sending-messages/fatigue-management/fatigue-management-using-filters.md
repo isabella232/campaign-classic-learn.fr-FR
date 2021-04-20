@@ -1,7 +1,7 @@
 ---
 title: Gestion de la fatigue marketing avec les règles de pression
 description: Découvrez comment mettre en oeuvre la gestion de la fatigue à Adobe Campaign Classic en utilisant des filtres.
-feature: Gestion de la fatigue
+feature: Fatigue Management
 topics: null
 kt: 2148
 doc-type: feature video

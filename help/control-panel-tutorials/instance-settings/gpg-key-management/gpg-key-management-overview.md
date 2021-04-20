@@ -1,7 +1,7 @@
 ---
 title: Gestion des clés GPG - Présentation
 description: Les vidéos ci-après expliquent comment générer et installer une paire de clés publique/privée sur une instance Campaign spécifiée pour le cryptage des données sortantes. Elles montrent également comment importer et installer une clé publique sur une instance Campaign pour le décryptage des données entrantes.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: GPG Key Management
 team: TM
 role: Administrator

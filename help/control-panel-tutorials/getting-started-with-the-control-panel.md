@@ -1,7 +1,7 @@
 ---
 title: Prise en main du panneau de contrôle
 description: Découvrez comment accéder au panneau de contrôle et quelles sont les conditions préalables requises pour pouvoir l’utiliser.
-feature: Panneau de contrôle
+feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video

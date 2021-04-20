@@ -1,7 +1,7 @@
 ---
 title: Résolution des problèmes de diffusion email
 description: Découvrez comment résoudre les problèmes de diffusion email dans Campaign.
-feature: Email, délivrabilité
+feature: Email, Deliverability
 topics: deliverability
 kt: 5091
 thumbnail: 329920.jpg

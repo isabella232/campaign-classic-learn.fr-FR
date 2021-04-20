@@ -1,7 +1,7 @@
 ---
 title: Ajout d’autorisations d’URL
 description: Découvrez comment établir une connexion entre votre instance Adobe Campaign Classic et une URL externe.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: Instance Settings
 kt: 3259
 thumbnail: 28149.jpg

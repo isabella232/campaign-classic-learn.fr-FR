@@ -1,7 +1,7 @@
 ---
 title: Personnalisation des emails à l’aide d’un champ de personnalisation
 description: Découvrez comment ajouter un champ de personnalisation à la ligne d’objet et au contenu d’une diffusion email.
-feature: Contenu dynamique
+feature: Dynamic Content
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg

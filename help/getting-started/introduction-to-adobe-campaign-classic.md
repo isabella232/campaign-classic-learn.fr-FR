@@ -1,7 +1,7 @@
 ---
 title: Présentation d’Adobe Campaign Classic
 description: Découvrez comment Adobe Campaign Classic s’intègre au portefeuille d’Adobe Digital Experience et obtenez un aperçu de ses principales fonctionnalités.
-feature: Présentation
+feature: Overview
 topics: Getting started
 kt: 5457
 thumbnail: 35129.jpg

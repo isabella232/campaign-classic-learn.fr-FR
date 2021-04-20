@@ -1,7 +1,7 @@
 ---
 title: Personnalisation des emails à l’aide de blocs de contenu dynamique
 description: Découvrez comment créer des blocs de contenu dynamiques et comment les utiliser pour personnaliser le contenu de votre diffusion email.
-feature: Contenu dynamique
+feature: Dynamic Content
 topics: Email Channel
 kt: 1559
 thumbnail: 24924

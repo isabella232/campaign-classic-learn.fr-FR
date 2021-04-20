@@ -1,7 +1,7 @@
 ---
 title: Décryptage des données
 description: La vidéo ci-dessous explique comment créer une clé publique, l’importer et l’installer sur une instance Campaign pour le décryptage des données.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: null
 kt: 5543
 thumbnail: 36482.jpg

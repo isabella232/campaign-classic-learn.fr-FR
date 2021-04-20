@@ -1,7 +1,7 @@
 ---
 title: Utilisation du journal d’audit
 description: 'Le journal d’audit capture, en temps réel, une liste complète d''actions et d’événements se produisant dans Adobe Campaign. '
-feature: Journal d’audit
+feature: Audit Trail
 topics: Monitoring and Guardrails
 kt: 2835
 doc-type: feature video

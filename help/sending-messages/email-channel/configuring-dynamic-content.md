@@ -1,7 +1,7 @@
 ---
 title: Configuration du contenu dynamique
 description: Découvrez les différents types de contenu dynamique et apprenez à créer et à appliquer des blocs de personnalisation et des instructions conditionnelles à une diffusion.
-feature: Contenu dynamique, personnalisation, email
+feature: Dynamic Content, Personalization, Email
 topics: null
 kt: 6824
 thumbnail: 329936.jpg

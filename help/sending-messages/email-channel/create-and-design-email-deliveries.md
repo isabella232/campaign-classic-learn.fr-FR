@@ -1,7 +1,7 @@
 ---
 title: Comment créer et concevoir des diffusions email
 description: Découvrez le processus de création d’une diffusion email et apprenez à concevoir et à personnaliser du contenu d’email.
-feature: Email, conception d’email, personnalisation
+feature: Email, Email Design, Personalization
 topics: null
 kt: 6824
 thumbnail: 330941.jpg

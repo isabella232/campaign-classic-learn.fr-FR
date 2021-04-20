@@ -1,7 +1,7 @@
 ---
 title: Comment puis-je garantir la délivrabilité lors de la conception d’emails ?
 description: Découvrez comment appliquer les bonnes pratiques en matière de délivrabilité.
-feature: Email, délivrabilité
+feature: Email, Deliverability
 topics: null
 kt: 5095
 thumbnail: 330943.jpg

@@ -1,7 +1,7 @@
 ---
 title: Comment créer un plan marketing, des programmes et des campagnes
 description: Maîtrisez les concepts clés d’Adobe Campaign afin de planifier, d’exécuter et de mesurer efficacement les campagnes marketing cross-canal.
-feature: Campagnes
+feature: Campaigns
 topics: Getting started
 kt: 5347
 thumbnail: 35132.jpg

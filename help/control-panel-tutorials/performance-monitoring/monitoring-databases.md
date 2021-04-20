@@ -1,7 +1,7 @@
 ---
 title: Monitoring des bases de données
 description: Découvrez comment surveiller l’utilisation de la base de données de vos instances.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: Control Panel
 kt: 6434
 thumbnail: 327175.jpg

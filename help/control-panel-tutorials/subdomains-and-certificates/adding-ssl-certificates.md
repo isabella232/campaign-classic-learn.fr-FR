@@ -1,7 +1,7 @@
 ---
 title: Ajout de certificats SSL
 description: Découvrez comment ajouter des certificats SSL pour sécuriser vos sous-domaines.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: Control Panel
 kt: 4219
 thumbnail: 31317.jpg

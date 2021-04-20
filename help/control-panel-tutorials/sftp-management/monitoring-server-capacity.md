@@ -1,7 +1,7 @@
 ---
 title: Surveillance de la capacité du serveur
 description: Découvrez comment surveiller et gérer votre capacité de stockage SFTP par instance et apprenez à ajouter des adresses IP aux listes autorisées.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: Control Panel
 audience: administrator
 kt: 3266

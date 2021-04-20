@@ -1,15 +1,15 @@
 ---
 title: Affinage des cibles en excluant les résultats des requêtes
 description: Découvrez comment affiner votre cible en appliquant une exclusion standard à un processus. Vous apprendrez également comment créer des filtres prédéfinis et comment tirer le meilleur parti de votre processus.
-feature: Workflows, Activité de ciblage, Éditeur de Requête
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 5548
 thumbnail: 36826.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: Résolution des problèmes du panneau de contrôle
 description: Le panneau de contrôle permet de surveiller et de gérer votre capacité de stockage SFTP par instance et d’ajouter des adresses IP aux listes autorisées.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: Control Panel
 kt: 2938
 doc-type: article

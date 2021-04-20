@@ -1,7 +1,7 @@
 ---
 title: 'Ajout d’une plage d’adresses IP à la liste autorisée '
 description: Découvrez comment ajouter une plage d’adresses IP à la liste autorisée.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: Control Panel
 kt: 6430
 thumbnail: 41775.jpg

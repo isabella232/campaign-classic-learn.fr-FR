@@ -4,7 +4,7 @@ user-guide-description: Découvrez comment surveiller les ressources clés de vo
 breadcrumb-title: Tutoriels sur le panneau de contrôle
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
-feature: Panneau de contrôle
+feature: Control Panel
 role: Administrator
 level: Experienced
 translation-type: tm+mt

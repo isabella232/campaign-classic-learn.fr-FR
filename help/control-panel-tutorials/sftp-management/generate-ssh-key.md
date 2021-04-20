@@ -1,7 +1,7 @@
 ---
 title: Génération d’une clé SSH
 description: Découvrez comment générer une clé SSH à l’aide d’un terminal et comment stocker la version publique de la clé dans le panneau de contrôle.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: Control Panel
 kt: 6348
 thumbnail: 27259.jpg

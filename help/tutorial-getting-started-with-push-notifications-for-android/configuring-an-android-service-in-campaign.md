@@ -8,8 +8,8 @@ thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrateur, développeur
-level: Expérimenté
+role: Administrator, Developer
+level: Experienced
 translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: ht

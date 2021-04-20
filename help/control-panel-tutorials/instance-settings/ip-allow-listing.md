@@ -3,7 +3,7 @@ title: Ajout d’adresses IP aux listes autorisées
 seo-title: Ajout d’adresses IP aux listes autorisées
 description: Découvrez comment ajouter une plage d’adresses IP aux listes autorisées des instances de Campaign Classic et comment les supprimer de la liste autorisée à l’aide du panneau de contrôle.
 seo-description: La vidéo ci-dessous explique comment configurer de nouvelles connexions à vos instances en ajoutant des plages d’adresses IP aux listes autorisées.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: null
 kt: 3479
 thumbnail: 28726.jpg

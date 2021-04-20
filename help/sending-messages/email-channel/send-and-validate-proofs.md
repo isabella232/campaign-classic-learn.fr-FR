@@ -1,7 +1,7 @@
 ---
 title: Comment envoyer et valider un BAT
 description: Découvrez comment envoyer et valider un BAT.
-feature: Email, BAT
+feature: Email, Proofs
 kt: 5094
 thumbnail: 330945.jpg
 doc-type: feature video

@@ -1,14 +1,14 @@
 ---
 title: Création d’un workflow de ciblage
 description: Découvrez comment définir plusieurs cibles de diffusion à l’aide d’un workflows de ciblage.
-feature: Workflows, Activité de ciblage, Éditeur de Requête
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

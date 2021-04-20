@@ -1,7 +1,7 @@
 ---
 title: 'Personnalisation des emails : créer une newsletter multilingue à l’aide de contenu conditionnel'
 description: Découvrez comment ajouter du contenu conditionnel à une diffusion en prenant pour exemple une newsletter multilingue.
-feature: Contenu dynamique
+feature: Dynamic Content
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg

@@ -1,7 +1,7 @@
 ---
 title: Délégation complète de sous-domaine
 description: Découvrez comment déléguer entièrement un sous-domaine à Adobe Campaign.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: Control Panel
 kt: 4115
 thumbnail: 31390.jpg

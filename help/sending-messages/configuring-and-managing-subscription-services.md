@@ -1,7 +1,7 @@
 ---
 title: Configuration et gestion des services d’abonnement
 description: Découvrez comment configurer et gérer les abonnements et cibler les abonnés.
-feature: 'Abonnements     '
+feature: Subscriptions     
 topics: null
 kt: 5088
 thumbnail: 329941.jpg

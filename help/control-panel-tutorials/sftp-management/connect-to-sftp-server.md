@@ -1,7 +1,7 @@
 ---
 title: Connexion à un serveur SFTP
 description: Découvrez comment vous connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le panneau de contrôle.
-feature: Panneau de contrôle
+feature: Control Panel
 topics: Control Panel
 kt: 2924
 thumbnail: 27263.jpg

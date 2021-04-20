@@ -1,15 +1,15 @@
 ---
 title: Création d’une liste de destinataires
 description: Découvrez comment créer une audience en configurant une liste de destinataires à partir de l'Explorateur.
-feature: 'Audiences '
+feature: Audiences
 topics: Getting started
 kt: 2171
 thumbnail: 25602.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

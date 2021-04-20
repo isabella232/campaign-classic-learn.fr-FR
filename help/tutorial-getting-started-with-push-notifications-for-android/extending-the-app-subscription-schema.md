@@ -1,15 +1,15 @@
 ---
 title: Étendre le schéma d’abonnement de l’application pour personnaliser les notifications push
 description: Découvrez comment étendre le schéma d’abonnement de l’application afin de pouvoir stocker les valeurs de personnalisation que Campaign reçoit d’une application mobile.
-feature: Push, extension de schéma
+feature: Push, Schema Extension
 topics: mobile channels
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrateur, développeur
-level: Expérimenté
+role: Administrator, Developer
+level: Experienced
 translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: ht

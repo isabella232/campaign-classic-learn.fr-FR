@@ -1,7 +1,7 @@
 ---
 title: Installation et configuration du client Adobe Campaign
 description: Découvrez comment télécharger et installer la console client Adobe Campaign, créer et gérer vos connexions à plusieurs environnements et vérifier l’accès à la console client Adobe Campaign.
-feature: Console client
+feature: Client Console
 topics: Getting started
 kt: 5003
 thumbnail: 35124.jpg

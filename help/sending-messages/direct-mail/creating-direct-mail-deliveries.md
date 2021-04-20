@@ -1,7 +1,7 @@
 ---
 title: Création de diffusions courrier
 description: Découvrez comment créer, formater et exécuter une diffusion de messagerie directe.
-feature: Courrier
+feature: Direct Mail
 topics: null
 kt: 3859
 thumbnail: 21377.jpg

@@ -1,7 +1,7 @@
 ---
 title: Comment gérer les campagnes marketing
 description: Maîtrisez les concepts clés d’Adobe Campaign afin de planifier, d’exécuter et de mesurer efficacement les campagnes marketing cross-canal.
-feature: Campagnes
+feature: Campaigns
 topics: Getting started
 kt: 5077
 thumbnail: 35131.jpg
