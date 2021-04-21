@@ -2,7 +2,6 @@
 title: Gestion des big data sur Snowflake
 description: Découvrez comment tirer profit du connecteur Snowflake dans Adobe Campaign Classic
 feature: Federated Data Access
-topics: FDA
 kt: 4405
 doc-type: feature video
 activity: use
@@ -11,7 +10,7 @@ role: Administrator, Developer
 level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
 translation-type: tm+mt
-source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
