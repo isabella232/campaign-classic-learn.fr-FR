@@ -2,7 +2,6 @@
 title: 'Configurer et envoyer des notifications push '
 description: Découvrez comment configurer et envoyer une notification push aux utilisateurs d’applications android.
 feature: Push
-topics: mobile channels
 kt: 6579
 thumbnail: 328154.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: setup
 team: TM
 role: Administrator, Developer, Business Practitioner
 level: Beginner, Intermediate, Experienced
-translation-type: ht
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: ht
-source-wordcount: '124'
+exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
+source-wordcount: '117'
 ht-degree: 100%
 
 ---
-
 
 # Configurer et envoyer des notifications push
 
