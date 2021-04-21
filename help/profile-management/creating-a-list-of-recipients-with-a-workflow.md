@@ -2,7 +2,6 @@
 title: Création d’une liste de destinataires avec un workflow
 description: Découvrez comment créer une audience en configurant une liste de destinataires à partir de l'Explorateur.
 feature: Audiences
-topics: Getting started
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: setup
 team: DOC
 role: Business Practitioner
 level: Beginner
+exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 93%
+source-wordcount: '85'
+ht-degree: 96%
 
 ---
-
 
 # Création d’une liste de destinataires avec un workflow
 
@@ -25,7 +24,7 @@ Découvrez comment créer un workflow pour cibler des destinataires, et comment 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 Documentation :
 
