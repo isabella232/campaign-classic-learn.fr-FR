@@ -1,22 +1,21 @@
 ---
 title: Configuration de la gestion de la fatigue à l’aide de règles de typologie dans Adobe Campaign Classic
 description: Découvrez comment mettre en oeuvre la gestion de la fatigue en exploitant les règles de typologie.
-feature: Fatigue Management
-topics: null
+feature: Gestion de la fatigue
 kt: 1564
 doc-type: feature video
 activity: use
 team: TM
 role: Business Practitioner
 level: Beginner
+exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 22%
+source-wordcount: '207'
+ht-degree: 23%
 
 ---
-
 
 # Comment configurer la gestion de la fatigue à l’aide de règles de typologie
 
@@ -32,8 +31,7 @@ Cette vidéo explique comment mettre en œuvre la gestion de la fatigue dans Ado
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [A propos des typologies de campagne](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
 * [Gestion de la fatigue marketing avec les règles de pression](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html)
-
