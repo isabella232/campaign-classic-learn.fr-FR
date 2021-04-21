@@ -1,8 +1,7 @@
 ---
 title: Monitoring des bases de données
 description: Découvrez comment surveiller l’utilisation de la base de données de vos instances.
-feature: Control Panel
-topics: Control Panel
+feature: Panneau de contrôle
 kt: 6434
 thumbnail: 327175.jpg
 doc-type: feature video
@@ -12,9 +11,9 @@ team: TM
 role: Administrator
 level: Experienced
 exl-id: eefe2adc-d1f2-4d38-b93b-c38069f4acd4
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
 
