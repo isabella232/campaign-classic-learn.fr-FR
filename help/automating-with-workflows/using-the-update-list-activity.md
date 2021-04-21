@@ -1,8 +1,7 @@
 ---
 title: Utilisation de l’activité de mise à jour de liste pour créer une liste avec un workflow
 description: Découvrez comment affiner votre cible en appliquant une exclusion standard à un processus. Vous apprendrez également comment créer des filtres prédéfinis et comment tirer le meilleur parti de votre processus.
-feature: Workflows, Targeting Activity, Query Editor
-topics: Targeting Activities
+feature: Workflows, Activité de ciblage, Éditeur de Requête
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 41%
+source-wordcount: '128'
+ht-degree: 42%
 
 ---
-
 
 # Utilisation de l’activité de mise à jour de liste pour créer une liste avec un workflow
 
@@ -25,7 +24,7 @@ Découvrez le concept de listes dans Adobe Campaign Classic et comment créer un
 
 >[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 Documentation :
 
