@@ -2,21 +2,20 @@
 title: Comment configurer des campagnes par courriel récurrentes et continues
 description: Découvrez comment configurer une diffusion récurrente et continue et comprendre les différences entre les deux approches.
 feature: Workflows
-topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
 role: Business Practitioner
 level: Beginner
+exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '267'
 ht-degree: 67%
 
 ---
-
 
 # Comment configurer des campagnes par courriel récurrentes et continues
 
@@ -48,6 +47,6 @@ Cette vidéo montre comment configurer une diffusion (au fil de l’eau) avec un
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 [Créer une diffusion récurrente dans un workflow de ciblage](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/use-cases/sending-a-birthday-email.html#creating-a-recurring-delivery-in-a-targeting-workflow)
