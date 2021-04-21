@@ -1,8 +1,7 @@
 ---
 title: Déploiement d’un modèle de diffusion de messagerie ad hoc dans Adobe Campaign Classic
 description: 'Découvrez comment déployer un modèle de diffusion de messagerie ad hoc et comprendre la différence entre une diffusion de messagerie et un processus de diffusion. '
-feature: Delivery Templates
-topics: Templates
+feature: Modèles de diffusion
 kt: 1565
 thumbnail: 24065.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: TM
 role: Administrator
 level: Beginner
+exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 76%
+source-wordcount: '144'
+ht-degree: 78%
 
 ---
-
 
 # Déploiement d’un modèle de diffusion email ad hoc {#deploying-a-delivery-template}
 
@@ -25,7 +24,7 @@ Cette vidéo montre comment déployer un modèle de diffusion email ad hoc. Elle
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
 
-## Autres ressources {#additional-resources}
+## Ressources supplémentaires {#additional-resources}
 
 Vidéos pratiques
 * [Configuration d’un modèle de diffusion](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
