@@ -1,8 +1,7 @@
 ---
 title: Configuration et gestion des services d’abonnement
 description: Découvrez comment configurer et gérer les abonnements et cibler les abonnés.
-feature: Subscriptions     
-topics: null
+feature: 'Abonnements     '
 kt: 5088
 thumbnail: 329941.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ role: Business Practitioner, Administrator, Developer
 level: Experienced
 exl-id: 99b8acff-0105-4764-82ec-7c2dfe75f0f9
 translation-type: tm+mt
-source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
