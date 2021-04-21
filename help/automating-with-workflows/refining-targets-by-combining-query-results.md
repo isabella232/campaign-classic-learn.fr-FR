@@ -1,8 +1,7 @@
 ---
 title: Affinage des cibles en combinant les résultats des requêtes
 description: Découvrez comment affiner votre cible en combinant les résultats de la requête dans un processus à l’aide de l’intersection ou des activités d’union.
-feature: Workflows, Targeting Activity, Query Editor
-topics: Targeting Activities
+feature: Workflows, Activité de ciblage, Éditeur de Requête
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 42%
+source-wordcount: '118'
+ht-degree: 43%
 
 ---
-
 
 # Affinage des cibles en combinant les résultats des requêtes
 
@@ -25,7 +24,7 @@ Découvrez comment affiner votre cible en combinant les résultats de la requêt
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 Documentation :
 
