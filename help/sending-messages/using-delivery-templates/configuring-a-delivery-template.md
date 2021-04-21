@@ -1,8 +1,7 @@
 ---
 title: Configuration d’un modèle de diffusion dans Adobe Campaign Classic
 description: Découvrez comment configurer un modèle pour une diffusion ad hoc.
-feature: Delivery Templates
-topics: Templates
+feature: Modèles de diffusion
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
@@ -11,14 +10,14 @@ team: TM
 role: Administrator
 level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
+exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
 translation-type: tm+mt
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 57%
+source-wordcount: '178'
+ht-degree: 58%
 
 ---
-
 
 # Configuration d’un modèle de diffusion
 
@@ -37,7 +36,7 @@ La vidéo suivante montre comment configurer un modèle pour une diffusion ad ho
 
 >[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12)
 
-## Autres ressources {#additional-resources}
+## Ressources supplémentaires {#additional-resources}
 
 Vidéos pratiques
 
