@@ -11,11 +11,10 @@ role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-ssl-certificates.html
 exl-id: 9ba485fb-be26-4f3c-a9de-844fecaec20d
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -63,4 +62,4 @@ La vidéo ci-dessous montre comment installer des certificats SSL dans le [!UICO
 ## Ressources supplémentaires
 
 * [Délégation complète de sous-domaines (vidéo)](./subdomain-delegation.md)
-* [Sous-domaines et certificats (documentation)](https://docs.adobe.com/content/help/fr-FR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Renouvellement du certificat SSL d’un sous-domaine (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
