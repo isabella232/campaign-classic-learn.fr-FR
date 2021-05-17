@@ -13,10 +13,9 @@ team: TM
 role: Business Practitioner
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -52,4 +51,4 @@ Contrairement aux approbations de diffusion ou de campagne, l’activité d’ap
 
 >[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
 
-Pour plus d&#39;informations, consultez la [documentation relative à l&#39;approbation](https://docs.adobe.com/help/en/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html).
+Pour plus d&#39;informations, consultez la [documentation relative à l&#39;approbation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html).
