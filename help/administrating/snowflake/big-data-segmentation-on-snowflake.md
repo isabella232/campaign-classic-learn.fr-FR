@@ -9,11 +9,10 @@ team: PM
 role: Administrator, Developer
 level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '110'
+ht-degree: 88%
 
 ---
 
@@ -35,4 +34,4 @@ Vous apprendrez comment
 
 ## Ressources supplémentaires
 
-* [Configurations spécifiques par type de base de données](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/getting-started/accessing-external-database/specific-configuration-database.html)
+* [Configurer l&#39;accès à Snowflake](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic)
