@@ -13,11 +13,10 @@ team: TM
 role: Business Practitioner, Developer
 level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 2%
+source-wordcount: '161'
+ht-degree: 1%
 
 ---
 
@@ -31,4 +30,4 @@ Cette vidéo explique comment configurer une activité d&#39;enrichissement en f
 
 ## Ressources supplémentaires
 
-- [Enrichir des données](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/use-cases/enriching-data.html)
+* [Enrichissement](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html)
