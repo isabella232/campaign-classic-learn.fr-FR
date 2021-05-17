@@ -11,11 +11,10 @@ role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html
 exl-id: 678b6d42-3d00-4c45-96fa-5ee73ce05d2c
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 100%
+source-wordcount: '59'
+ht-degree: 88%
 
 ---
 
@@ -28,4 +27,4 @@ Découvrez comment exporter des données à l’aide d’une clé GPG installée
 ## Ressources supplémentaires
 
 * [Gestion des clés GPG (vidéos)](./gpg-key-management-overview.md)
-* [Gestion des clés GPG (documentation)](https://docs.adobe.com/content/help/fr-FR/control-panel/using/instances-settings/gpg-keys-management.html)
+* [Gestion des clés GPG (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
