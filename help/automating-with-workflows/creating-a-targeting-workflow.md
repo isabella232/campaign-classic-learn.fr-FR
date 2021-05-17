@@ -9,11 +9,10 @@ team: DOC
 role: Business Practitioner
 level: Beginner
 exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 30%
+source-wordcount: '87'
+ht-degree: 9%
 
 ---
 
@@ -23,5 +22,5 @@ Adobe Campaign utilise des workflows pour effectuer des campagnes de ciblage, cr
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
-Voir la documentation [sur les Workflows](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
-et [sur les activités de ciblage](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) pour plus d’informations.
+Voir la documentation [sur les Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+et [sur les activités de ciblage](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) pour plus d’informations.
