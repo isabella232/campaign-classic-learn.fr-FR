@@ -9,11 +9,10 @@ team: DOC
 role: Business Practitioner
 level: Beginner
 exl-id: 0f2a5be5-54e1-4ed3-b154-b87a91cd16a2
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 76%
+source-wordcount: '201'
+ht-degree: 71%
 
 ---
 
@@ -32,3 +31,7 @@ Ainsi, Adobe Campaign utilise des workflows pour :
 Cette vidéo explique comment créer un flux de travail à Adobe Campaign Classic.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12)
+
+## Ressources supplémentaires
+
+* [Commencer avec les workflows (documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
