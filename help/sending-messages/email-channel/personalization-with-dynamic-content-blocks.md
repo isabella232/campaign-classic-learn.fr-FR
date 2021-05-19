@@ -1,6 +1,6 @@
 ---
-title: Personnalisation des emails à l’aide de blocs de contenu dynamique
-description: Découvrez comment créer des blocs de contenu dynamiques et comment les utiliser pour personnaliser le contenu de votre diffusion email.
+title: Personnalisation des e-mails à l’aide de blocs de contenu dynamique
+description: Découvrez comment créer des blocs de contenu dynamiques et comment les utiliser pour personnaliser le contenu de votre diffusion de messagerie.
 feature: Contenu dynamique
 kt: 1559
 thumbnail: 24924
@@ -10,21 +10,22 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: b668dc4f6568be3d239c93fef50132acb26cb40c
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 98%
+source-wordcount: '147'
+ht-degree: 51%
 
 ---
 
-# Personnalisation des emails à l’aide de blocs de contenu dynamique
+
+# Personnalisation des e-mails à l’aide de blocs de contenu dynamique
 
 Dans Adobe Campaign, vous pouvez personnaliser le contenu ou l’apparence des messages et les combiner avec des critères provenant de profils de destinataires.
 
-Un bloc de personnalisation est dynamique, personnalisé et contient un code de rendu spécifique qui peut être ajouté aux diffusions. Par exemple, vous pouvez ajouter des images, des en-têtes et des pieds de page d’email, des liens vers des pages miroir, des liens de désabonnement, etc.
+Un bloc de personnalisation est dynamique, personnalisé et contient un code de rendu spécifique qui peut être ajouté aux diffusions. Par exemple, vous pouvez ajouter des images, des en-têtes et des pieds de page d’e-mail, des liens vers des pages miroir, des liens de désabonnement, etc.
 
-Découvrez comment créer des blocs de contenu dynamiques et comment les utiliser pour personnaliser le contenu de votre diffusion email.
+Découvrez comment créer des blocs de contenu dynamiques et comment les utiliser pour personnaliser le contenu de votre diffusion de messagerie.
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -32,10 +33,10 @@ Découvrez comment créer des blocs de contenu dynamiques et comment les utilise
 
 Documentation :
 
-* [À propos de la personnalisation](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* ([Blocs de personnalisation](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
+* [À propos de la personnalisation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* ([Blocs de personnalisation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 Tutoriels vidéos :
 
-* [Personnalisation des emails à l’aide d’un champ de personnalisation](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [Personnalisation des emails : créer une newsletter multilingue à l’aide de contenu conditionnel](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [Personnalisation des e-mails à l’aide d’un champ de personnalisation](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+* [Personnalisation des e-mails : créer une newsletter multilingue à l’aide de contenu conditionnel](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
