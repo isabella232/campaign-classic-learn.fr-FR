@@ -8,16 +8,16 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-source-git-commit: cc90f176ee62f01610cc696c227585cfe4081278
+source-git-commit: 8eee5de1b133fea146a2b05b1489b786e3117f9f
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 76%
+ht-degree: 37%
 
 ---
 
 # Création de campagnes cross-canal
 
-Dans une campagne cross-canal, une communication marketing unique utilise plusieurs canaux pour atteindre une audience cible plus large basée sur le canal destinataire préféré.
+Dans une campagne sur plusieurs canaux, une communication marketing unique utilise plusieurs canaux pour atteindre une audience de cible plus large basée sur le canal destinataire préféré.
 
 Découvrez comment créer une campagne entre canaux à l’aide de diffusions par courriel, SMS et publipostage direct.
 
