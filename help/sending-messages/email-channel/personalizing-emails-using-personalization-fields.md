@@ -1,6 +1,6 @@
 ---
-title: Personnalisation des emails à l’aide d’un champ de personnalisation
-description: Découvrez comment ajouter un champ de personnalisation à la ligne d’objet et au contenu d’une diffusion email.
+title: Personnalisation des e-mails à l’aide d’un champ de personnalisation
+description: Découvrez comment ajouter un champ de personnalisation à la ligne d’objet et au contenu d’une diffusion e-mail.
 feature: Contenu dynamique
 kt: 5921
 thumbnail: 24925.jpg
@@ -10,19 +10,18 @@ team: TM
 role: Business Practitioner
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-translation-type: tm+mt
 source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# Personnalisation des emails à l’aide d’un champ de personnalisation
+# Personnalisation des e-mails à l’aide d’un champ de personnalisation
 
 Les champs de personnalisation sont utilisés pour la personnalisation de premier niveau du contenu des messages diffusés. Les champs que vous insérez dans un contenu principal indiquent l’emplacement où insérer les données d’une source de données sélectionnée.
 
-Découvrez comment ajouter un champ de personnalisation à la ligne d’objet et au contenu d’une diffusion email.
+Découvrez comment ajouter un champ de personnalisation à la ligne d’objet et au contenu d’une diffusion e-mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
@@ -35,5 +34,5 @@ Documentation :
 
 Tutoriels :
 
-* [Personnalisation des emails à l’aide de blocs de contenu dynamique](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [Personnalisation des emails : créer une newsletter multilingue à l’aide de contenu conditionnel](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [Personnalisation des e-mails à l’aide de blocs de contenu dynamique](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+* [Personnalisation des e-mails : créer une newsletter multilingue à l’aide de contenu conditionnel](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
