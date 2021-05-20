@@ -10,9 +10,8 @@ team: WWFRE
 role: Business Practitioner, Administrator, Developer
 level: Experienced
 exl-id: 99b8acff-0105-4764-82ec-7c2dfe75f0f9
-translation-type: tm+mt
 source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
 ht-degree: 100%
 
