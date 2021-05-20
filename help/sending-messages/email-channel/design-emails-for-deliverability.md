@@ -10,9 +10,8 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
-translation-type: tm+mt
 source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '43'
 ht-degree: 100%
 
