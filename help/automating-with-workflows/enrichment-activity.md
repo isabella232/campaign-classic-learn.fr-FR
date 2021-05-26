@@ -13,18 +13,18 @@ team: TM
 role: Business Practitioner, Developer
 level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
-source-git-commit: 84d5dd568b0d8bae2ad97676f1eb1a312c0ff01e
+source-git-commit: 57ca0ea806c14c148d67e4f9b609764dfaec80db
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 1%
 
 ---
 
 # Configuration des activités d’enrichissement
 
-Une activité d’enrichissement est un objet de workflow qui permet à l’utilisateur d’ajouter des données à la table de travail. Avec un enrichissement, vous pouvez ajouter des colonnes à cette table pour contenir des données supplémentaires ou définir de nouveaux liens entre cette table de travail et d’autres données existantes.
+L&#39;activité d&#39;enrichissement est un objet de workflow qui ajoute des données à la table de travail. L&#39;utilisation de l&#39;activité d&#39;enrichissement permet d&#39;ajouter des colonnes dans un tableau qui stocke des données additionnelles ou de définir de nouveaux liens vers d&#39;autres données existantes.
 
-Cette vidéo explique comment configurer une activité d’enrichissement en fonction des informations du log de diffusion.
+Découvrez comment configurer une activité d&#39;enrichissement en fonction des informations du log de diffusion.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12)
 
