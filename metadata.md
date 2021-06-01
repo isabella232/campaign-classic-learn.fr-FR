@@ -2,15 +2,14 @@
 cloud: Experience Cloud
 product: adobe campaign
 type: Tutorial
-solution: Campaign, Campaign Classic
+solution: Campaign, Campaign Classic, Campaign Classic v7
 version: Classic v7
 feature-set: Campaign
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-classic-learn.fr-FR
 index: true
-translation-type: ht
-source-git-commit: dfde42fa37a3ae3387d709d50acbe4aeb0f5b891
-workflow-type: ht
+source-git-commit: 06660d642e19b4d7847519649d8a8568c14cd7be
+workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%
 
