@@ -14,9 +14,9 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '223'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -33,6 +33,7 @@ Pour accéder à la gestion des sous-domaines dans le panneau de contrôle, rend
 
 * [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Vignette **[!UICONTROL Panneau de contrôle]** > Vignette **Paramètres des instances**
 
+
 ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
@@ -42,4 +43,4 @@ Découvrez comment ajouter une plage d’adresses IP aux listes autorisées des 
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-Pour plus d’informations sur l’ajout d’adresses IP aux listes autorisées, consultez la [documentation détaillée du produit](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html).
+Pour plus d’informations sur l’ajout d’adresses IP aux listes autorisées, consultez la [documentation détaillée du produit](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=fr).
