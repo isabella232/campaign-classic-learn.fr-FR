@@ -10,9 +10,9 @@ role: Administrator, Developer
 level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -34,4 +34,4 @@ Vous apprendrez comment
 
 ## Ressources supplémentaires
 
-* [Configurer l&#39;accès à Snowflake](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic)
+* [Configurer l&#39;accès à Snowflake](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=fr)
