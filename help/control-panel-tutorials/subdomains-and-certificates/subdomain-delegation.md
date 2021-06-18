@@ -12,9 +12,9 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 exl-id: 28960c68-860c-4707-8d59-65c3222307dd
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -32,6 +32,7 @@ Pour accéder à la gestion des sous-domaines dans le [!UICONTROL panneau de con
 
 * [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Vignette **[!UICONTROL Panneau de contrôle]** > Vignette **Sous-domaines et certificats**
 
+
 ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
@@ -46,4 +47,4 @@ La vidéo ci-dessous montre comment déléguer des sous-domaines.
 ## Ressources supplémentaires
 
 * [Ajout de certificats SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
-* [Renouvellement du certificat SSL d’un sous-domaine (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Renouvellement du certificat SSL d&#39;un sous-domaine (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=fr)
