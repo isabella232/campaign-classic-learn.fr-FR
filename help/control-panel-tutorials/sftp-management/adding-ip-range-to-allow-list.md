@@ -12,9 +12,9 @@ role: Administrator
 level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Découvrez comment ajouter une plage d’adresses IP à la liste autorisée.
 
 ## Ressources supplémentaires
 
-* [Plage d’adresses IP autorisée pour la liste (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)
+* [Listes autorisées des plages d&#39;adresses IP (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=fr)
