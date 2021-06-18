@@ -12,9 +12,9 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
 exl-id: d9f4be99-6e41-4c75-b3dc-bbdae1a63677
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Découvrez comment créer une clé publique, l’importer et l’installer sur u
 ## Ressources supplémentaires
 
 * [Gestion des clés GPG (vidéos)](./gpg-key-management-overview.md)
-* [Gestion des clés GPG (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
+* [Gestion des clés GPG (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=fr)
