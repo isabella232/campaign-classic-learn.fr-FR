@@ -11,9 +11,9 @@ role: Administrator
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -32,5 +32,5 @@ Découvrez comment configurer et envoyer un sous-domaine à l’aide de CNAME da
 ## Ressources supplémentaires
 
 * [Délégation complète de sous-domaines (vidéo)](./subdomain-delegation.md)
-* [Configuration d’un nouveau sous-domaine (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* [Configuration d&#39;un nouveau sous-domaine (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=fr)
 
