@@ -7,20 +7,19 @@ thumbnail: 35616.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 68%
+ht-degree: 85%
 
 ---
 
 # Génération d’un rapport d’analyse descriptive
 
-Découvrez comment générer un rapport [!UICONTROL descriptif d&#39;analyse] à partir d&#39;un processus.
+Découvrez comment générer un [!UICONTROL rapport d&#39;analyse descriptive] à partir d&#39;un workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 
