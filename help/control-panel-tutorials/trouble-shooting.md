@@ -6,12 +6,12 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 100%
 
@@ -65,6 +65,6 @@ La connexion aux serveurs SFTP requiert les actions suivantes :
 * Enregistrement d’une paire de clés privée/publique auprès d’Adobe Campaign
 * Si vous vous connectez directement au serveur SFTP, vous aurez également besoin d’un logiciel client SFTP.
 
-### Documentation utile  {#helpful-docs}
+### Documentation utile {#helpful-docs}
 
 * [Connexion à votre serveur SFTP](https://helpx.adobe.com/fr/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
