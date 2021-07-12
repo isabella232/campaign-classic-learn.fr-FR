@@ -7,30 +7,29 @@ thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 58%
+ht-degree: 92%
 
 ---
 
 # Configuration d’un modèle de diffusion
 
-Les services marketing produisent des modèles de diffusion pour normaliser l&#39;aspect créatif afin d&#39;être plus rapide dans l&#39;exécution et le lancement des campagnes.
+Les services marketing créent des modèles de diffusion pour normaliser l&#39;aspect créatif afin d&#39;être plus rapide dans l&#39;exécution et le lancement des campagnes.
 
-Un modèle peut systématiquement inclure :
+Un modèle peut systématiquement inclure :
 
 * Typologies
-* Adresses de l&#39;expéditeur et des réponses
+* Adresses d&#39;expéditeur et destinataire
 * Blocs de personnalisation de base
-* Liens vers des pages miroir et des désinscriptions
+* Liens vers les pages miroir et désinscription
 * Contenu, logo ou signature d’une société
-* Autres propriétés de diffusion, telles que la validité des ressources, les quantités de lots, ...
+* Autres propriétés de diffusion, telles que la validité des ressources, les quantités de lots, etc.
 
 La vidéo suivante montre comment configurer un modèle pour une diffusion ad hoc.
 
