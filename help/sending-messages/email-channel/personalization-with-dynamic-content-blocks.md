@@ -7,11 +7,11 @@ thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 3687dd91016602f595c606d21a4905ff28b91b1a
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 100%
 
