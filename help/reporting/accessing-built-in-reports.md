@@ -1,31 +1,30 @@
 ---
 title: Accès aux rapports natifs
-description: Comprenez l’rapports et l’analyse intégrés et apprenez à générer un rapport de diffusion.
+description: Découvrez les analyses et les rapports natifs et comment générer un rapport de diffusion.
 feature: Reporting
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 12%
+ht-degree: 42%
 
 ---
 
 # Accès aux rapports natifs
 
-Comprendre  rapports et analyse intégrés en Campaign Classic et comment générer un rapport de diffusion.
+Comprendre  création de rapports et analyses intégrés dans Campaign Classic et découvrez comment générer un rapport de diffusion.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
 
 ## Ressources supplémentaires
 
-* [Génération d’un rapport d’analyse descriptif (vidéo)](/help/reporting/generating-a-descriptive-analysis-report.md)
-* [Prise en main du rapports (documentation du produit)](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html)
-* [Meilleures pratiques en matière de rapports (documentation sur les produits)](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/best-practices.html)
+* [Générer un rapport d&#39;analyse descriptive (vidéo)](/help/reporting/generating-a-descriptive-analysis-report.md)
+* [Prise en main du reporting (documentation du produit)](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=fr)
+* [Bonnes pratiques en matière de reporting (documentation produit)](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/best-practices.html)
