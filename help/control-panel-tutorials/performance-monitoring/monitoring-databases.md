@@ -8,11 +8,11 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: eefe2adc-d1f2-4d38-b93b-c38069f4acd4
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
 
