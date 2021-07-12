@@ -1,28 +1,28 @@
 ---
-title: Configuration de campagnes email récurrentes et continues
-description: Découvrez comment configurer une diffusion récurrente et continue et comprendre les différences entre les deux approches.
+title: Configuration de campagnes e-mail récurrentes et au fil de l'eau
+description: Découvrez comment configurer une diffusion récurrente et au fil de l'eau et comprendre les différences entre les deux approches.
 feature: Workflows
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 5fb898eca821c5078393003c41032801f8454fd5
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 67%
+ht-degree: 95%
 
 ---
 
-# Configuration de campagnes email récurrentes et continues
+# Configuration de campagnes e-mail récurrentes et au fil de l&#39;eau
 
-Ce tutoriel explique comment configurer une diffusion récurrente et continue et les différences entre les deux approches.
+Ce tutoriel explique comment configurer une diffusion récurrente et au fil de l&#39;eau et les différences entre les deux approches.
 
-## Suivi des diffusions récurrentes et continues {#recurring-and-continuous-delivery-tracking}
+## Suivi des diffusions récurrentes et au fil de l&#39;eau {#recurring-and-continuous-delivery-tracking}
 
-Les diffusions récurrentes et continues diffèrent dans la façon dont les données de contact sont gérées :
+Les diffusions récurrentes et au fil de l&#39;eau diffèrent dans la façon dont les données de contact sont gérées :
 
 * Une **diffusion (au fil de l’eau)** permet d&#39;ajouter de nouveaux destinataires à une diffusion existante, ce qui évite d&#39;avoir à créer une diffusion chaque fois qu’un nouveau destinataire est ajouté. Vous pouvez mettre à jour le contenu créatif directement dans le workflow de campagne et le modèle sera mis à jour dans le dossier Ressource du modèle de diffusion.
 
@@ -40,9 +40,9 @@ Cette vidéo explique comment configurer une diffusion récurrente et une activi
 
 >[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
 
-## Comment configurer une diffusion (au fil de l’eau){#how-to-set-up-a-continuous-delivery}
+## Comment configurer une diffusion (au fil de l’eau) {#how-to-set-up-a-continuous-delivery}
 
-Cette vidéo montre comment configurer une diffusion (au fil de l’eau) avec une requête incrémentale.
+Cette vidéo montre comment configurer une diffusion au fil de l&#39;eau avec une requête incrémentale.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
 
