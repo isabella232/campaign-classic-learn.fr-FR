@@ -1,25 +1,25 @@
 ---
 title: Utilisation de l’activité de mise à jour de liste pour créer une liste avec un workflow
-description: Découvrez comment affiner votre cible en appliquant une exclusion standard à un processus. Vous apprendrez également comment créer des filtres prédéfinis et comment tirer le meilleur parti de votre processus.
-feature: Workflows, Activité de ciblage, Éditeur de Requête
+description: Découvrez comment affiner votre cible en appliquant une exclusion standard à un workflow. Vous apprendrez également comment créer des filtres prédéfinis et comment résoudre les problèmes de votre workflow.
+feature: Workflows, Activité de ciblage, Requêteur
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 36%
+ht-degree: 72%
 
 ---
 
 # Utilisation de l’activité de mise à jour de liste pour créer une liste avec un workflow
 
-Découvrez le concept de listes dans Adobe Campaign Classic et comment créer une liste à l’aide de l’activité de liste de mise à jour dans un flux de travail.
+Découvrez le concept des listes dans Adobe Campaign Classic et comment créer une liste à l’aide de l’activité de mise à jour de liste dans un workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
 
@@ -27,8 +27,8 @@ Découvrez le concept de listes dans Adobe Campaign Classic et comment créer un
 
 Documentation :
 
-* [A propos des Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
-* [Mise à jour de la liste](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
+* [À propos des workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=fr)
+* [Mise à jour de liste](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
 
 Tutoriels :
 
