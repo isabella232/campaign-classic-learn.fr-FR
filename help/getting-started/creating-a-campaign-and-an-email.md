@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: e7fab13d8fe549c48b89027d50a563065e2c022e
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 100%
+source-wordcount: '52'
+ht-degree: 86%
 
 ---
 
@@ -25,4 +25,4 @@ Découvrez comment créer une diffusion email directement à partir d’une camp
 
 ## Ressources supplémentaires
 
-* [Cas pratique : création d&#39;une diffusion email](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html?lang=fr#designing-content)
+* [Cas pratique : Créer une diffusion email (documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html?lang=fr)
