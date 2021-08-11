@@ -1,7 +1,7 @@
 ---
 title: Panneau de contrôle - Présentation
-description: Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
-landing-page-description: Le panneau de contrôle permet aux administrateurs Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
+description: Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
+landing-page-description: Le panneau de contrôle permet aux administrateurs Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
 feature: Panneau de contrôle
 kt: 3262
 doc-type: feature video
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # Panneau de contrôle - Présentation
 
-Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
+Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
 
 ## Nouveautés
 
@@ -51,28 +51,28 @@ Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
   </td>
    <td>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-      <img alt="Gestion des enregistrements TXT Google (vidéos)" src="./assets/32369.jpg" />
+      <img alt="Gestion des enregistrements TXT Google (vidéos)" src="./assets/32369.jpg" />
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Gestion des enregistrements TXT Google(vidéos)</strong>
+    <strong>Gestion des enregistrements TXT Google(vidéos)</strong>
     </a>
     </div>
     <p>
-    <em> Découvrez comment ajouter des enregistrements de vérification de site TXT Google à tous les sous-domaines utilisés pour envoyer des emails aux adresses GMAIL grâce au panneau de contrôle Campaign.</em>
+    <em> Découvrez comment ajouter des enregistrements de vérification de site TXT Google à tous les sous-domaines utilisés pour envoyer des emails aux adresses GMAIL grâce au panneau de contrôle Campaign.</em>
     <p>
   </td>
   <td>
     <a href="./sftp-management/connect-to-sftp-server.md">
-      <img alt="Se connecter à un serveur SFTP" src="./assets/27263.jpg" />
+      <img alt="Se connecter à un serveur SFTP" src="./assets/27263.jpg" />
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Connexion à un serveur SFTP</strong>
+    <strong>Connexion à un serveur SFTP</strong>
     </a>
     </div>
     <p>
-    <em>Découvrez comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le panneau de contrôle. </em>
+    <em>Découvrez comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le panneau de contrôle. </em>
     <p>
   </td>
 </tr>
