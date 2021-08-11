@@ -1,6 +1,6 @@
 ---
 title: Résolution des problèmes du panneau de contrôle
-description: Le panneau de contrôle permet de surveiller et de gérer votre capacité de stockage SFTP par instance et d’ajouter des adresses IP aux listes autorisées.
+description: Le panneau de contrôle permet de surveiller et de gérer votre capacité de stockage SFTP par instance et d’ajouter des adresses IP aux listes autorisées.
 feature: Panneau de contrôle
 kt: 2938
 doc-type: article
@@ -57,14 +57,14 @@ l’administrateur doit ajouter l’utilisateur au profil de produit _Campaign-x
 * [Découverte du panneau de contrôle](https://helpx.adobe.com/fr/campaign/kb/control-panel-overview.html)
 * [[!UICONTROL Gestion des autorisations pour le panneau de contrôle]](https://helpx.adobe.com/fr/campaign/kb/control-panel-access.html)
 
-## Établissement de la connexion au serveur SFTP (client ou API)
+## Établissement de la connexion au serveur SFTP (client ou API)
 
-La connexion aux serveurs SFTP requiert les actions suivantes :
+La connexion aux serveurs SFTP requiert les actions suivantes :
 
-* [!UICONTROL Ajout à la liste autorisée] de l’adresse IP à partir de laquelle vous vous connectez au serveur SFTP
+* [!UICONTROL Ajout à la liste autorisée] de l’adresse IP à partir de laquelle vous vous connectez au serveur SFTP
 * Enregistrement d’une paire de clés privée/publique auprès d’Adobe Campaign
-* Si vous vous connectez directement au serveur SFTP, vous aurez également besoin d’un logiciel client SFTP.
+* Si vous vous connectez directement au serveur SFTP, vous aurez également besoin d’un logiciel client SFTP.
 
 ### Documentation utile {#helpful-docs}
 
-* [Connexion à votre serveur SFTP](https://helpx.adobe.com/fr/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [Connexion à votre serveur SFTP](https://helpx.adobe.com/fr/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
