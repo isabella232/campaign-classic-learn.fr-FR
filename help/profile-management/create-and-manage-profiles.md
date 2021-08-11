@@ -30,6 +30,6 @@ Cette vidéo explique également la conformité d’Adobe Campaign Classic avec 
 
 **Documentation:**
 
-* [A propos des profils](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/getting-started/profile-management/about-profiles.html)
+* [À propos des profils](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/getting-started/profile-management/about-profiles.html)
 * [Editer un profil](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/editing-a-profile.html)
 * [Gérer des profils](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/adding-profiles.html)
