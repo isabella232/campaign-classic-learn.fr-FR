@@ -1,6 +1,6 @@
 ---
 title: Surveillance de la capacité du serveur
-description: Découvrez comment surveiller et gérer votre capacité de stockage SFTP par instance et apprenez à ajouter des adresses IP aux listes autorisées.
+description: Découvrez comment surveiller et gérer votre capacité de stockage SFTP par instance et apprenez à ajouter des adresses IP aux listes autorisées.
 feature: Panneau de contrôle
 audience: administrator
 kt: 3266
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 # Surveillance de la capacité du serveur
 
-Le panneau de contrôle permet de surveiller et de gérer votre capacité de stockage SFTP par instance.
+Le panneau de contrôle permet de surveiller et de gérer votre capacité de stockage SFTP par instance.
 
 ## Accès à la gestion des sous-domaines dans le [!UICONTROL panneau de contrôle]
 
@@ -34,6 +34,6 @@ Pour accéder à la gestion des sous-domaines du [!UICONTROL panneau de contrôl
 
 ## Surveillance de la capacité du serveur, [!UICONTROL ajout d’adresses IP aux listes autorisées] et ajout de clés SSH
 
-Découvrez comment surveiller la capacité de stockage de vos serveurs SFTP.
+Découvrez comment surveiller la capacité de stockage de vos serveurs SFTP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
