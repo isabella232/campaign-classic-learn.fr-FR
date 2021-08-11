@@ -1,6 +1,6 @@
 ---
-title: Ajout de certificats SSL
-description: Découvrez comment ajouter des certificats SSL pour sécuriser vos sous-domaines.
+title: Ajout de certificats SSL
+description: Découvrez comment ajouter des certificats SSL pour sécuriser vos sous-domaines.
 feature: Panneau de contrôle
 kt: 4219
 thumbnail: 31317.jpg
@@ -18,9 +18,9 @@ ht-degree: 100%
 
 ---
 
-# Ajout de certificats SSL
+# Ajout de certificats SSL
 
-Le [!UICONTROL panneau de contrôle] d’Adobe Campaign permet d’ajouter des certificats SSL pour sécuriser vos sous-domaines.
+Le [!UICONTROL panneau de contrôle] d’Adobe Campaign permet d’ajouter des certificats SSL pour sécuriser vos sous-domaines.
 
 ## Accès à la gestion des sous-domaines dans le panneau de contrôle
 
@@ -31,13 +31,13 @@ Pour accéder à la gestion des sous-domaines dans le panneau de contrôle, rend
    ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Étapes pour ajouter des certificats SSL
+## Étapes pour ajouter des certificats SSL
 
-Pour ajouter des certificats SSL, trois étapes sont nécessaires :
+Pour ajouter des certificats SSL, trois étapes sont nécessaires :
 
 ### 1. Générer les demandes de signature de certificat
 
-La demande de signature de certificat (CSR) est nécessaire pour l’achat d’un certificat SSL. Elle doit être générée pour l’instance et les sous-domaines que vous prévoyez de sécuriser.
+La demande de signature de certificat (CSR) est nécessaire pour l’achat d’un certificat SSL. Elle doit être générée pour l’instance et les sous-domaines que vous prévoyez de sécuriser.
 
 La vidéo ci-dessous montre comment générer une demande de signature de certificat dans le panneau de contrôle.
 
@@ -45,21 +45,21 @@ La vidéo ci-dessous montre comment générer une demande de signature de certif
 
 *Générer des demandes de signature de certificat (02:36 min)*
 
-### 2. Acheter le certificat SSL
+### 2. Acheter le certificat SSL
 
-Après avoir obtenu la demande de signature de certificat, vous devez acheter le certificat SSL auprès d’une autorité de certification approuvée par votre organisation.
+Après avoir obtenu la demande de signature de certificat, vous devez acheter le certificat SSL auprès d’une autorité de certification approuvée par votre organisation.
 
 ### 3. Installer le certificat SSL
 
-Une fois que vous avez obtenu le certificat SSL, il doit être installé pour les sous-domaines que vous envisagez de sécuriser.
+Une fois que vous avez obtenu le certificat SSL, il doit être installé pour les sous-domaines que vous envisagez de sécuriser.
 
-La vidéo ci-dessous montre comment installer des certificats SSL dans le [!UICONTROL panneau de contrôle].
+La vidéo ci-dessous montre comment installer des certificats SSL dans le [!UICONTROL panneau de contrôle].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
-*Installer des certificats SSL (01:25 min)*
+*Installer des certificats SSL (01:25 min)*
 
 ## Ressources supplémentaires
 
 * [Délégation complète de sous-domaines (vidéo)](./subdomain-delegation.md)
-* [Renouvellement du certificat SSL d&#39;un sous-domaine (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=fr)
+* [Renouvellement du certificat SSL d&#39;un sous-domaine (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=fr)
