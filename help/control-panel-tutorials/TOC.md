@@ -19,16 +19,16 @@ ht-degree: 100%
 
 + [Vue d&#39;ensemble du panneau de contrôle](/help/control-panel-tutorials/control-panel-overview.md)
 + [Prise en main du panneau de contrôle](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
-+ Gestion SFTP {#sftp-management}
++ Gestion SFTP {#sftp-management}
    + [Surveillance de la capacité du serveur](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Ajout d&#39;une plage d’adresses IP à la liste autorisée](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Génération d&#39;une clé SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
-   + [Connexion à un serveur SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
+   + [Connexion à un serveur SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Sous-domaines et certificats {#subdomains-and-certificates}
    + [Délégation complète de sous-domaines (bêta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [Délégation de sous-domaines à l&#39;aide de CNAME (bêta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
-   + [Ajout de certificats SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
-   + [Gestion des enregistrements TXT Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
+   + [Ajout de certificats SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
+   + [Gestion des enregistrements TXT Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Paramètres des instances {#instance-settings}
    + [Ajout d’adresses IP aux listes autorisées](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [Ajout d’autorisations d’URL](/help/control-panel-tutorials/instance-settings/adding-url-permissions.md)
