@@ -22,9 +22,9 @@ ht-degree: 100%
 
 # Ajout d’adresses IP aux listes autorisées
 
-Le panneau de contrôle permet de configurer de nouvelles connexions à vos instances en ajoutant des plages d’adresses IP aux listes autorisées. Par défaut, une instance Adobe Campaign Classic n’est pas accessible à partir de diverses adresses IP. Par conséquent, une adresse IP doit être ajoutée à une liste autorisée :
+Le panneau de contrôle permet de configurer de nouvelles connexions à vos instances en ajoutant des plages d’adresses IP aux listes autorisées. Par défaut, votre instance Adobe Campaign Classic n’est accessible qu’à partir de certaines adresses IP. Par conséquent, une adresse IP doit être ajoutée à une liste autorisée :
 
-* pour autoriser l’accès à l’instance [!DNL Campaign] à partir de cette adresse IP ;
+* pour autoriser l’accès à l’instance [!DNL Campaign] à partir de cette adresse IP ;
 * pour connecter une API à Message Center ou votre instance marketing.
 
 ## Accès aux paramètres des instances dans le panneau de contrôle
