@@ -22,9 +22,9 @@ ht-degree: 100%
 
 Vous devez être en mesure de générer une clé SSH pour pouvoir l’ajouter au panneau de contrôle.
 
-## Accès à la gestion SFTP dans le panneau de contrôle
+## Accès à la gestion SFTP dans le panneau de contrôle
 
-Pour accéder à la gestion SFTP dans le panneau de contrôle, rendez-vous sur :
+Pour accéder à la gestion SFTP dans le panneau de contrôle, rendez-vous sur :
 
 * [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Vignette **Panneau de contrôle** > Vignette **SFTP**
 
