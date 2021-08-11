@@ -28,4 +28,4 @@ Découvrez comment générer un [!UICONTROL rapport d&#39;analyse descriptive] �
 **Documentation:**
 
 * [Prise en main du reporting](https://docs.adobe.com/content/help/en/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html)
-* [À propos de l’analyse descriptive](https://docs.adobe.com/content/help/en/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html)
+* [À propos de l&#39;analyse descriptive](https://docs.adobe.com/content/help/en/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html)
