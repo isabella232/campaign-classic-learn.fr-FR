@@ -11,7 +11,7 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
 exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 100%
@@ -80,4 +80,4 @@ Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
 
 ## Ressources supplémentaires
 
-* [Centre d&#39;aide relatif au panneau de contrôle](https://docs.adobe.com/content/help/fr-FR/control-panel/using/control-panel-home.html)
+* [Centre d&#39;aide relatif au panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr)
