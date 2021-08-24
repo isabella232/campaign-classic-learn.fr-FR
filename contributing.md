@@ -1,8 +1,8 @@
 ---
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 94%
+source-wordcount: '293'
+ht-degree: 89%
 
 ---
 # Contribution
@@ -17,9 +17,9 @@ Ce projet respecte le [code de conduite](code-of-conduct.md) d’Adobe. Si vous 
 vous êtes tenu de respecter ce code. Veuillez signaler tout comportement inacceptable à
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-## Documentation du Guide du contributeur
+## Documentation du guide du contributeur
 
-Consultez le [Guide du contributeur](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Voir le [Guide du contributeur](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## Vous avez une question ?
 
@@ -27,12 +27,13 @@ Commencez par signaler un problème. Les personnes chargées de la validation de
 
 ## Contrat de licence de contributeur (CLA)
 
-Toutes les contributions tierces à ce projet doivent être accompagnées d’un contrat de licence de contributeur signé. Ce contrat autorise Adobe à redistribuer vos contributions dans le cadre du projet. [Signez notre CLA](http://opensource.adobe.com/cla.html). Vous
+Toutes les contributions tierces à ce projet doivent être accompagnées d’un contrat de licence de contributeur signé. Ce contrat autorise Adobe à redistribuer vos contributions dans le cadre du projet. [Signez notre CLA](https://opensource.adobe.com/cla.html). Vous
 ne devez envoyer le contrat de licence de contributeur Adobe qu’une seule fois. Si vous l’avez déjà envoyé, tout est déjà en ordre.
 
 ## Examens du code
 
-Tous les envois doivent prendre la forme de demandes d’extraction et doivent être examinés par les personnes chargées de la validation du projet. Lisez la [documentation relative aux demandes d’extraction de GitHub](https://help.github.com/articles/about-pull-requests/) pour plus d’informations sur l’envoi de demandes d’extraction.
+Toutes les soumissions doivent prendre la forme de demandes d’extraction et doivent être examinées.
+par les validateurs de projet. Lisez la [documentation relative aux demandes d’extraction de GitHub](https://help.github.com/articles/about-pull-requests) pour plus d’informations sur l’envoi de demandes d’extraction.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
