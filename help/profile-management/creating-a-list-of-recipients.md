@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 91e3c9ea-9e5f-43bc-8ed4-ab57e6226d2b
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -29,7 +29,7 @@ Découvrez comment créer une audience en configurant une liste de destinataires
 
 Documentation :
 
-* [Créer et gérer des listes](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
+* [Créer et gérer des listes](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
 
 Tutoriels :
 
