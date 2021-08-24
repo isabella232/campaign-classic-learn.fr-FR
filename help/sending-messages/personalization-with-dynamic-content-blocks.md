@@ -1,16 +1,15 @@
 ---
 title: Personnalisation des emails à l’aide de blocs de contenu dynamique
-description: Ce tutoriel montre comment personnaliser le contenu d’une diffusion et utiliser du code JavaScript dans les modèles de diffusion. Il explique également comment normaliser et partager des blocs de contenu dans différents modèles de diffusion.
+description: Ce tutoriel a démontré comment personnaliser le contenu de la diffusion, utiliser du code JavaScript dans les modèles de diffusion et normaliser et partager des blocs de contenu dans différents modèles de diffusion.
 feature: Contenu dynamique
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 99%
+source-wordcount: '254'
+ht-degree: 70%
 
 ---
 
@@ -24,11 +23,11 @@ Dans Adobe Campaign, vous pouvez personnaliser le contenu ou l’apparence des 
 3 - Insertion de champs de personnalisation dynamiques\
 4- Création de contenu conditionnel.
 
-Ce tutoriel explique comment personnaliser le contenu d’une diffusion et utiliser du code JavaScript dans des modèles de diffusion. Il explique également comment normaliser et partager des blocs de contenu dans différents modèles de diffusion.
+Ce tutoriel a démontré comment personnaliser le contenu de la diffusion, utiliser du code JavaScript dans les modèles de diffusion et normaliser et partager des blocs de contenu dans différents modèles de diffusion.
 
 ## Création et ajout d’un bloc de personnalisation à une diffusion
 
-Un bloc de personnalisation est dynamique, personnalisé et contient un code de rendu spécifique qui peut être ajouté aux diffusions. Par exemple, vous pouvez ajouter des images, des en-têtes et des pieds de page d’email, des liens vers des pages miroir, des liens de désabonnement, etc.
+Un bloc de personnalisation est dynamique et contient un code de rendu spécifique qui peut être ajouté aux diffusions. Par exemple, vous pouvez ajouter des images, des en-têtes et des pieds de page d’email, des liens vers des pages miroir, des liens de désabonnement, etc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -46,4 +45,4 @@ Le paramétrage de champs de contenu conditionnel permet d’atteindre un niveau
 
 ## Autres ressources
 
-* [À propos de la personnalisation](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [À propos de la personnalisation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
