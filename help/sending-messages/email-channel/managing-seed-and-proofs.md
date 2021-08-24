@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: a10824f4-c2ea-4c9a-bbf4-3290a96a0de8
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 73%
 
 ---
 
@@ -25,5 +25,5 @@ Découvrez comment ajouter des adresses de contrôle et des BAT à un email exis
 
 ## Ressources supplémentaires
 
-- [Envoi d’un BAT](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/transactional-messaging/message-templates/sending-a-proof.html)
-- [Adresses de contrôle](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html)
+- [Envoi d’un BAT](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/message-templates/testing-message-templates.html#sending-a-proof?lang=en)
+- [Adresses de contrôle](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html?lang=en)
