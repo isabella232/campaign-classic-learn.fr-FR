@@ -9,16 +9,16 @@ team: TM
 role: User, Developer, Admin
 level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 25%
+source-wordcount: '101'
+ht-degree: 42%
 
 ---
 
-# Configuration de la gestion de la fatigue à l&#39;aide de filtres prédéfinis
+# Configuration de la gestion de la lassitude à l&#39;aide de filtres prédéfinis
 
-La gestion de la lassitude contrôle la fréquence et le nombre des messages afin d&#39;éviter une sollicitation excessive des destinataires. Si votre instance d&#39;opération ne contient pas le module d&#39;optimisation de campagne, vous pouvez configurer un filtre prédéfini qui filtrera la population cible en fonction du nombre de messages reçus.
+La gestion de la lassitude contrôle la fréquence et le nombre des messages afin d&#39;éviter une sollicitation excessive des destinataires. Si votre instance d&#39;opération ne contient pas le module d&#39;optimisation de campagne, vous pouvez configurer un filtre prédéfini qui filtre la population cible en fonction du nombre de messages reçus.
 
 Cette vidéo explique comment implémenter la gestion de la fatigue dans Adobe Campaign Classic à l’aide de filtres.
 
@@ -26,4 +26,4 @@ Cette vidéo explique comment implémenter la gestion de la fatigue dans Adobe C
 
 ## Ressources supplémentaires
 
-* [À propos des typologies de campagne](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
+* [À propos des typologies de campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=fr)
