@@ -1,5 +1,5 @@
 ---
-title: 'Personnalisation des emails : créer une newsletter multilingue à l’aide de contenu conditionnel'
+title: 'Personnalisation des e-mails : créer une newsletter multilingue à l''aide de contenu conditionnel'
 description: Découvrez comment ajouter du contenu conditionnel à une diffusion en prenant pour exemple une newsletter multilingue.
 feature: Contenu dynamique
 kt: 5922
@@ -10,14 +10,14 @@ team: TM
 role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 100%
+source-wordcount: '116'
+ht-degree: 82%
 
 ---
 
-# Personnalisation des emails : créer une newsletter multilingue à l’aide de contenu conditionnel
+# Personnalisation des e-mails : créer une newsletter multilingue à l&#39;aide de contenu conditionnel
 
 Le paramétrage de champs de contenu conditionnel permet d’atteindre un niveau de personnalisation évolué. Des blocs complets de texte et/ou des images sont remplacés lorsqu’une condition particulière est remplie.
 
@@ -29,8 +29,8 @@ Découvrez comment ajouter du contenu conditionnel à une diffusion en prenant p
 
 Documentation :
 
-* [À propos de la personnalisation](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* [Contenu conditionnel](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
+* [À propos de la personnalisation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+* [Contenu conditionnel](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en)
 
 Tutorials vidéos :
 
