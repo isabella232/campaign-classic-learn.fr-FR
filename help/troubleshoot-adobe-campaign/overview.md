@@ -5,7 +5,7 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Experienced
-source-git-commit: 496d9268fdc6276ac9dbb1b6db608aeae24eec5c
+source-git-commit: 1fb8072a5689c7db3e9231596f321b2a84c9e547
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
