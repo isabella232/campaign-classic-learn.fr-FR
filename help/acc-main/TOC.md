@@ -11,7 +11,7 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
-source-git-commit: 8fead8e1e71f26c87033cc72f5a14e38beb602f7
+source-git-commit: f52cc63295f831c27623cc540d918d49adc2f5d8
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 95%
@@ -21,7 +21,7 @@ ht-degree: 95%
 
 # Tutoriels Adobe Campaign Classic {#tutorials}
 
-+ [Vue d&#39;ensemble](/help/overview.md)
++ [Vue d’ensemble](/help/overview.md)
 + Prise en main {#getting-started}
    + [Présentation d’Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installation et configuration du client Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -96,4 +96,4 @@ ht-degree: 95%
    + [Panneau de contrôle](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=fr)
    + Accès à une base externe (FDA) {#fda}
       + [Gestion des big data sur  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-+ [Dépannage d’Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
++ [Résolution des problèmes liés à Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
