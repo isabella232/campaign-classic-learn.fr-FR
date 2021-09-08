@@ -2,14 +2,14 @@
 title: Tutoriels Adobe Campaign Classic - Vue d’ensemble
 description: Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l'orchestration visuelle de campagnes, la gestion d'interactions en temps réel et l'exécution cross-canal. Ce guide de l'utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d'Adobe Campaign Standard.
 sub-product: Campaign Classic
-feature: Présentation
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: af19780541ac0f2bc3dbcd37f095ae602b872223
+source-git-commit: 566aeb86b931525137cc1ad5edb766272976390d
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 80%
+source-wordcount: '297'
+ht-degree: 93%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 80%
 Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l&#39;exécution cross-canal. Ce guide de l&#39;utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d&#39;Adobe Campaign Classic V7.
 
 >[!INFO]
-> Avez-vous des questions ? Voulez-vous partager votre expérience ou échanger vos idées avec vos pairs ? Ou avez-vous des commentaires sur le contenu d’apprentissage pour l’équipe d’Adobe ? Rejoignez la conversation dans le [fil de la communauté d’apprentissage Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096) !
+> Avez-vous des questions ? Voulez-vous partager votre expérience ou échanger des idées avec vos pairs ? Ou avez-vous à formuler des commentaires concernant le contenu de formation pour l’équipe d’Adobe ? Rejoignez la conversation dans le [thread de la communauté d’apprentissage Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096) !
 
 ## Nouveautés
 
