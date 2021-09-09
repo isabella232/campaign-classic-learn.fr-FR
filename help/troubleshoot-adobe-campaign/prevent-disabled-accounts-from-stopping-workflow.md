@@ -4,10 +4,10 @@ description: Découvrez comment résoudre le problème lorsqu’un workflow s’
 feature: Workflows
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8431
 exl-id: 8c38fa38-caea-4f3e-881b-386e9100bc17
-source-git-commit: 5c778bf155f603464bca5f241674565abdd5e8bf
+source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
