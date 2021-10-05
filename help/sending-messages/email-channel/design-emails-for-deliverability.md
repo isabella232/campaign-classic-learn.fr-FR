@@ -1,7 +1,7 @@
 ---
 title: Comment puis-je garantir la délivrabilité lors de la conception d’emails ?
 description: Découvrez comment appliquer les bonnes pratiques en matière de délivrabilité.
-feature: E-mail, délivrabilité
+feature: Email, Deliverability
 kt: 5095
 thumbnail: 330943.jpg
 doc-type: feature video
@@ -11,13 +11,13 @@ role: User
 level: Beginner
 exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '43'
+workflow-type: ht
+source-wordcount: '41'
 ht-degree: 100%
 
 ---
 
-# Conception d&#39;e-mails pour la délivrabilité
+# Conception d’emails pour la délivrabilité
 
 Découvrez comment appliquer les bonnes pratiques en matière de délivrabilité à votre campagne.
 
