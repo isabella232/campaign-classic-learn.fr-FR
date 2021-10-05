@@ -1,7 +1,7 @@
 ---
 title: Surveillance de la capacité du serveur
 description: Découvrez comment surveiller et gérer votre capacité de stockage SFTP par instance et apprenez à ajouter des adresses IP aux listes autorisées.
-feature: Panneau de contrôle
+feature: Control Panel
 audience: administrator
 kt: 3266
 thumbnail: 27270.jpg
@@ -13,8 +13,8 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-whitelisting-adding-ssh-key.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-allow-listing-adding-ssh-key.html
 exl-id: cad80fc2-cf82-44fd-b192-0ceda90d6745
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '105'
+workflow-type: ht
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
