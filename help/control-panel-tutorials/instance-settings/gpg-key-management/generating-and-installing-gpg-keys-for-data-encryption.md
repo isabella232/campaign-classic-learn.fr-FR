@@ -1,7 +1,7 @@
 ---
 title: Génération et installation de clés GPG pour le cryptage des données
 description: Le panneau de contrôle permet de crypter les données provenant de votre instance Adobe Campaign. Découvrez comment générer et installer une paire de clés publique/privée sur une instance Campaign spécifiée pour le cryptage des données sortantes.
-feature: Panneau de contrôle
+feature: Control Panel
 kt: 5240
 thumbnail: 36386.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.html
 exl-id: 823e299e-dc61-426b-80c8-7c5cb889f04f
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '106'
+workflow-type: ht
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
