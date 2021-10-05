@@ -1,9 +1,9 @@
 ---
 title: Ajout d’adresses IP aux listes autorisées
-seo-title: Ajout d’adresses IP aux listes autorisées
+seo-title: Adding IP addresses to allow lists
 description: Découvrez comment ajouter une plage d’adresses IP aux listes autorisées des instances de Campaign Classic et comment les supprimer de la liste autorisée à l’aide du panneau de contrôle.
-seo-description: La vidéo ci-dessous explique comment configurer de nouvelles connexions à vos instances en ajoutant des plages d’adresses IP aux listes autorisées.
-feature: Panneau de contrôle
+seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
+feature: Control Panel
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
@@ -14,8 +14,8 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '223'
+workflow-type: ht
+source-wordcount: '196'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,6 @@ Le panneau de contrôle permet de configurer de nouvelles connexions à vos inst
 Pour accéder à la gestion des sous-domaines dans le panneau de contrôle, rendez-vous sur :
 
 * [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Vignette **[!UICONTROL Panneau de contrôle]** > Vignette **Paramètres des instances**
-
 
 ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
