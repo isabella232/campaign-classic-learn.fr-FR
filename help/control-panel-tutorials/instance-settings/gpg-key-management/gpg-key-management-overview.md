@@ -1,15 +1,15 @@
 ---
 title: Gestion des clés GPG - Présentation
 description: Les vidéos ci-après expliquent comment générer et installer une paire de clés publique/privée sur une instance Campaign spécifiée pour le cryptage des données sortantes. Elles montrent également comment importer et installer une clé publique sur une instance Campaign pour le décryptage des données entrantes.
-feature: Panneau de contrôle
+feature: Control Panel
 team: TM
 role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/gpg-key-management-overview.html
 exl-id: 1a3e8320-f992-428a-8dc8-ba5429042751
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '161'
+workflow-type: ht
+source-wordcount: '159'
 ht-degree: 100%
 
 ---
