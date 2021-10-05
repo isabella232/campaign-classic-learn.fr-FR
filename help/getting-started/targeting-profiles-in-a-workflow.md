@@ -1,6 +1,6 @@
 ---
 title: Comment cibler des profils dans un workflow
-description: Maîtrisez l’utilisation des workflows de campagne et découvrez comment créer un workflow et cibler des profils dans un workflow à l’aide de conditions de filtrage.
+description: Maîtrisez l'utilisation des workflows de campagne et découvrez comment créer un workflow et cibler des profils dans un workflow à l'aide de conditions de filtrage.
 feature: Workflows
 kt: 5080
 thumbnail: 35614.jpg
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
 source-git-commit: 6dc03c7b994e4a734e2aae9e66264462d5a9bbd3
-workflow-type: tm+mt
-source-wordcount: '128'
+workflow-type: ht
+source-wordcount: '127'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ Maîtrisez l&#39;utilisation des workflows de campagne et découvrez comment cr�
 
 * [Affinage des cibles en combinant les résultats des requêtes](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [Affinage des cibles en excluant les résultats des requêtes](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [Utilisation de l’activité de mise à jour de liste pour créer une liste avec un workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
+* [Utilisation de l&#39;activité de mise à jour de liste pour créer une liste avec un workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
 
 ## Ressources supplémentaires
 
@@ -40,4 +40,4 @@ Tutoriels :
 
 * [Création et gestion des profils](/help/profile-management/create-and-manage-profiles.md)
 * [Importer des profils ](/help/data-management/importing-profiles.md)
-* [Créer un workflow](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/creating-a-workflow.html?lang=fr)
+* [Création d&#39;un workflow](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/creating-a-workflow.html?lang=fr)
