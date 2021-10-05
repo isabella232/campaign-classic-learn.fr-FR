@@ -1,6 +1,6 @@
 ---
-title: Diffusion SMS en attente
-description: Découvrez comment résoudre le problème d’une diffusion SMS en accédant à la variable  état en attente du compte externe nouvellement créé.
+title: Diffusion SMS mise en attente
+description: Découvrez comment résoudre le problème d'une diffusion SMS mise en attente pour un compte externe créé.
 feature: SMS
 role: Admin
 level: Experienced
@@ -8,14 +8,14 @@ type: Troubleshooting
 kt: 8429
 exl-id: f6030e69-143e-40fa-838d-107e3ca3f4ad
 source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Diffusion SMS en attente
+# Diffusion SMS mise en attente
 
-Découvrez comment résoudre le problème d’une diffusion SMS en accédant à la variable  état en attente du compte externe nouvellement créé.
+Découvrez comment résoudre le problème d&#39;une diffusion SMS mise en attente pour un compte externe créé.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335986?quality=12)
