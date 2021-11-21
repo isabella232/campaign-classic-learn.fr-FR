@@ -1,15 +1,15 @@
 ---
 title: Personnalisation des emails à l’aide de blocs de contenu dynamique
 description: Ce tutoriel a démontré comment personnaliser le contenu de la diffusion, utiliser du code JavaScript dans les modèles de diffusion et normaliser et partager des blocs de contenu dans différents modèles de diffusion.
-feature: Contenu dynamique
+feature: Dynamic Content
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 70%
+source-wordcount: '252'
+ht-degree: 74%
 
 ---
 
@@ -33,7 +33,7 @@ Un bloc de personnalisation est dynamique et contient un code de rendu spécifiq
 
 ## Ajout d’un champ de personnalisation à une diffusion
 
-Les champs de personnalisation sont utilisés pour un premier niveau de personnalisation du contenu des messages diffusés. Les champs que vous insérez dans un contenu principal matérialisent l’emplacement où insérer les informations provenant de la source de données sélectionnée.
+Les champs de personnalisation sont utilisés pour la personnalisation de premier niveau du contenu des messages diffusés. Les champs que vous insérez dans un contenu principal indiquent l&#39;emplacement où insérer les données de la source de données sélectionnée.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
@@ -45,4 +45,4 @@ Le paramétrage de champs de contenu conditionnel permet d’atteindre un niveau
 
 ## Autres ressources
 
-* [À propos de la personnalisation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+* [À propos de la personnalisation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=fr)

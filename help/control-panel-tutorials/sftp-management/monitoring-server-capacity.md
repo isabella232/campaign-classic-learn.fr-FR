@@ -13,7 +13,7 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-whitelisting-adding-ssh-key.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-allow-listing-adding-ssh-key.html
 exl-id: cad80fc2-cf82-44fd-b192-0ceda90d6745
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 
@@ -21,13 +21,13 @@ ht-degree: 100%
 
 # Surveillance de la capacité du serveur
 
-Le panneau de contrôle permet de surveiller et de gérer votre capacité de stockage SFTP par instance.
+Le Panneau de contrôle permet de surveiller et de gérer votre capacité de stockage SFTP par instance.
 
-## Accès à la gestion des sous-domaines dans le [!UICONTROL panneau de contrôle]
+## Accès à la gestion des sous-domaines dans le [!UICONTROL Panneau de contrôle]
 
-Pour accéder à la gestion des sous-domaines du [!UICONTROL panneau de contrôle], rendez-vous sur :
+Pour accéder à la gestion des sous-domaines du [!UICONTROL Panneau de contrôle], rendez-vous sur :
 
-* [Page d’accueil d’Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Sélecteur de solution] : [!UICONTROL Campaign] > Vignette **[!UICONTROL Panneau de contrôle]** > Vignette **[!UICONTROL Sous-domaines et certificats]**
+* [Page d’accueil d’Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Sélecteur de solution] : [!UICONTROL Campaign] > carte **[!UICONTROL Panneau de contrôle]** > carte **[!UICONTROL Sous-domaines et certificats]**
 
    ou
 * Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)

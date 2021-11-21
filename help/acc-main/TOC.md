@@ -2,7 +2,7 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Tutoriels Adobe Campaign Classic
-user-guide-description: Adobe Campaign Classic permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
+user-guide-description: Adobe Campaign Classic permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
 source-git-commit: 0545c1b31654a4e50088423838cb2b4a1eca5dd4
 workflow-type: tm+mt
@@ -47,8 +47,8 @@ ht-degree: 100%
    + Canal SMS {#sms-channel}
       + [Création d&#39;une diffusion SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canal push {#push-channel}
-      + [Installation du canal Applications mobiles](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
-      + [Configuration du canal push à l&#39;aide du SDK Mobile Experience Platform](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
+      + [Installation du canal des applications mobiles](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
+      + [Configuration du canal push à l&#39;aide du SDK Mobile Experience Platform](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Prise en main des notifications push pour Android (tutoriel)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=fr)
    + Courrier {#direct-mail}
       + [Création de diffusions courrier](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
@@ -89,4 +89,4 @@ ht-degree: 100%
    + [Panneau de contrôle](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=fr)
    + Accès à une base externe (FDA) {#fda}
       + [Gestion des big data sur  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-+ [Résolution des problèmes d&#39;Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
++ [Résolution des problèmes d&#39;Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)

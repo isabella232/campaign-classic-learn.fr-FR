@@ -1,5 +1,5 @@
 ---
-title: Génération d’un rapport d’analyse descriptive
+title: Génération d'un rapport d'analyse descriptive
 description: Découvrez comment générer un rapport d’analyse descriptive à partir d’un workflow dans Adobe Campaign Classic.
 feature: Reporting
 kt: 5079
@@ -12,12 +12,12 @@ level: Beginner
 exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 70%
+source-wordcount: '66'
+ht-degree: 69%
 
 ---
 
-# Génération d’un rapport d’analyse descriptive
+# Génération d&#39;un rapport d&#39;analyse descriptive
 
 Découvrez comment générer un [!UICONTROL rapport d&#39;analyse descriptive] à partir d&#39;un workflow.
 

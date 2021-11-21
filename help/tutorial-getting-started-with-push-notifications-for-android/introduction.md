@@ -10,7 +10,7 @@ role: Admin, Developer
 level: Experienced
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 100%
 
@@ -18,11 +18,11 @@ ht-degree: 100%
 
 # Prise en main des notifications push pour Android - Introduction
 
-Adobe Campaign vous permet d’envoyer des notifications personnalisées et segmentés [!DNL push] aux appareils mobiles [!DNL iOS] et [!DNL Android]. Ce tutoriel montre les étapes à suivre pour envoyer des notifications [!DNL push] d’Adobe Campaign à une application [!DNL Android].
+Adobe Campaign vous permet d’envoyer des notifications personnalisées et segmentés [!DNL push] aux appareils mobiles [!DNL iOS] et [!DNL Android]. Ce tutoriel montre les étapes à suivre pour envoyer des notifications [!DNL push] d’Adobe Campaign à une application [!DNL Android].
 
 ## Conditions préalables requises
 
-Avant de commencer, vous devez disposer des éléments suivants :
+Avant de commencer, vous devez disposer des éléments suivants :
 
 1) **Application mobile Android**
 
@@ -32,9 +32,9 @@ Avant de commencer, vous devez disposer des éléments suivants :
 
    [Intégrer le SDK Campaign dans l’application mobile](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html?lang=fr)
 
-   Vous pouvez également utiliser le SDK Mobile Experience Platform. Pour en savoir plus, visionnez le tutoriel vidéo suivant :
+   Vous pouvez également utiliser le SDK Mobile Experience Platform. Pour en savoir plus, visionnez le tutoriel vidéo suivant :
 
-   [Configuration du canal Push à l’aide du SDK Mobile Experience Platform](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/push-channel/configure-push-using-aep-mobile-sdk.html?lang=fr)
+   [Configuration du canal Push à l’aide du SDK Mobile Experience Platform](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/push-channel/configure-push-using-aep-mobile-sdk.html?lang=fr)
 
 2) Package **[!DNL Mobile App channel]installé**
 

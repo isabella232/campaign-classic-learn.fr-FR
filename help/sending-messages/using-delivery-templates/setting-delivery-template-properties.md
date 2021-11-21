@@ -1,7 +1,7 @@
 ---
 title: Définition des propriétés de modèle de diffusion dans Adobe Campaign Classic
 description: Découvrez comment configurer les propriétés du modèle de diffusion.
-feature: Modèles de diffusion
+feature: Delivery Templates
 kt: 1981
 thumbnail: 24067.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 1da9b462-7cfe-48e2-9a84-6a070e4d305a
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 93%
 
 ---
@@ -27,8 +27,8 @@ La vidéo suivante montre comment définir les propriétés des modèles de diff
 
 Vidéos pratiques
 
-* [Configuration d’un modèle de diffusion](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
-* [Déploiement d’un modèle de diffusion email ad hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
+* [Configuration d&#39;un modèle de diffusion](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
+* [Déploiement d&#39;un modèle de diffusion e-mail ad hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
 
 Documentation :
 

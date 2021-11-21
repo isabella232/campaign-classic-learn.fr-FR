@@ -1,6 +1,6 @@
 ---
 user-guide-title: Résolution des problèmes d'Adobe Campaign
-user-guide-description: Trouvez de l'aide pour résoudre les problèmes liés à Adobe Campaign.
+user-guide-description: Trouvez de l'aide pour résoudre les problèmes liés à Adobe Campaign.
 breadcrumb-title: Résolution des problèmes d'Adobe Campaign
 index: true
 feature: Overview
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # Résolution des problèmes d&#39;Adobe Campaign {#troubleshooting}
 
-+ [Résolution des problèmes d&#39;Adobe Campaign - Aperçu](/help/troubleshoot-adobe-campaign/overview.md)
++ [Résolution des problèmes d&#39;Adobe Campaign - Aperçu](/help/troubleshoot-adobe-campaign/overview.md)
 + Connexion et console cliente {#login-and-client-console}
    + [Erreurs ou avertissements de script affichés lors de la connexion](/help/troubleshoot-adobe-campaign/script-error-during-login-errors.md)
    + [Correction des erreurs de connexion à la console](/help/troubleshoot-adobe-campaign/console-login-errors.md)

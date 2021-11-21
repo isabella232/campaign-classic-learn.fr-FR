@@ -2,7 +2,7 @@
 title: Création et gestion des profils
 description: Découvrez comment accéder aux données de profil, trier et filtrer les profils, et créer et gérer manuellement des profils. Comprendre la conformité au Règlement général sur la protection des données (RGPD) et au California Consumer Privacy Act (CCPA).
 landing-page-description: Comprendre le concept de profils. Découvrez comment accéder aux données de profil, trier et filtrer les profils et créer et gérer manuellement des profils. En savoir plus sur le RGPD et le CCPA.
-feature: Profils
+feature: Profiles
 kt: 5081
 thumbnail: 35611.jpg
 doc-type: feature video
@@ -13,7 +13,7 @@ level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 76%
 
 ---
@@ -31,5 +31,5 @@ Cette vidéo explique également la conformité d’Adobe Campaign Classic avec 
 **Documentation:**
 
 * [À propos des profils](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html?lang=en)
-* [Editer un profil](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/editing-a-profile.html?lang=en)
+* [Editer un profil](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/editing-a-profile.html?lang=fr)
 * [Gérer des profils](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/adding-profiles.html?lang=en)

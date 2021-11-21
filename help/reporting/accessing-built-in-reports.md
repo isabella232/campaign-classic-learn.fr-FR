@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 42%
+source-wordcount: '70'
+ht-degree: 41%
 
 ---
 
 # Accès aux rapports natifs
 
-Comprendre  création de rapports et analyses intégrés dans Campaign Classic et découvrez comment générer un rapport de diffusion.
+Découvrez les analyses et les rapports natifs en Campaign Classic et comment générer un rapport de diffusion.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
 

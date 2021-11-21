@@ -1,7 +1,7 @@
 ---
 title: Configuration d’un modèle de diffusion dans Adobe Campaign Classic
 description: Découvrez comment configurer un modèle pour une diffusion ad hoc.
-feature: Modèles de diffusion
+feature: Delivery Templates
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
@@ -13,12 +13,12 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '176'
 ht-degree: 92%
 
 ---
 
-# Configuration d’un modèle de diffusion
+# Configuration d&#39;un modèle de diffusion
 
 Les services marketing créent des modèles de diffusion pour normaliser l&#39;aspect créatif afin d&#39;être plus rapide dans l&#39;exécution et le lancement des campagnes.
 
@@ -40,7 +40,7 @@ La vidéo suivante montre comment configurer un modèle pour une diffusion ad ho
 Vidéos pratiques
 
 * [Définition des propriétés de modèle de diffusion](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
-* [Déploiement d’un modèle de diffusion email ad hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
+* [Déploiement d&#39;un modèle de diffusion e-mail ad hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
 
 Documentation :
 

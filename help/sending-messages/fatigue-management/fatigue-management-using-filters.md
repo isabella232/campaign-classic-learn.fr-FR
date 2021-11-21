@@ -1,7 +1,7 @@
 ---
 title: Gestion de la lassitude marketing avec les règles de pression
 description: Découvrez comment implémenter la gestion de la fatigue dans Adobe Campaign Classic à l’aide de filtres.
-feature: Gestion de la lassitude
+feature: Fatigue Management
 kt: 2148
 doc-type: feature video
 activity: use
@@ -11,8 +11,8 @@ level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 42%
+source-wordcount: '99'
+ht-degree: 41%
 
 ---
 

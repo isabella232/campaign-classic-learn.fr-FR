@@ -1,5 +1,5 @@
 ---
-title: Création d’une liste de destinataires
+title: Création d'une liste de destinataires
 description: Découvrez comment créer une audience en configurant une liste de destinataires à partir de l'Explorateur.
 feature: Audiences
 kt: 2171
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 91e3c9ea-9e5f-43bc-8ed4-ab57e6226d2b
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '106'
 ht-degree: 90%
 
 ---
@@ -35,4 +35,4 @@ Tutoriels :
 
 * [Création et gestion des profils](/help/profile-management/create-and-manage-profiles.md)
 * [Importer des profils ](/help/data-management/importing-profiles.md)
-* [Création d’une liste de destinataires avec un workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
+* [Création d&#39;une liste de destinataires avec un workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
