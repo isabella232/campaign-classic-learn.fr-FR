@@ -1,7 +1,7 @@
 ---
 title: Personnalisation des e-mails à l'aide de blocs de contenu dynamique
 description: Découvrez comment créer des blocs de contenu dynamiques et comment les utiliser pour personnaliser le contenu de votre diffusion e-mail.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 100%
+source-wordcount: '122'
+ht-degree: 92%
 
 ---
 
@@ -26,17 +26,6 @@ Un bloc de personnalisation est dynamique, personnalisé, et contient un code de
 
 Découvrez comment créer des blocs de contenu dynamiques et comment les utiliser pour personnaliser le contenu de votre diffusion e-mail.
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
-## Ressources supplémentaires
-
-Documentation :
-
-* [À propos de la personnalisation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=fr)
-* [Blocs de personnalisation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html?lang=fr)
-
-Tutoriels vidéos :
-
-* [Personnalisation des e-mails à l&#39;aide d&#39;un champ de personnalisation](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [Personnalisation des e-mails : créer une newsletter multilingue à l&#39;aide de contenu conditionnel](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+Pour en savoir plus sur la personnalisation, voir [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=fr).

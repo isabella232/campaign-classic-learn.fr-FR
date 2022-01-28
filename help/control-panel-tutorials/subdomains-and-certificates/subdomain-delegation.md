@@ -11,10 +11,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 exl-id: 28960c68-860c-4707-8d59-65c3222307dd
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 89%
 
 ---
 
@@ -43,7 +43,4 @@ La vidéo ci-dessous montre comment déléguer des sous-domaines.
 
 *Délégation de sous-domaines (05:07 min)*
 
-## Ressources supplémentaires
-
-* [Ajout de certificats SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
-* [Renouvellement du certificat SSL d&#39;un sous-domaine (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=fr)
+Pour plus d’informations sur le renouvellement du certificat SSL d’un sous-domaine, voir la section [documentation du produit](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=fr).

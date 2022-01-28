@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-ssl-certificates.html
 exl-id: 9ba485fb-be26-4f3c-a9de-844fecaec20d
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '199'
 ht-degree: 100%
 
 ---
@@ -58,8 +58,3 @@ La vidéo ci-dessous montre comment installer des certificats SSL dans le [!UIC
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *Installer des certificats SSL (01:25 min)*
-
-## Ressources supplémentaires
-
-* [Délégation complète de sous-domaines (vidéo)](./subdomain-delegation.md)
-* [Renouvellement du certificat SSL d&#39;un sous-domaine (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=fr)

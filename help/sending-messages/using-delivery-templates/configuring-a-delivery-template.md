@@ -11,10 +11,10 @@ role: Admin
 level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 92%
+source-wordcount: '93'
+ht-degree: 84%
 
 ---
 
@@ -34,17 +34,3 @@ Un modèle peut systématiquement inclure :
 La vidéo suivante montre comment configurer un modèle pour une diffusion ad hoc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12)
-
-## Ressources supplémentaires {#additional-resources}
-
-Vidéos pratiques
-
-* [Définition des propriétés de modèle de diffusion](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
-* [Déploiement d&#39;un modèle de diffusion e-mail ad hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-
-Documentation :
-
-* [À propos des modèles](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
-* [Créer un modèle de diffusion](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)
-* [Choisir un mapping de ciblage](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html)
-* [Créer une diffusion depuis un modèle](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html)

@@ -1,7 +1,7 @@
 ---
 title: 'Personnalisation des e-mails : créer une newsletter multilingue à l''aide de contenu conditionnel'
 description: Découvrez comment ajouter du contenu conditionnel à une diffusion en prenant pour exemple une newsletter multilingue.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 90%
 
 ---
 
@@ -25,14 +25,4 @@ Découvrez comment ajouter du contenu conditionnel à une diffusion en prenant p
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## Ressources supplémentaires
-
-Documentation :
-
-* [À propos de la personnalisation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=fr)
-* [Contenu conditionnel](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=fr)
-
-Tutorials vidéos :
-
-* [Personnalisation des e-mails à l&#39;aide de blocs de contenu dynamique](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [Personnalisation des e-mails à l&#39;aide d&#39;un champ de personnalisation](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+Pour en savoir plus sur la personnalisation, voir [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=fr).

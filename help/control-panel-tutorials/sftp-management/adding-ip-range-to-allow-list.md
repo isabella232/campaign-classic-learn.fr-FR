@@ -11,9 +11,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ Pour vous connecter à un serveur, que ce soit par le biais d’une application 
 Découvrez comment ajouter une plage d’adresses IP à la liste autorisée.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
-
-## Ressources supplémentaires
-
-* [Listes autorisées des plages d&#39;adresses IP (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=fr)

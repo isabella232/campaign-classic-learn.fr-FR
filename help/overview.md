@@ -5,10 +5,11 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
+recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 566aeb86b931525137cc1ad5edb766272976390d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '264'
 ht-degree: 100%
 
 ---
@@ -33,14 +34,6 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 * **[Envoi et validation de BAT](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
    *Découvrez comment envoyer et valider un BAT.*
-
-* **[Conception d&#39;e-mails pour la délivrabilité](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
-
-   *Découvrez comment appliquer les bonnes pratiques en matière de délivrabilité.*
-
-* **[Création et conception de diffusions e-mail](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
-
-   *Maîtrisez le processus de création d&#39;une diffusion e-mail et apprenez à concevoir et à personnaliser du contenu d&#39;e-mail.*
 
 
 ## Sélections du personnel

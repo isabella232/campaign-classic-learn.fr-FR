@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
@@ -28,9 +28,3 @@ Pour pouvoir commencer à envoyer des e-mails ou publier des landing pages avec 
 Découvrez comment configurer et envoyer un sous-domaine à l’aide de CNAME dans le Panneau de contrôle.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
-
-## Ressources supplémentaires
-
-* [Délégation complète de sous-domaines (vidéo)](./subdomain-delegation.md)
-* [Configuration d&#39;un nouveau sous-domaine (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=fr)
-

@@ -9,10 +9,10 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-source-git-commit: 6330e92e4e960d14ced70a04bc7330c56e6ba53a
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 7%
+source-wordcount: '276'
+ht-degree: 0%
 
 ---
 
@@ -40,7 +40,3 @@ Remarque : Cette vidéo a été enregistrée dans Adobe Campaign Classic V6. La 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
 
-## Ressources supplémentaires {#additional-resources}
-
-* [Ciblage des données (documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/targeting-data.html?lang=fr)
-* [Bonnes pratiques relatives aux workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=fr)

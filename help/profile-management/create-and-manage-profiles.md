@@ -11,10 +11,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 76%
+source-wordcount: '111'
+ht-degree: 85%
 
 ---
 
@@ -25,11 +25,3 @@ Découvrez le concept des profils dans Adobe Campaign Classic. Découvrez commen
 Cette vidéo explique également la conformité d’Adobe Campaign Classic avec le règlement général sur la protection des données (RGPD) et avec la loi sur la protection des données personnelles des consommateurs résidant en Californie (CCPA).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12)
-
-## Ressources supplémentaires
-
-**Documentation:**
-
-* [À propos des profils](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html?lang=en)
-* [Editer un profil](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/editing-a-profile.html?lang=fr)
-* [Gérer des profils](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/adding-profiles.html?lang=en)

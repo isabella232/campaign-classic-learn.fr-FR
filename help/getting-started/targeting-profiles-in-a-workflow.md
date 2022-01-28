@@ -10,9 +10,9 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-source-git-commit: 6dc03c7b994e4a734e2aae9e66264462d5a9bbd3
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -28,16 +28,3 @@ Maîtrisez l&#39;utilisation des workflows de campagne et découvrez comment cr�
 * [Affinage des cibles en combinant les résultats des requêtes](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [Affinage des cibles en excluant les résultats des requêtes](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
 * [Utilisation de l&#39;activité de mise à jour de liste pour créer une liste avec un workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
-
-## Ressources supplémentaires
-
-Documentation :
-
-* [À propos des workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=fr)
-* [À propos des activités de ciblage](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=fr)
-
-Tutoriels :
-
-* [Création et gestion des profils](/help/profile-management/create-and-manage-profiles.md)
-* [Importer des profils ](/help/data-management/importing-profiles.md)
-* [Création d&#39;un workflow](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/creating-a-workflow.html?lang=fr)
