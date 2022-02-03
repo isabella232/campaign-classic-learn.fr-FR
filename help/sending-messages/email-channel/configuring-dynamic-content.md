@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Découvrez les différents types de contenu dynamique et apprenez à créer et �
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12)
 
-Pour plus d’informations, voir [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=fr).
+Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=fr).
