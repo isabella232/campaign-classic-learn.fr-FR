@@ -10,9 +10,9 @@ role: Admin, Developer
 level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -32,4 +32,4 @@ Vous apprendrez comment
 
 >[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on)
 
-Pour plus d’informations sur la configuration de l’accès à Snowflake, voir [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=fr).
+Pour plus d’informations sur la configuration de l’accès à Snowflake, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=fr).
