@@ -12,9 +12,9 @@ role: Admin
 level: Experienced
 exl-id: eefe2adc-d1f2-4d38-b93b-c38069f4acd4
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ Découvrez comment surveiller l’utilisation de la base de données de vos inst
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
-Pour plus d’informations sur la surveillance des bases de données, voir [documentation du produit](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=fr#performance-monitoring).
+Pour plus d’informations sur la surveillance des bases de données, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=fr#performance-monitoring).
