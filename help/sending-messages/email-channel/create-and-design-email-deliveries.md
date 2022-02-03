@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 018e36bc-1afc-42c0-a459-4d51775ff6f8
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Découvrez le processus de création d’une diffusion email et apprenez à conc
 
 >[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12)
 
-Pour plus d’informations, voir [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=fr)
+Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=fr).
