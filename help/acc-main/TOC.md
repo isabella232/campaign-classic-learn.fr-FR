@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Tutoriels Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
-source-git-commit: 0545c1b31654a4e50088423838cb2b4a1eca5dd4
-workflow-type: ht
-source-wordcount: '369'
-ht-degree: 100%
+source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+workflow-type: tm+mt
+source-wordcount: '368'
+ht-degree: 98%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 100%
 + Orchestration des campagnes {#orchestration}
    + [Exécution d&#39;une campagne](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [Introduction aux campagnes multicanal et cross-canal](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
-   + [Création de campagnes multicanal](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+   + [Créer des campagnes multicanal](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [Création de campagnes cross-canal](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + Rapport {#reporting}
    + [Accès aux rapports natifs](/help/reporting/accessing-built-in-reports.md)
@@ -84,7 +84,8 @@ ht-degree: 100%
    + [Carte thermique des workflows](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Journal d&#39;audit](/help/monitoring-campaign-classic/audit-trail.md)
 + Intégration {#integrating}
-   + [Intégration de Dynamics 365 avec Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
+   + [Intégration à Adobe Target](/help/integrations/target-integration.md)
+   + [Intégration avec Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administration de {#administrating}
    + [Panneau de contrôle](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=fr)
    + Accès à une base externe (FDA) {#fda}
