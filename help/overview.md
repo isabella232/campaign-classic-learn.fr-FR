@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Intégration à Adobe Target](/help/integrations/target-integration.md)**
+* **[Intégration à Adobe Target](/help/integrations/target-integration.md)**
 
-   *Découvrez comment personnaliser une diffusion avec du contenu dynamique diffusé à partir d&#39;Adobe Target.*
+   *Découvrez comment personnaliser une diffusion avec du contenu dynamique diffusé à partir d&#39;Adobe Target.*
 
 * **[Création de campagnes cross-canal](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
