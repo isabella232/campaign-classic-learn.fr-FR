@@ -12,10 +12,10 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
 recommendations: noDisplay
 exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
-source-wordcount: '234'
-ht-degree: 100%
+source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
+workflow-type: tm+mt
+source-wordcount: '252'
+ht-degree: 95%
 
 ---
 
@@ -32,6 +32,8 @@ Le Panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campai
 * **[Délégation de sous-domaines à l’aide de CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Découvrez comment configurer et envoyer un sous-domaine à l’aide de CNAME dans le Panneau de contrôle.*
+
+Voir [Notes de mise à jour](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=fr) pour plus d’informations sur les dernières versions du produit.
 
 ## Suggestions du personnel
 
