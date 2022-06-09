@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Tutoriels Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
-source-git-commit: 1425897404136a6ec492b94532ea957b528d00e3
+source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 98%
+source-wordcount: '404'
+ht-degree: 90%
 
 ---
 
@@ -43,8 +43,8 @@ ht-degree: 98%
       + [Définition du contenu d&#39;e-mail interactif avec AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Résolution des problèmes de diffusion e-mail](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Conception d&#39;e-mails pour la délivrabilité](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr-FR)
    + Canal SMS {#sms-channel}
+      + [Configuration de SMS pour Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
       + [Création d&#39;une diffusion SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canal push {#push-channel}
       + [Installation du canal des applications mobiles](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -91,3 +91,6 @@ ht-degree: 98%
    + Accès à une base externe (FDA) {#fda}
       + [Gestion des big data sur  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Résolution des problèmes d&#39;Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
++ Responsable de la stratégie et de la pensée{#strategy}
+   + [Optimiser le ROI des emails et les bonnes pratiques pour le réengagement des abonnés](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+   + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)

@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: ht
-source-wordcount: '269'
-ht-degree: 100%
+source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,17 +23,20 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Intégration à Adobe Target](/help/integrations/target-integration.md)**
+* **[Présentation des SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**:
+   *Découvrez le fonctionnement des SMS et comment Adobe Campaign envoie des SMS*
 
-   *Découvrez comment personnaliser une diffusion avec du contenu dynamique diffusé à partir d&#39;Adobe Target.*
+* **[Configuration d&#39;un compte SMS pour un fournisseur SMPP standard](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
 
-* **[Création de campagnes cross-canal](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+   *Découvrez comment adapter le connecteur SMS à votre fournisseur SMPP. Ajustez les paramètres SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’envoi et le cryptage avec TLS.*
 
-   *Découvrez comment créer et exécuter une campagne cross-canal.*
+* **[Adapter le connecteur SMS à votre fournisseur SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
 
-* **[Utilisation de populations témoins](/help/sending-messages/email-channel/use-control-groups.md)**
+   *Découvrez comment affiner les paramètres de vos SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’envoi et le cryptage avec TLS.*
 
-   *Maîtrisez le concept de populations témoins et apprenez à en utiliser une pour votre diffusion.*
+* **[Optimisez votre retour sur investissement dans les emails et découvrez les bonnes pratiques pour le réengagement des abonnés.](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *Découvrez comment optimiser le ROI des emails et découvrir les bonnes pratiques pour le réengagement des abonnés. Découvrez les stratégies pour améliorer l’engagement de vos abonnés et comprendre le succès global de vos campagnes par e-mail.*
 
 ## Sélections du personnel
 
