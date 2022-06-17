@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '371'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -23,21 +23,21 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Présentation des SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
+* **[Présentation des SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=fr)**
 
    *Découvrez le fonctionnement des SMS et comment Adobe Campaign envoie des SMS*
 
-* **[Configuration d&#39;un compte SMS pour un fournisseur SMPP standard](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
+* **[Créez un compte SMS pour un fournisseur SMPP standard](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=fr)**
 
-   *Découvrez comment adapter le connecteur SMS à votre fournisseur SMPP. Ajustez les paramètres SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’envoi et le cryptage avec TLS.*
+   *Découvrez comment adapter le connecteur SMS à votre fournisseur SMPP. Ajustez les paramètres SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’émission et le chiffrement avec TLS.*
 
-* **[Adapter le connecteur SMS à votre fournisseur SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
+* **[Adaptez le connecteur SMS à votre fournisseur SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=fr)**
 
-   *Découvrez comment affiner les paramètres de vos SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’envoi et le cryptage avec TLS.*
+   *Découvrez comment affiner les paramètres de vos SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’expédition et le chiffrement avec TLS.*
 
-* **[Optimisez votre retour sur investissement dans les emails et découvrez les bonnes pratiques pour le réengagement des abonnés.](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+* **[Optimisez le retour sur investissement de vos e-mails et découvrez les bonnes pratiques de réengagement des abonnés.](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=fr)**
 
-   *Découvrez comment optimiser le ROI des emails et découvrir les bonnes pratiques pour le réengagement des abonnés. Découvrez les stratégies pour améliorer l’engagement de vos abonnés et comprendre le succès global de vos campagnes par e-mail.*
+   *Découvrez comment optimiser le retour sur investissement de vos e-mails ainsi que les bonnes pratiques de réengagement des abonnés. Découvrez les stratégies permettant d’améliorer l’engagement de vos abonnés et de comprendre le succès global de vos campagnes d’e-mail.*
 
 ## Sélections du personnel
 
