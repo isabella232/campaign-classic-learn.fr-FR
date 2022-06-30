@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7e0296bfd4b22a8ef913a50fa594cff08ff783ed
+source-git-commit: 1e10b9b29fb7c10f5754c3fdd300c68e27448da6
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 83%
+source-wordcount: '353'
+ht-degree: 81%
 
 ---
 
@@ -23,11 +23,11 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Surveillance des workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html)**
+* **[Panneau de Contrôle - Surveiller les workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
 
    *Découvrez comment surveiller l’utilisation de l’espace de stockage temporaire de vos workflows et où configurer les paramètres de workflow pour éviter des problèmes de base de données ou de workflow sur votre instance.*
 
-* **[Surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+* **[Panneau de Contrôle - Surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
 
    *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance de campagne.*
 
