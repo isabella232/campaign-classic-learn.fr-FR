@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
-workflow-type: ht
-source-wordcount: '371'
-ht-degree: 100%
+source-git-commit: 7e0296bfd4b22a8ef913a50fa594cff08ff783ed
+workflow-type: tm+mt
+source-wordcount: '345'
+ht-degree: 83%
 
 ---
 
@@ -23,21 +23,21 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
+* **[Surveillance des workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html)**
+
+   *Découvrez comment surveiller l’utilisation de l’espace de stockage temporaire de vos workflows et où configurer les paramètres de workflow pour éviter des problèmes de base de données ou de workflow sur votre instance.*
+
+* **[Surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+   *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance de campagne.*
+
 * **[Présentation des SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=fr)**
 
    *Découvrez le fonctionnement des SMS et comment Adobe Campaign envoie des SMS*
 
 * **[Créez un compte SMS pour un fournisseur SMPP standard](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=fr)**
 
-   *Découvrez comment adapter le connecteur SMS à votre fournisseur SMPP. Ajustez les paramètres SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’émission et le chiffrement avec TLS.*
-
-* **[Adaptez le connecteur SMS à votre fournisseur SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=fr)**
-
-   *Découvrez comment affiner les paramètres de vos SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’expédition et le chiffrement avec TLS.*
-
-* **[Optimisez le retour sur investissement de vos e-mails et découvrez les bonnes pratiques de réengagement des abonnés.](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=fr)**
-
-   *Découvrez comment optimiser le retour sur investissement de vos e-mails ainsi que les bonnes pratiques de réengagement des abonnés. Découvrez les stratégies permettant d’améliorer l’engagement de vos abonnés et de comprendre le succès global de vos campagnes d’e-mail.*
+   *Découvrez comment adapter le connecteur SMS à votre fournisseur SMPP. Ajustez les paramètres SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’envoi et le chiffrement avec TLS.*
 
 ## Sélections du personnel
 
