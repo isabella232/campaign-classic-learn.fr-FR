@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1e10b9b29fb7c10f5754c3fdd300c68e27448da6
+source-git-commit: 3341541a9d21a8006da1b910315b2e21efbc5e87
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 81%
+source-wordcount: '384'
+ht-degree: 74%
 
 ---
 
@@ -22,6 +22,10 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 > Avez-vous des questions ? Voulez-vous partager votre expérience ou échanger des idées avec vos pairs ? Ou avez-vous à formuler des commentaires concernant le contenu de formation pour l&#39;équipe d&#39;Adobe ? Rejoignez la conversation dans le [thread de la communauté d&#39;apprentissage Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096) !
 
 ## Nouveautés
+
+* **[Panneau de Contrôle pour les modèles d’hébergement hybrides](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)**
+
+   *Découvrez comment activer le Panneau de Contrôle pour les modèles d’hébergement hybrides Adobe Campaign, accéder au panneau de contrôle et déverrouiller les fonctionnalités clés.*
 
 * **[Panneau de Contrôle - Surveiller les workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
 
