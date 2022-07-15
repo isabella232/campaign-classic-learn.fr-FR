@@ -1,5 +1,5 @@
 ---
-title: Création de campagnes multicanal
+title: Créer des campagnes multicanal
 description: Découvrez comment créer une campagne multicanal à l'aide d'une diffusion e-mail, SMS et courrier, selon le canal préféré du destinataire.
 feature: Cross Channel Orchestration
 kt: 1563
@@ -17,7 +17,7 @@ ht-degree: 77%
 
 ---
 
-# Création de campagnes multicanal
+# Créer des campagnes multicanal
 
 Dans une campagne multicanal, une communication marketing unique utilise plusieurs canaux pour atteindre une audience cible plus large. Les canaux sont utilisés indépendamment sans aucune connexion entre eux, ce qui signifie que les clients restent dans un canal au sein d’un même workflow.
 

@@ -9,7 +9,7 @@ level: Experienced
 source-git-commit: e36c5a082f5e7bbe9c5996a1ee0dbf9348968c1c
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 96%
    + [Génération d&#39;une clé SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Connexion à un serveur SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Sous-domaines et certificats {#subdomains-and-certificates}
-   + [Délégation complète de sous-domaine](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Délégation complète de sous-domaines](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [Délégation de sous-domaines à l’aide de CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [Ajout de certificats SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Gestion des enregistrements TXT Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)

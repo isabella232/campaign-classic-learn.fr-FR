@@ -7,7 +7,7 @@ breadcrumb-title: Tutoriels
 source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 96%
    + [Intégration à Adobe Target](/help/integrations/target-integration.md)
    + [Intégration à Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administration de {#administrating}
-   + [Panneau de Contrôle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;}
+   + [Panneau de Contrôle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=fr){target=&quot;_blank&quot;}
    + Accès à une base externe (FDA) {#fda}
       + [Gestion des big data sur  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Résolution des problèmes d&#39;Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
