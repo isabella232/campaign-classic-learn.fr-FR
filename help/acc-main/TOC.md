@@ -5,16 +5,16 @@ user-guide-title: Tutoriels Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
 source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '406'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 
 # Tutoriels Adobe Campaign Classic {#tutorials}
 
-+ [Adobe Campaign Classic V7](/help/overview.md)
++ [Adobe Campaign Classic V7](/help/overview.md)
 + Prise en main {#getting-started}
    + [Présentation d&#39;Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installation et configuration du client Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -86,11 +86,11 @@ ht-degree: 98%
 + Intégration {#integrating}
    + [Intégration à Adobe Target](/help/integrations/target-integration.md)
    + [Intégration à Dynamics 365](/help/integrations/dynamics365-integration.md)
-+ Administration de {#administrating}
-   + [Panneau de Contrôle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=fr){target=&quot;_blank&quot;}
++ Administration {#administrating}
+   + [Panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=fr){target=&quot;_blank&quot;}
    + Accès à une base externe (FDA) {#fda}
       + [Gestion des big data sur  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-+ [Résolution des problèmes d&#39;Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
++ [Résolution des problèmes d&#39;Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=fr)
 + Stratégie et leadership{#strategy}
    + [Optimiser le RSI des e-mails et les bonnes pratiques pour le réengagement des abonnés](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=fr)
    + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
