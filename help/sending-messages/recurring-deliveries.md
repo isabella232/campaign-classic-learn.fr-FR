@@ -1,5 +1,5 @@
 ---
-title: Configuration de campagnes e-mail récurrentes et au fil de l'eau
+title: Configuration de campagnes e-mail récurrentes et continues
 description: Découvrez comment configurer une diffusion récurrente et au fil de l'eau et comprendre les différences entre les deux approches.
 feature: Workflows, Campaigns
 kt: 1560
@@ -9,14 +9,14 @@ team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 5f0cfc42aa1405c37787cd16d4cd0d6b7a462227
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Configuration de campagnes e-mail récurrentes et au fil de l&#39;eau
+# Configuration de campagnes e-mail récurrentes et continues
 
 Ce tutoriel explique comment configurer une diffusion récurrente et au fil de l&#39;eau et les différences entre les deux approches.
 
