@@ -3,14 +3,14 @@ title: Personnalisation des e-mails à l'aide de blocs de contenu dynamique
 description: Découvrez comment créer des blocs de contenu dynamiques et comment les utiliser pour personnaliser le contenu de votre diffusion e-mail.
 feature: Dynamic Content, Personalization
 kt: 1559
-thumbnail: 24924
+thumbnail: 24924.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 337ba3c5e591582ddf955ac3cb993b551872e4a1
 workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
