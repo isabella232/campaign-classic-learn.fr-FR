@@ -1,21 +1,21 @@
 ---
 title: Tutoriels Adobe Campaign Classic - Vue d'ensemble
-description: Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l'orchestration visuelle de campagnes, la gestion d'interactions en temps réel et l'exécution cross-canal. Ce guide de l'utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d'Adobe Campaign Standard.
+description: Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et fournit un environnement pour l’orchestration visuelle des campagnes, la gestion des interactions en temps réel et le Cross-channel Execution. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 92d32058534303c35cf111ce9ce3836687391000
+source-git-commit: 24ef8cdb92d45d24fc15f23045deae137d018b10
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 98%
+source-wordcount: '417'
+ht-degree: 92%
 
 ---
 
 # Tutoriels Adobe Campaign Classic V7
 
-Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l&#39;exécution cross-canal. Ce guide de l&#39;utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d&#39;Adobe Campaign Classic V7.
+Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l’exécution cross-canal. Ce guide de l&#39;utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d&#39;Adobe Campaign Classic V7.
 
 >[!INFO]
 > Avez-vous des questions ? Voulez-vous partager votre expérience ou échanger des idées avec vos pairs ? Ou avez-vous à formuler des commentaires concernant le contenu de formation pour l&#39;équipe d&#39;Adobe ? Rejoignez la conversation dans le [thread de la communauté d’apprentissage Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096) !
