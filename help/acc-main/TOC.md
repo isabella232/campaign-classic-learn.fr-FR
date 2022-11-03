@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Tutoriels Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
-source-git-commit: 3be59ba2d184aab2e614d8b27326e8a464068650
+source-git-commit: 4be021933b4124a19282a235fc364b663c9028bf
 workflow-type: tm+mt
-source-wordcount: '413'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -68,7 +68,7 @@ ht-degree: 98%
    + [Accès aux rapports natifs](/help/reporting/accessing-built-in-reports.md)
    + [Génération d&#39;un rapport d&#39;analyse descriptive](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatisation avec workflow{#automating-with-workflows}
-   + [Création d&#39;un workflow](/help/automating-with-workflows/creating-a-workflow.md)
+   + [Créer un workflow       ](/help/automating-with-workflows/creating-a-workflow.md)
    + [Création d&#39;un workflow de ciblage](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Affinage des cibles en combinant les résultats des requêtes](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Affinage des cibles en excluant les résultats des requêtes](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
