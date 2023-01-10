@@ -6,8 +6,8 @@ user-guide-description: Adobe Campaign Classic permet aux spécialistes du mark
 breadcrumb-title: Tutoriels
 source-git-commit: 4be021933b4124a19282a235fc364b663c9028bf
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '413'
+ht-degree: 99%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 0%
    + [Configuration d&#39;activités d&#39;enrichissement](/help/automating-with-workflows/enrichment-activity.md)
    + [Segmentation des données](/help/data-management/data-segmentation.md)
    + [Gestion des validations](/help/automating-with-workflows/managing-approvals.md)
-   + [Apprenez de vos pairs - Bonnes pratiques relatives aux workflows](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
+   + [Apprenez de vos pairs - bonnes pratiques relatives aux workflows](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + Conception du contenu{#designing-content}
    + [Configuration des landing pages](/help/designing-content/configure-landingpages.md)
 + Surveiller {#monitoring}
