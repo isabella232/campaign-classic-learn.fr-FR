@@ -5,9 +5,9 @@ doc-type: article
 role: User
 level: Beginner
 kt: 11772
-source-git-commit: 1afdcc4dda67d6604d3a5c2cb4259b22dd0587b4
+source-git-commit: 2d97870d59e0e91a7fa5def7d682328a09b6cf4b
 workflow-type: tm+mt
-source-wordcount: '1311'
+source-wordcount: '1274'
 ht-degree: 0%
 
 ---
@@ -71,6 +71,4 @@ Quand on essaie de nouvelles choses, on ne se trompe pas toujours la première f
 
 ## 10. Restez aussi agile que possible
 
-Le marché continue de changer et d&#39;évoluer à un rythme toujours plus rapide. Encourager vos équipes de campagne à rester aussi légères et agiles que possible est essentiel pour être compétitives et continuer à répondre aux attentes croissantes des clients. [35 % des responsables du marketing numérique estiment que les plus grands défis viennent de leur entreprise.](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges).
-
-Une formation croisée sur trois plateformes et une meilleure compréhension des flux de données et de la structure ou d’autres solutions d’Adobe peuvent vous aider à y parvenir ou à avoir des plans d’urgence sur les campagnes. Avoir des experts en matière sur un Principal outil. Examinez ensuite les canaux avec des outils secondaires et tertiaires. Cela crée de la flexibilité dans votre modèle d’opération marketing. L’utilisation de plus de trois outils réduit considérablement votre expertise et votre production. Cet état d&#39;esprit peut être réalisé de bien des façons, mais un engagement global envers l&#39;agilité et la planification est essentiel pour atteindre un succès à court et à long terme.
+Le marché continue de changer et d&#39;évoluer à un rythme toujours plus rapide. Encourager vos équipes de campagne à rester aussi légères et agiles que possible est essentiel pour être compétitives et continuer à répondre aux attentes croissantes des clients. [35 % des responsables du marketing numérique estiment que les plus grands défis viennent de leur entreprise.](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). Pour ce faire, suivez des formations sur quelques plates-formes, approfondissez votre compréhension des flux de données et de la structure ou d’autres solutions d’Adobe et créez des plans d’urgence pour les campagnes. Cet état d&#39;esprit peut être atteint de plusieurs façons, mais un engagement global envers l&#39;agilité et la planification est essentiel pour atteindre un succès à court et à long terme.
