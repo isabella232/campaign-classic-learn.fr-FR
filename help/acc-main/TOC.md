@@ -5,9 +5,9 @@ user-guide-title: Tutoriels Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
 source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
-workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -68,13 +68,13 @@ ht-degree: 97%
    + [Accès aux rapports natifs](/help/reporting/accessing-built-in-reports.md)
    + [Génération d&#39;un rapport d&#39;analyse descriptive](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatisation avec workflow{#automating-with-workflows}
-   + [Créer un workflow       ](/help/automating-with-workflows/creating-a-workflow.md)
+   + [Créer un workflow](/help/automating-with-workflows/creating-a-workflow.md)
    + [Création d&#39;un workflow de ciblage](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Affinage des cibles en combinant les résultats des requêtes](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Affinage des cibles en excluant les résultats des requêtes](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
    + [Utilisation de l&#39;activité de mise à jour de liste pour créer une liste avec un workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [Configuration de workflows de validation](/help/automating-with-workflows/validation-flow-configuration.md)
-   + [Configuration d&#39;activités d&#39;enrichissement](/help/automating-with-workflows/enrichment-activity.md)
+   + [Configurer les activités d’enrichissement](/help/automating-with-workflows/enrichment-activity.md)
    + [Segmentation des données](/help/data-management/data-segmentation.md)
    + [Gestion des validations](/help/automating-with-workflows/managing-approvals.md)
    + [Apprenez de vos pairs - bonnes pratiques relatives aux workflows](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
@@ -92,7 +92,7 @@ ht-degree: 97%
    + Accès à une base externe (FDA) {#fda}
       + [Gestion des big data sur  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Résolution des problèmes d&#39;Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=fr)
-+ Leadership en matière de stratégie et de pensée{#strategy}
-   + [Dix bonnes pratiques pour le succès d’Adobe Campaign pour les marketeurs](/help/strategy/10-best-practices-for-marketers.md)
++ Stratégie et leadership{#strategy}
+   + [Dix bonnes pratiques pour le succès d’Adobe Campaign pour les professionnel(le)s du marketing](/help/strategy/10-best-practices-for-marketers.md)
    + [Optimiser le RSI des e-mails et les bonnes pratiques pour le réengagement des abonnés](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=fr)
    + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
