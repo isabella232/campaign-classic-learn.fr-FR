@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Tutoriels Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
-source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
+source-git-commit: 809be24835e288baa8d11aed3ce4d8d85149d66c
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 98%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 100%
       + [Gestion de l&#39;adresse de contrôle et des BAT dans un e-mail](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Envoi et validation de BAT](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Utilisation de populations témoins](/help/sending-messages/email-channel/use-control-groups.md)
+      + [Configuration de diffusions pour les tests A/B](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
       + [Configuration du contenu dynamique](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personnalisation des e-mails à l&#39;aide de blocs de contenu dynamique](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personnalisation des e-mails à l&#39;aide d&#39;un champ de personnalisation](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
