@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Tutoriels Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
-source-git-commit: 13fea9184efd6b8bacedda44aba5e37a63f92e05
+source-git-commit: 545da6c56096f6d695d63490dc1833bdbbcb46cf
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 98%
+source-wordcount: '436'
+ht-degree: 97%
 
 ---
 
@@ -77,6 +77,7 @@ ht-degree: 98%
    + [Gérer les fuseaux horaires](/help/automating-with-workflows/manage-time-zones.md)
    + [Configuration de workflows de validation](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Configurer les activités d’enrichissement](/help/automating-with-workflows/enrichment-activity.md)
+   + [Configuration des activités du planificateur](/help/automating-with-workflows/configure-scheduler-activities.md)
    + [Segmentation des données](/help/data-management/data-segmentation.md)
    + [Gestion des validations](/help/automating-with-workflows/managing-approvals.md)
    + [Apprenez de vos pairs - bonnes pratiques relatives aux workflows](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
