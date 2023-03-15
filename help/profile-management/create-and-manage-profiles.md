@@ -2,6 +2,7 @@
 title: Créer et gérer des profils
 description: Découvrez comment accéder aux données de profil, trier et filtrer les profils ainsi que comment les créer et les gérer manuellement. Comprendre la conformité avec le règlement général sur la protection des données (RGPD) et la loi californienne sur la protection de la vie privée des consommateurs (CCPA).
 landing-page-description: Comprendre le concept de profils. Découvrez comment accéder aux données de profil, trier et filtrer les profils et créer et gérer manuellement des profils. En savoir plus sur le RGPD et le CCPA.
+short-description: Understand the concept of profiles. Learn how to access profile data, sort and filter profiles and manually create and manage profiles. Learn about GDPR and CCPA.
 feature: Profiles
 kt: 5081
 thumbnail: 35611.jpg
@@ -11,7 +12,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: fbf37d803677743773e675faa6b66c3a0998d11d
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
