@@ -2,14 +2,14 @@
 title: Présentation de la gestion des quarantaines
 description: Découvrez le fonctionnement de la gestion des quarantaines dans Adobe Campaign et comment gérer les adresses en quarantaine.
 feature: Deliverability
-kt: 19119
+kt: 11919
 doc-type: feature video
 activity: use
 team: Support
 last-substantial-update: 2023-03-28T00:00:00Z
-source-git-commit: af37ff7388ae3bbc615726372d06a990737676a7
+source-git-commit: a09bd05c237dd7fede3a6b223f2ec5415e4401d0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
