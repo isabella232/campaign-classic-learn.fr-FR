@@ -5,9 +5,9 @@ user-guide-title: Tutoriels Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
 source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -35,8 +35,8 @@ ht-degree: 96%
       + [Gestion de l&#39;adresse de contrôle et des BAT dans un e-mail](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Envoi et validation de BAT](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Utilisation de populations témoins](/help/sending-messages/email-channel/use-control-groups.md)
-      + [Configuration de diffusions pour les tests A/B](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
-      + [Configuration du contenu dynamique](/help/sending-messages/email-channel/configuring-dynamic-content.md)
+      + [Configurer les diffusions pour les tests A/B](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
+      + [Configurer le contenu dynamique](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personnalisation des e-mails à l&#39;aide de blocs de contenu dynamique](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personnalisation des e-mails à l&#39;aide d&#39;un champ de personnalisation](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
       + [Personnalisation des e-mails : créer une newsletter multilingue à l&#39;aide de contenu conditionnel](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
@@ -75,19 +75,19 @@ ht-degree: 96%
    + [Affinage des cibles en excluant les résultats des requêtes](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
    + [Utilisation de l&#39;activité de mise à jour de liste pour créer une liste avec un workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [Gérer les fuseaux horaires](/help/automating-with-workflows/manage-time-zones.md)
-   + [Configuration de workflows de validation](/help/automating-with-workflows/validation-flow-configuration.md)
+   + [Configurer les workflows de validation](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Configurer les activités d’enrichissement](/help/automating-with-workflows/enrichment-activity.md)
-   + [Configuration des activités du planificateur](/help/automating-with-workflows/configure-scheduler-activities.md)
+   + [Configurer les activités du planificateur](/help/automating-with-workflows/configure-scheduler-activities.md)
    + [Segmentation des données](/help/data-management/data-segmentation.md)
    + [Gestion des validations](/help/automating-with-workflows/managing-approvals.md)
    + [Apprenez de vos pairs - bonnes pratiques relatives aux workflows](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
-+ Configuration des landing pages {#landing-pages}
-   + [Configuration des landing pages](/help/designing-content/configure-landingpages.md)
++ Configurer les pages de destination {#landing-pages}
+   + [Configurer les pages de destination](/help/designing-content/configure-landingpages.md)
    + [Créer un centre de préférences](/help/designing-content/create-a-preference-center.md)
 + Surveiller {#monitoring}
    + [Carte thermique des workflows](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Journal d&#39;audit](/help/monitoring-campaign-classic/audit-trail.md)
-+ Data Management {#data-management}
++ Gestion des données {#data-management}
    + [Données de requête](/help/data-management/query-data.md)
 + Intégration {#integrating}
    + [Intégration à Adobe Target](/help/integrations/target-integration.md)
