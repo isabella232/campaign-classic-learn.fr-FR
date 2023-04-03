@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 69%
@@ -21,5 +21,5 @@ ht-degree: 69%
 
 Découvrez le concept des listes dans Adobe Campaign Classic et comment créer une liste à l’aide de l’activité de mise à jour de liste dans un workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12&learn=on)
 

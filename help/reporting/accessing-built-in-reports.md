@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 54%
@@ -21,4 +21,4 @@ ht-degree: 54%
 
 Découvrez les analyses et les rapports natifs en Campaign Classic et comment générer un rapport de diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on)

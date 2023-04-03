@@ -11,10 +11,10 @@ role: Developer, Admin
 level: Beginner
 last-substantial-update: 2023-03-10T00:00:00Z
 exl-id: d14d0b67-dcc7-4cc8-b507-9ce389234c09
-source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Découvrez comment créer un centre de préférences à l&#39;aide de l&#39;éditeur d&#39;applications web Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12&learn=on)
 
 Pour plus d’informations, voir la documentation détaillée sur [Créer une landing page](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).

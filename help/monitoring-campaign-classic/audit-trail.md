@@ -1,6 +1,6 @@
 ---
 title: Utilisation du journal d'audit
-description: 'Le journal d''audit capture, en temps réel, une liste complète d''actions et d''événements se produisant dans Adobe Campaign. '
+description: Le journal d'audit capture, en temps réel, une liste complète d'actions et d'événements se produisant dans Adobe Campaign.
 feature: Audit Trail
 kt: 2835
 doc-type: feature video
@@ -9,7 +9,7 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 100%
@@ -41,6 +41,6 @@ Les logs de [!UICONTROL journal d&#39;audit] consignent et répertorient les act
 
 La vidéo ci-dessous décrit à partir de quel emplacement accéder aux journaux d&#39;audit et quels paramètres peuvent être configurés.
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on)
 
 Pour plus d&#39;informations, consultez la [documentation relative au journal d&#39;audit](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=fr).

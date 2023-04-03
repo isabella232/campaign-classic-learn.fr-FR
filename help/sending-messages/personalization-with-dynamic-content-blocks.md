@@ -6,7 +6,7 @@ kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 71%
@@ -29,18 +29,18 @@ Ce tutoriel a démontré comment personnaliser le contenu de la diffusion, utili
 
 Un bloc de personnalisation est dynamique et contient un code de rendu spécifique qui peut être ajouté aux diffusions. Par exemple, vous pouvez ajouter des images, des en-têtes et des pieds de page d’email, des liens vers des pages miroir, des liens de désabonnement, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on)
 
 ## Ajout d’un champ de personnalisation à une diffusion
 
 Les champs de personnalisation sont utilisés pour la personnalisation de premier niveau du contenu des messages diffusés. Les champs que vous insérez dans un contenu principal indiquent l&#39;emplacement où insérer les données de la source de données sélectionnée.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on)
 
 ## Ajout de contenu conditionnel à une diffusion
 
 Le paramétrage de champs de contenu conditionnel permet d’atteindre un niveau de personnalisation évolué. Des blocs complets de texte et/ou des images sont remplacés lorsqu’une condition particulière est remplie. Cette vidéo montre comment ajouter du contenu conditionnel à une diffusion en prenant pour exemple une newsletter multilingue.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
 
 Pour en savoir plus sur la personnalisation, voir [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=fr).

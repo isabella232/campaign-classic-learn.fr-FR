@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Découvrez comment appliquer les bonnes pratiques en matière de délivrabilité à votre campagne.
 
->[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on)
 
 ## Ressources supplémentaires
 

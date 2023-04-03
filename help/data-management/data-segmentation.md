@@ -1,6 +1,6 @@
 ---
 title: Segmentation des données dans Adobe Campaign Classic
-description: 'Découvrez le profil client intégré, comment créer et mettre à jour les profils et comment créer des segments de clients en fonction de ces profils. '
+description: Découvrez le profil client intégré, comment créer et mettre à jour les profils et comment créer des segments de clients en fonction de ces profils.
 feature: Profiles, Data Management Activity
 kt: 1656
 doc-type: feature video
@@ -9,7 +9,7 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -26,11 +26,11 @@ Les clients génèrent des données avec chaque canal à l’aide de leurs doigt
 
 Le profil client intégré d’Adobe Campaign permet aux marketeurs de capturer et de gérer ces données à grande échelle ; tout, des attributs de profil tels que les détails démographiques &quot;code postal&quot; &quot;adresse&quot; &quot;genre&quot;, etc., aux données d’interaction, &quot;ouverture d’un message&quot;, &quot;clic sur un email&quot;, &quot;visite de site web&quot;, aux données de conversion et même aux données hors ligne.
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
 
 ## Création et mise à jour du profil client {#customer-profile-creation-and-update}
 
->[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on)
 
 ## Segmentation des clients  {#customer-segmentation}
 
@@ -38,5 +38,5 @@ Une fois que vous avez compris les profils, vous êtes prêt à effectuer une se
 
 Remarque : Cette vidéo a été enregistrée dans Adobe Campaign Classic V6. La fonctionnalité est exactement la même, mais les icônes de workflow ont changé.
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
 
