@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
 source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: ht
-source-wordcount: '0'
+source-wordcount: '41'
 ht-degree: 100%
 
 ---
@@ -25,4 +25,4 @@ Découvrez comment appliquer les bonnes pratiques en matière de délivrabilité
 
 ## Ressources supplémentaires
 
-[Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr-FR)
+[Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
