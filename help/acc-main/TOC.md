@@ -5,9 +5,9 @@ user-guide-title: Tutoriels Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
 source-git-commit: d91185009803755731f07a0b187dd60cf9141699
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '452'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 98%
       + [Configuration de campagnes e-mail récurrentes et continues](/help/sending-messages/recurring-deliveries.md)
       + [Définition du contenu d&#39;e-mail interactif avec AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Résolution des problèmes de diffusion e-mail](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
-      + [Ajout de pièces jointes à une diffusion email](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
+      + [Ajouter des pièces jointes à une diffusion e-mail](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
       + [Conception d&#39;e-mails pour la délivrabilité](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + Canal SMS {#sms-channel}
       + [Création d&#39;une diffusion SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
@@ -61,7 +61,7 @@ ht-degree: 98%
       + [Utilisation de règles de typologie](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Utilisation de filtres prédéfinis](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
    + Surveillance des messages {#monitoring-messages}
-      + [Comprendre la gestion des quarantaines](/help/sending-messages/quarantine-management.md)
+      + [Présentation de la gestion des quarantaines](/help/sending-messages/quarantine-management.md)
    + [Configuration et gestion des services d&#39;abonnement](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orchestration des campagnes {#orchestration}
    + [Exécution d&#39;une campagne](/help/orchestrating-campaigns/executing-a-campaign.md)
