@@ -1,6 +1,6 @@
 ---
-title: Ajoutez des pièces jointes à une diffusion email.
-description: Découvrez comment ajouter des pièces jointes à une diffusion email et comment configurer différents types de pièces jointes à un email.
+title: Ajoutez des pièces jointes à une diffusion e-mail.
+description: Découvrez comment ajouter des pièces jointes à une diffusion e-mail et comment configurer différents types de pièces jointes à un e-mail.
 feature: Email, Personalization
 kt: 11920
 doc-type: feature video
@@ -10,15 +10,15 @@ role: User
 level: Beginner
 last-substantial-update: 2023-03-29T00:00:00Z
 source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Ajout de pièces jointes à une diffusion email
+# Ajouter des pièces jointes à une diffusion e-mail
 
-Découvrez comment ajouter des pièces jointes à une diffusion email et comment configurer différents types de pièces jointes à un email.
+Découvrez comment ajouter des pièces jointes à une diffusion e-mail et comment configurer différents types de pièces jointes à un e-mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on)
