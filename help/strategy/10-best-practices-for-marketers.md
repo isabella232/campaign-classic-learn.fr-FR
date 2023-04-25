@@ -6,13 +6,13 @@ role: User
 level: Beginner
 kt: 11772
 last-substantial-update: 2023-01-31T00:00:00Z
-source-git-commit: 0b09ff13e4ed7da2629cf8eb92360665968d8541
+exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
+source-git-commit: 4655ed710e38c0d3cbb3eb5566ab5d13dc26ed44
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1279'
+ht-degree: 100%
 
 ---
-
 
 # Dix bonnes pratiques pour le succès de [!DNL Adobe Campaign] pour les professionnel(le)s du marketing
 
