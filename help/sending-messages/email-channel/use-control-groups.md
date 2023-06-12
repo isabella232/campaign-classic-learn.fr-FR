@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
-source-git-commit: d56ae485ffdd3ccaf75a0cf76652f2ade7f61fed
+source-git-commit: 0b52f82b3047b47ef46342811fa0d42cc574b7d8
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 48%
+source-wordcount: '109'
+ht-degree: 38%
 
 ---
 
@@ -23,8 +23,7 @@ Maîtrisez le concept de populations témoins et apprenez à en utiliser une pou
 
 >[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on)
 
-Pour plus d’informations sur :
-
-* [Définition des populations témoins](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"}
-* [Comment définir la population cible de la diffusion](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
-
+>[!IMPORTANT]
+>S&#39;il existe plusieurs diffusions dans le workflow de ciblage, vous devez activer les paramètres de la population témoin au niveau de la diffusion et dans les paramètres de l&#39;opération.
+>Pour plus d’informations sur les [comment définir une population témoin](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"}
+et [la population cible de la diffusion](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
