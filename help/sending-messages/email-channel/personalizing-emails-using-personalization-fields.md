@@ -1,7 +1,7 @@
 ---
 title: Personnalisation des e-mails à l'aide d'un champ de personnalisation
 description: Découvrez comment ajouter un champ de personnalisation à la ligne d'objet et au contenu d'une diffusion e-mail.
-feature: Dynamic Content, Personalization
+feature: Personalization
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: TM
 role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
-workflow-type: ht
+source-git-commit: f155a48a2eea11867a217051741941d57ad54915
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 

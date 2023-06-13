@@ -1,12 +1,12 @@
 ---
 title: Personnalisation des emails à l’aide de blocs de contenu dynamique
 description: Ce tutoriel a démontré comment personnaliser le contenu de la diffusion, utiliser du code JavaScript dans les modèles de diffusion et normaliser et partager des blocs de contenu dans différents modèles de diffusion.
-feature: Dynamic Content, Personalization
+feature: Personalization
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f155a48a2eea11867a217051741941d57ad54915
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 71%
