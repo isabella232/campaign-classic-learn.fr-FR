@@ -8,7 +8,7 @@ type: Troubleshooting
 jira: KT-8425
 exl-id: c21a4521-c207-43ad-9dfc-ea64b377e440
 source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '27'
 ht-degree: 100%
 
