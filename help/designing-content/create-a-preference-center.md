@@ -2,7 +2,7 @@
 title: Créer un centre de préférences
 description: Découvrez comment créer un centre de préférences à l'aide de l'éditeur d'applications web Adobe Campaign.
 feature: Landing Pages
-kt: 1562
+jira: KT-1562
 thumbnail: 25041.jpg
 doc-type: feature video
 activity: setup
@@ -11,7 +11,7 @@ role: Developer, Admin
 level: Beginner
 last-substantial-update: 2023-03-10T00:00:00Z
 exl-id: d14d0b67-dcc7-4cc8-b507-9ce389234c09
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 14%

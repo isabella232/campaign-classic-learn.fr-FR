@@ -2,7 +2,7 @@
 title: Configurer et envoyer des notifications push
 description: Découvrez comment configurer et envoyer une notification push aux utilisateurs d’applications android.
 feature: Push
-kt: 6579
+jira: KT-6579
 thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
@@ -10,7 +10,7 @@ team: TM
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%

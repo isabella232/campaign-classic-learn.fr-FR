@@ -2,7 +2,7 @@
 title: Configuration des landing pages
 description: Découvrez comment créer et configurer des landing pages.
 feature: Landing Pages
-kt: 11918
+jira: KT-11918
 thumbnail: 3415819
 activity: setup
 team: Customer Care
@@ -10,7 +10,7 @@ role: Developer, Admin
 level: Beginner
 last-substantial-update: 2023-03-10T00:00:00Z
 exl-id: 78703218-dc38-464a-bbab-f2ba5f715ab3
-source-git-commit: 4655ed710e38c0d3cbb3eb5566ab5d13dc26ed44
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%

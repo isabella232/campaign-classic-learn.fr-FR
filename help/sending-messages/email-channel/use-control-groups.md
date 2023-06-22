@@ -2,7 +2,7 @@
 title: Comment utiliser les populations témoins
 description: Maîtrisez le concept de populations témoins et apprenez à en utiliser une pour votre diffusion.
 feature: Control Groups
-kt: 5085
+jira: KT-5085
 thumbnail: 330955.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
-source-git-commit: ea653eb5131c1d33a7a7f94ac3245f71697fa7b8
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 39%

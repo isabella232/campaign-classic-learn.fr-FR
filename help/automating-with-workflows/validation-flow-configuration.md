@@ -2,14 +2,14 @@
 title: Configuration des workflows de validation dans Adobe Campaign Classic
 description: Découvrez comment configurer différents workflows de validation.
 feature: Workflows, Approvals
-kt: 1566
+jira: KT-1566
 doc-type: feature video
 activity: setup
 team: TM
 role: User
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 96%
