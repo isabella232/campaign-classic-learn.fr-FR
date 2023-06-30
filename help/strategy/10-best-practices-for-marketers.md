@@ -8,7 +8,7 @@ jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
 source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1279'
 ht-degree: 100%
 
