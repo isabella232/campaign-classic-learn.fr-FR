@@ -6,9 +6,11 @@ jira: KT-7018
 thumbnail: 330990.jpg
 doc-type: feature video
 activity: use
+role: User
+level: Beginner
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 017ff23e0eb2c851b4d63dae685070717f2fbcb7
 workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
