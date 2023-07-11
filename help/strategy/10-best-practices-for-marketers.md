@@ -2,15 +2,16 @@
 title: Dix bonnes pratiques pour le succès d’Adobe Campaign pour les professionnel(le)s du marketing
 description: Découvrez les dix bonnes pratiques pour aider les utilisateurs et utilisatrices d’Adobe Campaign à déverrouiller et à accélérer la transformation de la consommation numériques pour apporter une meilleure expérience pour leurs clients et clientes.
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
-workflow-type: ht
+source-git-commit: eae208987b8430773421cba7aec2f77d5441b618
+workflow-type: tm+mt
 source-wordcount: '1279'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -49,7 +50,7 @@ Comme vos client(e)s, vous avez une routine quotidienne. L’envoi et l’orches
 
 Si, par exemple, vos client(e)s consultent leur téléphone le matin à la recherche des meilleures offres, envisagez de leur envoyer une promotion par SMS. S’ils ou elles naviguent la nuit en quête de la prochaine tendance, pensez à envoyer un e-mail de relance avec un code promo pour une livraison gratuite. Il est également important d’utiliser l’outil de carte thermique dans [!DNL Campaign] pour suivre l’exécution de vos workflows et envois. La coordination et la facilitation des communications entre plusieurs marques peut s’avérer difficile. [Garder un œil sur le rythme, la cadence et le timing de vos e-mails](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=fr) est essentiel pour assurer la stabilité et la force globales de votre message et de votre instance Campaign.
 
-## 4. Utiliser la personnalisation là où ça compte
+## 4. Utiliser la personnalisation là où elle est importante
 
 De nos jours, les consommateurs et consommatrices s’attendent à un certain niveau de personnalisation dans les messages qu’ils reçoivent. [80 % des client(e)s sont plus susceptibles d’acheter auprès d’une marque qui fournit des expériences personnalisées](https://us.epsilon.com/power-of-me). Leur nom dans la ligne d’objet est attrayant. Cependant, la personnalisation peut aller beaucoup plus loin. Vous pouvez inclure les produits qu’ils ont parcourus, les connecter à des produits similaires ou continuer à renforcer la cohésion de l’expérience et l’aspect de votre marque. Chaque détail compte et favorise l’engagement et les taux d’ouverture de vos messages.
 
