@@ -10,7 +10,7 @@ git-repo: https://github.com/AdobeDocs/campaign-classic-learn.fr-FR
 index: true
 source-git-commit: d3863459bb85daea98173f4f68472bb68789fb4e
 workflow-type: ht
-source-wordcount: '130'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
