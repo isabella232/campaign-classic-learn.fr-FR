@@ -5,7 +5,7 @@ user-guide-title: Tutoriels Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
 source-git-commit: 4d9fa1a0755d372ba5b535c6a7edfba89589929c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 100%
 
@@ -80,7 +80,7 @@ ht-degree: 100%
    + [Utilisation de l&#39;activité de mise à jour de liste pour créer une liste avec un workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [Gérer les fuseaux horaires](/help/automating-with-workflows/manage-time-zones.md)
    + [Configurer les workflows de validation](/help/automating-with-workflows/validation-flow-configuration.md)
-   + [Configurer les activités d’enrichissement](/help/automating-with-workflows/enrichment-activity.md)
+   + [Configuration d’activités d’enrichissement](/help/automating-with-workflows/enrichment-activity.md)
    + [Configurer les activités du planificateur](/help/automating-with-workflows/configure-scheduler-activities.md)
    + [Segmentation des données](/help/data-management/data-segmentation.md)
    + [Gestion des validations](/help/automating-with-workflows/managing-approvals.md)
@@ -104,6 +104,6 @@ ht-degree: 100%
       + [Gestion des big data sur  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Résolution des problèmes d&#39;Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=fr)
 + Stratégie et leadership{#strategy}
-   + [Dix bonnes pratiques pour le succès d’Adobe Campaign pour les professionnel(le)s du marketing](/help/strategy/10-best-practices-for-marketers.md)
+   + [Dix bonnes pratiques pour le succès d’Adobe Campaign pour les spécialistes marketing](/help/strategy/10-best-practices-for-marketers.md)
    + [Optimiser le RSI des e-mails et les bonnes pratiques pour le réengagement des abonnés](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=fr)
    + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)

@@ -9,7 +9,7 @@ last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-11928
 thumbnail: 3419047.jpeg
 source-git-commit: ac30c9a71bac8a827ecd4e16ddca27f9e88ffa7e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 

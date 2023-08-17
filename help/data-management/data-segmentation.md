@@ -18,13 +18,13 @@ ht-degree: 0%
 
 # Segmentation des données
 
-Adobe Campaign vous permet d’effectuer une segmentation avancée par le biais de requêtes approfondies des attributs communs des consommateurs et d’autres sources de données, ce qui vous permet de créer des listes réutilisables, de mettre à jour dynamiquement des listes en fonction de modifications en temps réel des données, voire d’effectuer des activités plus complexes telles que des tests multivariés sur l’un de ces points de données. Ce tutoriel explique le profil client intégré, comment créer et mettre à jour les profils et comment créer des segments de clients en fonction de ces profils.
+Adobe Campaign vous permet d’effectuer une segmentation avancée par le biais de requêtes approfondies des attributs du consommateur commun et d’autres sources de données, ce qui vous permet de créer des listes réutilisables, de mettre à jour dynamiquement des listes en fonction de modifications en temps réel des données, voire d’effectuer des activités plus complexes telles que des tests multivariés sur l’un de ces points de données. Ce tutoriel explique le profil client intégré, comment créer et mettre à jour les profils et comment créer des segments de clients en fonction de ces profils.
 
 ## Integrated Customer Profile {#integrated-customer-profile}
 
 Les clients génèrent des données avec chaque canal à l’aide de leurs doigts, car ils font tout ce que les gens font lorsqu’ils tentent de prendre une décision d’achat ou simplement d’interagir avec votre marque.
 
-Le profil client intégré d’Adobe Campaign permet aux marketeurs de capturer et de gérer ces données à grande échelle ; tout, des attributs de profil tels que les détails démographiques &quot;code postal&quot; &quot;adresse&quot; &quot;genre&quot;, etc., aux données d’interaction, &quot;ouverture d’un message&quot;, &quot;clic sur un email&quot;, &quot;visite de site web&quot;, aux données de conversion et même aux données hors ligne.
+Le profil client intégré d’Adobe Campaign permet aux marketeurs de capturer et de gérer ces données à grande échelle, depuis les attributs de profil tels que les détails démographiques &quot;code postal&quot; &quot;adresse&quot; &quot;genre&quot;, etc., jusqu’aux données d’interaction, &quot;ouverture d’un message&quot;, &quot;clic sur un email&quot;, &quot;visite de site web&quot;, en passant par les données de conversion et même les données hors ligne.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
 

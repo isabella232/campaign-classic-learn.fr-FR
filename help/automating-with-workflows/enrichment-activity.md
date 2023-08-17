@@ -1,6 +1,6 @@
 ---
 title: Configuration des activités d’enrichissement
-description: Découvrez comment configurer une activité d'enrichissement en fonction des informations du log de diffusion.
+description: Découvrez comment configurer une activité d’enrichissement en fonction des informations du log de diffusion.
 feature: Workflows, Enrichment Activity
 jira: KT-1561
 doc-type: feature video
@@ -18,9 +18,9 @@ ht-degree: 79%
 
 # Configuration des activités d’enrichissement
 
-L&#39;activité d&#39;enrichissement est un objet de workflow qui ajoute des données au tableau de travail. L&#39;utilisation de l&#39;activité d&#39;enrichissement permet d&#39;ajouter des colonnes dans un tableau qui stocke des données additionnelles ou de définir de nouveaux liens vers d&#39;autres données existantes.
+L’activité d’enrichissement est un objet de workflow qui ajoute des données au tableau de travail. L’utilisation de l’activité d’enrichissement permet d’ajouter des colonnes dans un tableau qui stocke des données additionnelles ou de définir de nouveaux liens vers d’autres données existantes.
 
-Découvrez comment configurer une activité d&#39;enrichissement en fonction des informations du log de diffusion.
+Découvrez comment configurer une activité d’enrichissement en fonction des informations du log de diffusion.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on)
 

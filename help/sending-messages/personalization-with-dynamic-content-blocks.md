@@ -43,4 +43,4 @@ Le paramétrage de champs de contenu conditionnel permet d’atteindre un niveau
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
 
-Pour en savoir plus sur la personnalisation, voir [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=fr).
+Pour en savoir plus sur la personnalisation, voir la section [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=fr).
