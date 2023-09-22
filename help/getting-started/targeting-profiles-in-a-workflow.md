@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 100%
+source-wordcount: '86'
+ht-degree: 97%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Maîtrisez l&#39;utilisation des workflows de campagne et découvrez comment créer un workflow et cibler des profils dans un workflow à l&#39;aide de conditions de filtrage.
 
->[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&learn=on){transcript=true}
 
 ## Tutoriels suivants à regarder
 

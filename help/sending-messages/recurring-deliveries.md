@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 100%
+source-wordcount: '243'
+ht-degree: 98%
 
 ---
 
@@ -38,10 +38,10 @@ Les diffusions récurrentes et au fil de l&#39;eau diffèrent dans la façon don
 
 Cette vidéo explique comment configurer une diffusion récurrente et une activité Planificateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&learn=on){transcript=true}
 
 ## Comment configurer une diffusion au fil de l’eau {#how-to-set-up-a-continuous-delivery}
 
 Cette vidéo montre comment configurer une diffusion au fil de l&#39;eau avec une requête incrémentale.
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&learn=on){transcript=true}

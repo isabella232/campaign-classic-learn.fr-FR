@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 70%
+source-wordcount: '49'
+ht-degree: 67%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 70%
 
 Cette vidéo explique comment configurer et installer le SDK Adobe Experience Platform Mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on){transcript=true}

@@ -9,10 +9,10 @@ team: PM
 role: Admin, Developer
 level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 100%
+source-wordcount: '117'
+ht-degree: 98%
 
 ---
 
@@ -30,6 +30,6 @@ Vous apprendrez comment
 * Rechercher et créer des rapports sur les données
 * Exporter des données dans des listes et créer des filtres de ciblage en temps réel
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
 
 Pour plus d’informations sur la configuration de l’accès à Snowflake, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=fr).

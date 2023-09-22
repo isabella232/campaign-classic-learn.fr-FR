@@ -7,10 +7,10 @@ level: Experienced
 type: Troubleshooting
 jira: KT-8424
 exl-id: 862ae1f3-4fdc-4ed3-b5c8-edc4f7ab2d90
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 100%
+source-wordcount: '74'
+ht-degree: 97%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment déboguer le problème du statut du broadlog SMS qui s&#39;affiche lorsqu&#39;un SMS est envoyé à un numéro incorrect.
 
->[!VIDEO](https://video.tv.adobe.com/v/335980?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335980?quality=12&learn=on){transcript=true}

@@ -7,10 +7,10 @@ level: Experienced
 type: Troubleshooting
 jira: KT-8429
 exl-id: f6030e69-143e-40fa-838d-107e3ca3f4ad
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '54'
+ht-degree: 96%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment résoudre le problème d&#39;une diffusion SMS mise en attente pour un compte externe créé.
 
->[!VIDEO](https://video.tv.adobe.com/v/335986?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335986?quality=12&learn=on){transcript=true}

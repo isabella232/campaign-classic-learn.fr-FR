@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 0a8f07b1-e663-4c64-9d6e-34dfc5b05517
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 100%
+source-wordcount: '44'
+ht-degree: 95%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Maîtrisez les concepts clés d&#39;[!UICONTROL Adobe Campaign] afin de planifier, d&#39;exécuter et de mesurer efficacement les campagnes marketing cross-canal.
 
->[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&learn=on){transcript=true}

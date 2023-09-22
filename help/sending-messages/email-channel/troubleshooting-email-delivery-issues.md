@@ -10,15 +10,15 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: a362a627-9812-4753-a5de-8eb97ea1b606
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '26'
-ht-degree: 100%
+source-wordcount: '28'
+ht-degree: 92%
 
 ---
 
 # Résolution des problèmes de diffusion e-mail
 
-Découvrez comment résoudre les problèmes de diffusion email dans Campaign.
+Découvrez comment résoudre les problèmes de diffusion e-mail dans Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/329920?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329920?quality=12&learn=on){transcript=true}

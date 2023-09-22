@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 100%
+source-wordcount: '53'
+ht-degree: 96%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Découvrez comment configurer et envoyer une [!DNL push] notification aux utilisateurs d’une application [!DNL Android].
 
->[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on){transcript=true}
 
 **Étape précédente**
 

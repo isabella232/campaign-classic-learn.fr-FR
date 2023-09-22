@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4322a36c-9550-4b94-a742-b02f52c523c2
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 100%
+source-wordcount: '74'
+ht-degree: 97%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment affiner votre cible en appliquant une **[!UICONTROL exclusion standard]** à un workflow. Vous apprendrez également comment créer des filtres prédéfinis et comment résoudre les problèmes de votre workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on){transcript=true}

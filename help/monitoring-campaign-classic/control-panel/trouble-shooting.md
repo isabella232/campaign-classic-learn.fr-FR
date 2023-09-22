@@ -6,10 +6,10 @@ jira: KT-2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 100%
+source-wordcount: '346'
+ht-degree: 98%
 
 ---
 
@@ -41,11 +41,11 @@ l&#39;administrateur doit ajouter l&#39;utilisateur au profil de produit _Campai
 
 ### Vidéos utiles
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
 
 *Vérification de l&#39;ID org. IMS (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
 
 *Comment ajouter un administrateur aux administrateurs de profil de produit pour pouvoir utiliser le [!UICONTROL Panneau de contrôle] (01:03 min)*
 

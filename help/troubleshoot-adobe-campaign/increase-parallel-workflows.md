@@ -7,10 +7,10 @@ level: Experienced
 type: Troubleshooting
 jira: KT-8426
 exl-id: 9a31159a-ffc0-41d2-8c3b-68a5d6f77fc4
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 100%
+source-wordcount: '50'
+ht-degree: 96%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment augmenter le nombre de workflows de campagne pouvant être exécutés sur l&#39;instance en parallèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}

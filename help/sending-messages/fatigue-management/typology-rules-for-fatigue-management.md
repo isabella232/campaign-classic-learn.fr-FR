@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 48%
+source-wordcount: '145'
+ht-degree: 47%
 
 ---
 
@@ -24,6 +24,6 @@ Les règles de typologie permettent aux spécialistes marketing de normaliser pl
 
 Cette vidéo explique comment implémenter la gestion de la fatigue dans Adobe Campaign Classic en appliquant des règles de typologie.
 
->[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on){transcript=true}
 
 Consultez la documentation du produit pour en savoir plus sur [typologies de campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=fr).

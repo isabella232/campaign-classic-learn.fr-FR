@@ -7,10 +7,10 @@ level: Experienced
 type: Troubleshooting
 jira: KT-8383
 exl-id: b46a41a5-c439-440d-b492-dc6653ad5011
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 100%
+source-wordcount: '44'
+ht-degree: 95%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment filtrer les workflows pour lesquels la condition &quot;Conserver le résultat&quot; est définie sur true.
 
->[!VIDEO](https://video.tv.adobe.com/v/335888?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335888?quality=12&learn=on){transcript=true}
